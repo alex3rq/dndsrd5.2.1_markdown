@@ -579,6 +579,12 @@ in the Sphere must succeed on a DC 15 Dexterity saving throw or take 5d4 Force d
 
 An enclosed creature can take a Utilize action to push against the sphere's wall, moving the sphere up to half the creature's Speed. The sphere can be picked up, and its magic causes it to weigh only 1 pound, regardless of the weight of creatures inside.
 
+#### Bead of Nourishment
+
+*Wondrous Item, Common* 
+
+This flavorless, gelatinous bead dissolves on your tongue and provides as much nourishment as 1 day of Rations.
+
 #### Belt of Dwarvenkind
 
 *Wondrous Item, Rare (Requires Attunement)* While wearing this belt, you gain the following benefits:
@@ -800,6 +806,11 @@ While you wear this cloak, it magically projects an illusion that makes you appe
 *Wondrous Item, Uncommon (Requires Attunement)*
 
 While you wear this cloak, Wisdom (Perception) checks made to perceive you have Disadvantage, and you have Advantage on Dexterity (Stealth) checks.
+
+#### Cloak of Invisibility
+*Wondrous Item, Legendary (Requires Attunement)*
+
+This cloak has 3 charges and regains 1d3 expendedcharges daily at dawn. While wearing the cloak, you can take a Magic action to pull its hood over your head and expend 1 charge to give yourself the Invisible condition for 1 hour. The effect ends early if you pull the hood down (no action required) or cease wearing the cloak.
 
 #### Cloak of Protection
 
@@ -1110,11 +1121,33 @@ This gem contains a mote of elemental energy. When you take a Utilize action to 
 | Red corundum   | Fire Elemental     |
 | Yellow diamond | Earth Elemental    |
 
+#### Elixir of Health
+
+*Potion, Rare*
+
+When you drink this potion, you are cured of all magical contagions. In addition, the following conditions end on you: Blinded, Deafened, Paralyzed, and Poisoned.
+
+The clear, red liquid has tiny bubbles of light in it.
+
 #### Elven Chain
 
 *Armor (Chain Mail or Chain Shirt), Rare* 
 
 You gain a +1 bonus to Armor Class while you wear this armor. You are considered trained with this armor even if you lack training with Medium or Heavy armor.
+
+#### Energy Bow
+
+*Weapon (Longbow or Shortbow), Very Rare (Requires Attunement)*
+
+You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon, which has no string. Each time you pull your arm back in a firing motion, a magical arrow made of golden energy appears nocked and ready to fire. An arrow produced by this weapon deals Force damage instead of Piercing damage on a hit, and it disappears after it hits or misses its target. Until it disappears, the arrow emits Bright Light in a 20-foot radius and Dim Light for an additional 20 feet.
+
+This weapon has the following additional properties.
+
+**_Arrow of Restraint._** Whenever you use this weapon to make a ranged attack against a creature, you can try to restrain the target instead of dealing damage to it. If the arrow hits, the target must succeed on a DC 15 Strength saving throw or have the Restrained condition for 1 minute. As an action, a creature Restrained by an arrow can make a DC 20 Strength (Athletics) check to try to break the restraint, ending the effect on itself on a successful check.
+
+**_Arrow of Transport._** As a Magic action, you can fire one energy arrow from this weapon at a target you can see within 60 feet of yourself. The target can be either a willing Medium or smaller creature or an object that isn’t being worn or carried, provided the object is small enough to fit inside a 5-foot Cube. The arrow teleports the target to an unoccupied space you can see within 10 feet of you.
+
+**_Energy Ladder._** As a Magic action, you can loose a flurry of energy arrows from this weapon at a wall up to 60 feet away from yourself. The arrows become glowing rungs that stick out of the wall, forming a magical ladder up to 60 feet long on the wall. This ladder lasts for 1 minute before disappearing.
 
 #### Eversmoking Bottle
 
@@ -1326,6 +1359,12 @@ If you're hit by an attack roll made with a Ranged or Thrown weapon while wearin
 
 While wearing these gloves, you have a Climb Speed and a Swim Speed equal to your Speed, and you gain a +5 bonus to Strength (Athletics) checks made to climb or swim.
 
+#### Gloves of Thievery
+
+*Wondrous Item, Uncommon*
+
+These gloves are imperceptible while worn. While wearing them, you gain a +5 bonus to Dexterity (Sleight of Hand) checks.
+
 #### Goggles of Night
 
 *Wondrous Item, Uncommon* 
@@ -1365,6 +1404,32 @@ Placing the haversack inside an extradimensional space created by a *Bag of Hold
 *Wondrous Item, Uncommon (Requires Attunement)*
 
 While wearing this hat, you can cast the *Disguise Self* spell. The spell ends if the hat is removed.
+
+#### Hat of Many Spells
+
+*Wondrous Item, Very Rare (Requires Attunement by a Wizard)*
+
+This pointed hat has the following properties.
+
+**_Spellcasting Focus._** While holding the hat, you can use it as a Spellcasting Focus for your Wizard spells. Any spell you cast using the hat gains a special Somatic component: you must reach into the hat and “pull” the spell out of it.
+
+**_Unknown Spell._** While holding the hat, you can try to cast a level 1+ spell you don’t know. The spell must be on the Wizard spell list, it must be of a level you can cast, and it can’t have Material components costing more than 1,000 GP. Once you decide on the spell, you must expend a spell slot of the spell’s level. Then, to determine whether you cast the spell, make an Intelligence (Arcana) check (DC 10 plus the spell’s level). On a successful check, you cast the spell using its normal casting time, and you can’t use this property again until you finish a Short or Long Rest. On a failed check, you fail to cast the spell and a random effect occurs instead, determined by rolling on the following table.
+
+Any spell you cast from the hat uses your spell save DC and spell attack bonus.
+
+| 1d100 | Effect    |
+|-------|-----------|
+| 01–50 | You cast a random spell determined by rolling 1d10: on a **1**, Enlarge/Reduce (enlarge effect); on a **2**, Enlarge/Reduce (reduce effect); on a **3**, Faerie Fire; on a **4**, Fireball; on a **5**, Gust of Wind; on a **6**, Invisibility (cast on yourself); on a **7**, Lightning Bolt; on an **8**, Phantasmal Force; on a **9**, Polymorph; on a **10**, Stinking Cloud.    |
+| 51–55 | You have the Stunned condition until the end of your next turn, believing something awesome just happened.      |
+| 56–60 | A harmless swarm of butterflies fills a 10-foot Cube within 30 feet of yourself. The swarm disperses after 1 minute.       |
+| 61–65 | You pull a nonmagical object out of the hat. Roll 1d4 to determine the object: on a **1**, a vial of Acid; on a **2**, a flask of Alchemist’s Fire; on a **3**, a Crowbar; on a **4**, a lit Torch. |
+| 66–70 | TreeYou suffer a bout of “magic sickness” and have the Poisoned condition for 1 hour.      |
+| 71–75 | You have the Petrified condition until the end of your next turn.      |
+| 76-80 | You pull a nonmagical object out of the hat. Roll 1d4 to determine the object: on a **1**, a Dagger; on a **2**, a Rope with a Grappling Hook tied to one end; on a **3**, a bag of Caltrops; on a **4**, a gem worth 50 GP. |
+| 81-85 | A creature appears in an unoccupied space as close to you as possible. The creature isn’t under your control and acts as it normally would, and it disappears after 1 hour or when it drops to 0 Hit Points. Roll 1d4 to determine the creature: on a **1**, a **Camel**; on a **2**, a **Constrictor Snake**; on a **3**, an **Elephant**; on a **4**, a **Mule**.|
+| 86-90 | A Hostile **Swarm of Bats** flies out of the hat, occupies your space, and attacks you. |
+| 91-95 | A vertical, 10-foot-diameter, two-way portal to another plane of existence opens in an unoccupied space within 30 feet of you and remains open until the end of your next turn. The GM determines where it leads. |
+| 96-00 | You pull a magic item out of the hat. Roll 1d6 to determine the item’s rarity: on a **1–3**, Common; on a **4–5**, Uncommon; on a **6**, Rare. The GM chooses the item, which disappears after 1 hour if it’s not consumed or destroyed before then.|
 
 #### Headband of Intellect
 
@@ -2049,6 +2114,20 @@ This potion's blue liquid bubbles and steams as if boiling.
 
 This potion's container looks empty but feels as though it holds liquid. When you drink the potion, you have the Invisible condition for 1 hour. The effect ends early if you make an attack roll, deal damage, or cast a spell.
 
+#### Potion of Invulnerability
+
+*Potion, Rare*
+
+For 1 minute after you drink this potion, you have Resistance to all damage.
+This potion’s syrupy liquid looks like liquefied iron.
+
+#### Potion of Longevity
+
+*Potion, Very Rare*
+
+When you drink this potion, your physical age is reduced by 1d6 + 6 years, to a minimum of 13 years. Each time you subsequently drink a Potion of Longevity, there is 10 percent cumulative chance that you instead age by 1d6 + 6 years.
+Suspended in this amber liquid is a tiny heart that, against all reason, is still beating. These ingredients vanish when the potion is opened.
+
 #### Potion of Mind Reading
 
 *Potion, Rare* 
@@ -2092,6 +2171,14 @@ When you drink this potion, you gain the effect of the *Haste* spell for 1 minut
 
 This potion's yellow fluid is streaked with black and swirls on its own.
 
+#### Potion of Vitality
+
+*Potion, Very Rare*
+
+When you drink this potion, it removes any Exhaustion levels you have and ends the Poisoned condition on you. For the next 24 hours, you regain the maximum number of Hit Points for any Hit Point Die you spend.
+
+This potion’s crimson liquid regularly pulses with dull light, calling to mind a heartbeat.
+
 #### Potion of Water Breathing
 
 *Potion, Uncommon*
@@ -2099,6 +2186,24 @@ This potion's yellow fluid is streaked with black and swirls on its own.
 You can breathe underwater for 24 hours after drinking this potion.
 
 This potion's cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it.
+
+#### Quarterstaff of the Acrobat
+
+*Weapon (Quarterstaff), Very Rare (Requires Attunement)*
+
+You have a +2 bonus to attack rolls and damage rolls made with this magic weapon.
+
+While holding this weapon, you can cause it to emit green Dim Light out to 10 feet, either as a Bonus Action or after you roll Initiative, or you can extinguish the light as a Bonus Action.
+
+While holding this weapon, you can take a Bonus Action to alter its form, turning it into a 6-inch rod (for ease of storage) or a 10-foot pole, or reverting it a Quarterstaff; the weapon will elongate only as far as the surrounding space allows.
+
+In certain forms, the weapon has the following additional properties.
+
+**_Acrobatic Assist (Quarterstaff and 10-Foot Pole Forms Only)._** While holding this weapon, you have Advantage on Dexterity (Acrobatics) checks.
+
+**_Attack Deflection (Quarterstaff Form Only)._** When you are hit by an attack while holding the weapon, you can take a Reaction to twirl the weapon around you, gaining a +5 bonus to your Armor Class against the triggering attack, potentially causing the attack to miss you. You can’t use this property again until you finish a Short or Long Rest.
+
+**_Ranged Weapon (Quarterstaff Form Only)._** This weapon has the Thrown property with a normal range of 30 feet and a long range of 120 feet. Immediately after you make a ranged attack with the weapon, it flies back to your hand.
 
 #### Ring of Animal Influence
 
@@ -2437,6 +2542,14 @@ This rod has a flanged head, and it functions as a magic Mace that grants a +3 b
 
 **_Terrify._** While holding the rod, you can take a Magic action to force each creature you can see within 30 feet of yourself to make a DC 17 Wisdom saving throw. On a failed save, a target has the Frightened condition for 1 minute. A Frightened target repeats the save at the end of each of its turns, ending the effect on itself on a success. Once used, this property can't be used again until the next dawn.
 
+#### Rod of Resurrection
+
+*Rod, Legendary (Requires Attunement)*
+
+The rod has 5 charges. While you hold it, you can cast one of the following spells from it: Heal (expends 1 charge) or Resurrection (expends 5 charges).
+
+The rod regains 1 expended charge daily at dawn. If you expend the last charge, roll 1d20. On a 1, the rod disappears in a harmless burst of radiance.
+
 #### Rod of Rulership
 
 *Rod, Rare (Requires Attunement)*
@@ -2491,6 +2604,20 @@ This beetle-shaped medallion provides three benefits while it is on your person.
 
 You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon. In addition, you can make one attack with it as a Bonus Action on each of your turns.
 
+#### Sending Stones
+
+*Wondrous Item, Uncommon*
+
+Sending Stones come in pairs, with each stone carved to match the other so the pairing is easily recognized. While you touch one stone, you can cast Sending from it. The target is the bearer of the other stone. If no creature bears the other stone, you know that fact as soon as you use the stone, and you don’t cast the spell.
+
+Once Sending is cast using either stone, the stones can’t be used again until the next dawn. If one of the stones in a pair is destroyed, the other one becomes nonmagical.
+
+#### Sentinel Shield
+
+*Armor (Shield), Uncommon*
+
+While holding this Shield, you have Advantage on Initiative rolls and Wisdom (Perception) checks. The Shield is emblazoned with a symbol of an eye.
+
 #### Shield, +1, +2, or +3
 
 *Armor (Shield), Uncommon (+1), Rare (+2), or Very Rare (+3)*
@@ -2504,6 +2631,18 @@ While holding this Shield, you have a bonus to Armor Class determined by the Shi
 While holding this Shield, you have Resistance to damage from attacks made with Ranged weapons.
 
 **_Curse._** This Shield is cursed. Attuning to it curses you until you are targeted by a *Remove Curse* spell or similar magic. Removing the Shield fails to end the curse on you. Whenever an attack with a Ranged weapon targets a creature within 10 feet of you, the curse causes you to become the target instead.
+
+#### Shield of the Cavalier
+
+*Armor (Shield), Very Rare (Requires Attunement)*
+
+While holding this Shield, you have a +2 bonus to Armor Class. This bonus is in addition to the Shield’s normal bonus to AC.
+
+The Shield has the following additional properties that you can use while holding it.
+
+**_Forceful Bash._** When you take the Attack action, you can make one of the attack rolls using the Shield against a target within 5 feet of yourself. Apply your Proficiency Bonus and Strength modifier to the attack roll. On a hit, the Shield deals Force damage to the target equal to 2d6 + 2 plus your Strength modifier, and if the target is a creature, you can push it up to 10 feet directly away from yourself. If the creature is your size or smaller, you can also knock it down, giving it the Prone condition.
+
+**_Protective Field._** As a Reaction, when you or an ally you can see within 5 feet of you is targeted by an attack or makes a saving throw against an area of effect, you can use the Shield to create an immobile 5-foot Emanation originating from you. When the Emanation appears, any creatures or objects not fully contained within it are pushed into the nearest unoccupied spaces outside it. The attack or area of effect that triggered the Reaction has no effect on creatures and objects inside the Emanation, which lasts as long as you maintain Concentration, up to 1 minute. Nothing can pass into or out of the Emanation. A creature or object inside the Emanation can’t be damaged by attacks or effects originating from outside, nor can a creature inside the Emanation damage anything outside it. Once this property is used, it can’t be used again until the next dawn.
 
 #### Slippers of Spider Climbing
 
@@ -2844,6 +2983,18 @@ This item symbolizes unrepentant evil. A creature that isn't a Fiend or an Undea
 **_Holy Symbol._** You can use the talisman as a Holy Symbol. You gain a +2 bonus to spell attack rolls while you wear or hold it.
 
 **_Ultimate End._** The talisman has 6 charges. While wearing or holding the talisman, you can take a Magic action to expend 1 charge and target one creature you can see on the ground within 120 feet of yourself. A flaming fissure opens under the target, and the target makes a DC 20 Dexterity saving throw. If the target is a Celestial, it has Disadvantage on the save. On a failed save, the target falls into the fissure and is destroyed, leaving no remains. On a successful save, the target isn't cast into the fissure but takes 4d6 Psychic damage from the ordeal. In either case, the fissure then closes, leaving no trace of its existence. When you expend the last charge, the talisman dissolves into foul-smelling slime and is destroyed.
+
+#### Thunderous Greatclub
+
+*Weapon (Greatclub), Very Rare (Requires Attunement)*
+
+While you are attuned to this magic weapon, your Strength is 20 unless your Strength is already equal to or greater than that score. The weapon deals an extra 1d8 Thunder damage to any creature it hits and an extra 3d8 Thunder damage to objects it hits that aren’t being worn or carried.
+
+The weapon has the following additional properties.
+
+**_Clap of Thunder._** As a Magic action, you can strike the weapon against a hard surface to create a loud clap of thunder audible out to 300 feet. You also create a 30-foot Cone of thunderous energy. Each creature in the Cone must succeed on a DC 15 Strength saving throw or have the Prone condition. Nonmagical objects in the Cone that aren’t being worn or carried take 3d8 Thunder damage.
+
+**_Earthquake._** As a Magic action, you can strike the weapon against the ground to create an intense seismic disturbance in a 50-foot-radius circle centered on the point of impact. Structures in contact with the ground in that area take 50 Bludgeoning damage, and each creature on the ground in that area must succeed on a DC 20 Dexterity saving throw or have the Prone condition. If that creature is also concentrating, it must succeed on a DC 20 Constitution saving throw, or its Concentration is broken. In addition, you can cause a 30-foot-deep, 10-foot-wide fissure to open up on the ground anywhere in the area. Any creature on a spot where the fissure opens must make a DC 20 Dexterity saving throw, falling into the fissure on a failed save or moving with the fissure’s edge on a successful one. Any structure on a spot where the fissure opens collapses into the fissure. Once you use this property, it can’t be used again until the next dawn.
 
 #### Tome of Clear Thought
 
