@@ -13,4 +13,4 @@ function getAllFilePaths(dir: string): Array<string> {
 
 const allFiles = getAllFilePaths(src).sort().map((f) => Deno.readTextFileSync(f));
 
-Deno.writeTextFileSync('DND-SRD-5.2-CC.md', allFiles.join('\n'));
+Deno.writeTextFileSync('DND-SRD-5.2.1-CC.md', allFiles.join('\n'));
