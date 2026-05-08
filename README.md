@@ -1,4 +1,4 @@
-# DND 5.2 SRD in Markdown
+# DND 5.2.1 SRD in Markdown
 
 The project is roughly complete and currently should be widely useable.
 
