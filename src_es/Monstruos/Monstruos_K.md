@@ -2,18 +2,15 @@
 
 # **Kraken**
 
-# **Kraken**
-
 *Monstruosidad Gargantuesca (titán), caótica malvada*
 
 **CA:** 18 **Iniciativa:** +14 (24)
 
 **PG:** 481 (26d20 + 208) **Velocidad:** 9 m, nadar 36 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 30 |    |    | +10 +17    | Des 11 | +0 | +7         | Con 26 | +8 | +15        |
-| Int    | 22 | +6 | +6         | Sab 18 | +4 | +11        | Car 20 | +5 | +5         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 30 (+0) | 11 (+0) | 26 (+8) | 22 (+6) | 18 (+4) | 20 (+5) |
 
 **Habilidades:** Historia +13, Percepción +11 **Inmunidades:** frío, relámpago; agarrado, apresado, asustado, paralizado
 
@@ -21,7 +18,7 @@
 
 **VD:** 23 (50 000 PX o 62 000 en la guarida; BC +7)
 
-# Atributos
+### Atributos
 
 *Anfibio.* El kraken puede respirar tanto dentro como fuera del agua.
 
@@ -29,7 +26,7 @@
 
 *Resistencia legendaria (4/día o 5/día en la guarida).* El kraken puede elegir tener éxito en una tirada de salvación que haya fallado.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El kraken realiza dos ataques con sus tentáculos y lleva a cabo una acción de engullir, lanzar o relámpago.
 
@@ -43,7 +40,7 @@ Si el kraken sufre 50 o más de daño en un solo turno por parte de una criatura
 
 *Relámpago. Tirada de salvación de Destreza:* CD 23, una criatura que el kraken pueda ver a 36 m o menos. *Fallo:* 33 (6d10) de daño de relámpago. *Éxito:* la mitad del daño.
 
-# Acciones legendarias
+### Acciones legendarias
 
 *Usos de acciones legendarias: 3 (4 en la guarida). Justo después del turno de otra criatura, el kraken puede emplear un uso para llevar a cabo una de las siguientes acciones. El kraken recupera todos los usos al principio de cada uno de sus turnos.*
 

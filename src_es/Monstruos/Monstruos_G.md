@@ -1,7 +1,5 @@
 # **Gárgola**
 
-# **Gárgola**
-
 *Elemental Mediano, caótico malvado*
 
 **CA:** 15 **Iniciativa:** +2 (12)
@@ -10,32 +8,27 @@
 
 **Velocidad:** 9 m, volar 18 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 15 |   | +2 | +2         | Des 11 | +0 | +0         | Con 16 | +3 | +3         |
-| Int    | 6 | −2 | −2         | Sab 11 | +0 | +0         | Car 7  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 15 (+2) | 11 (+0) | 16 (+3) | 6 (−2) | 11 (+0) | 7 (−2) |
 
 **Habilidades:** Sigilo +4
 
-**Inmunidades:** veneno; cansancio, envenenado, petrificado **Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 10
+**Inmunidades:** veneno; cansancio, envenenado, petrificado **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 10
 
 **Idiomas:** primordial (terrano) **VD:** 2 (450 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Pasar volando.* La gárgola no provoca ataques de oportunidad cuando vuela para ponerse fuera del alcance de un enemigo.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* La gárgola realiza dos ataques con sus garras.
 
 *Garra. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 7 (2d4 + 2) de daño cortante.
 
 # **Garra reptante**
-
-# **Gelatina ocre**
 
 # **Gelatina ocre**
 
@@ -47,10 +40,9 @@ pasiva 10
 
 **Velocidad:** 6 m, trepar 6 m
 
-|        |   |    | MOD. SALV. |     |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|-----|---|----|------------|--------|----|------------|
-| Fue 15 |   | +2 | +2         | Des | 6 | −2 | −2         | Con 14 | +2 | +2         |
-| Int    | 2 | −4 | −4         | Sab | 6 | −2 | −2         | Car 1  | −5 | −5         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 15 (+2) | 6 (−2) | 14 (+2) | 2 (−4) | 6 (−2) | 1 (−5) |
 
 **Resistencias:** ácido
 
@@ -60,21 +52,19 @@ pasiva 10
 
 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Amorfa.* La gelatina puede moverse a través de un espacio de solo 2,5 cm de ancho sin gastar movimiento adicional para hacerlo.
 
 *Trepar cual arácnido.* La gelatina puede trepar por superficies difíciles e incluso recorrer techos sin tener que realizar pruebas de característica.
 
-# Acciones
+### Acciones
 
 *Pseudópodo. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 12 (3d6 + 2) de daño de ácido.
 
-# Reacciones
+### Reacciones
 
 *Dividirse. Detonante:* mientras sea Grande o Mediana y tenga 10 o más puntos de golpe, la gelatina pasa a estar maltrecha o recibe daño cortante o de relámpago. *Respuesta:* la gelatina se divide en dos nuevas **gelatinas ocres**. Cada nueva gelatina tiene un tamaño inferior al de la gelatina original y actúa en su orden de iniciativa. Los puntos de golpe de la gelatina original se dividen a partes iguales entre las nuevas gelatinas (redondeados hacia abajo).
-
-# **Ghast**
 
 # **Ghast**
 
@@ -84,28 +74,23 @@ pasiva 10
 
 **PG:** 36 (8d8) **Velocidad:** 9 m
 
-|        | MOD. SALV. |    |    |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|------------|----|----|--------|----|------------|--------|----|------------|
-| Fue 16 |            | +3 | +3 | Des 17 | +3 | +3         | Con 10 | +0 | +0         |
-| Int    | 11         | +0 | +0 | Sab 10 | +0 | +2         | Car 8  | −1 | −1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 16 (+3) | 17 (+3) | 10 (+0) | 11 (+0) | 10 (+0) | 8 (−1) |
 
 **Resistencias:** necrótico
 
-**Inmunidades:** veneno; cansancio, envenenado, hechizado **Sentidos:** visión en la oscuridad 18 m; Percepción
+**Inmunidades:** veneno; cansancio, envenenado, hechizado **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 10 **Idiomas:** común **VD:** 2 (450 PX; BC +2)
 
-pasiva 10 **Idiomas:** común **VD:** 2 (450 PX; BC +2)
-
-# Atributos
+### Atributos
 
 *Hedor. Tirada de salvación de Constitución:* CD 10, cualquier criatura que empiece su turno en una emanación de 1,5 m que se origina en el ghast. *Fallo:* el objetivo tendrá el estado de envenenado hasta el principio de su siguiente turno. *Éxito:* el objetivo será inmune al hedor de este ghast durante 24 horas.
 
-# Acciones
+### Acciones
 
 *Garra. Tirada de ataque cuerpo a cuerpo:* +5, alcance 1,5 m. *Acierto:* 10 (2d6 + 3) de daño cortante. Si el objetivo es una criatura que no sea un muerto viviente, sufre el siguiente efecto. *Tirada de salvación de Constitución:* CD 10. *Fallo:* el objetivo tendrá el estado de paralizado hasta el final de su siguiente turno.
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +5, alcance 1,5 m. *Acierto:* 7 (1d8 + 3) de daño perforante más 9 (2d8) de daño necrótico.
-
-# **Gigante de escarcha**
 
 # **Gigante de escarcha**
 
@@ -115,10 +100,9 @@ pasiva 10 **Idiomas:** común **VD:** 2 (450 PX; BC +2)
 
 **PG:** 149 (13d12 + 65) **Velocidad:** 12 m
 
-|        |   |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue 23 |   | +6 | +6         | Des    | 9 | −1 | −1         | Con 21 | +5 | +8         |
-| Int    | 9 | −1 | −1         | Sab 10 |   | +0 | +3         | Car 12 | +1 | +4         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 23 (+6) | 9 (−1) | 21 (+5) | 9 (−1) | 10 (+0) | 12 (+1) |
 
 **Habilidades:** Atletismo +9, Percepción +3
 
@@ -140,18 +124,15 @@ pasiva 10 **Idiomas:** común **VD:** 2 (450 PX; BC +2)
 
 # **Gigante de fuego**
 
-# **Gigante de fuego**
-
 *Gigante Enorme, legal malvado*
 
 **CA:** 18 **Iniciativa:** +3 (13)
 
 **PG:** 162 (13d12 + 78) **Velocidad:** 9 m
 
-|        |    |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue 25 |    | +7 | +7         | Des    | 9 | −1 | +3         | Con 23 | +6 | +10        |
-| Int    | 10 | +0 | +0         | Sab 14 |   | +2 | +2         | Car 13 | +1 | +5         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 25 (+7) | 9 (−1) | 23 (+6) | 10 (+0) | 14 (+2) | 13 (+1) |
 
 **Habilidades:** Atletismo +11, Percepción +6
 
@@ -161,7 +142,7 @@ pasiva 10 **Idiomas:** común **VD:** 2 (450 PX; BC +2)
 
 **Idiomas:** gigante **VD:** 9 (5000 PX; BC +4)
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El gigante realiza dos ataques con su espada flamígera o su lanzamiento de martillo en cualquier combinación.
 
@@ -171,32 +152,27 @@ pasiva 10 **Idiomas:** común **VD:** 2 (450 PX; BC +2)
 
 # **Gigante de las colinas**
 
-# **Gigante de las colinas**
-
 *Gigante Enorme, caótico malvado*
 
 **CA:** 13 **Iniciativa:** +2 (12)
 
 **PG:** 105 (10d12 + 40) **Velocidad:** 12 m
 
-|        |   |    | MOD. SALV. |     |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|-----|---|----|------------|--------|----|------------|
-| Fue 21 |   | +5 | +5         | Des | 8 | −1 | −1         | Con 19 | +4 | +4         |
-| Int    | 5 | −3 | −3         | Sab | 9 | −1 | −1         | Car 6  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 21 (+5) | 8 (−1) | 19 (+4) | 5 (−3) | 9 (−1) | 6 (−2) |
 
 **Habilidades:** Percepción +2 **Sentidos:** Percepción pasiva 12
 
 **Idiomas:** gigante **VD:** 5 (1800 PX; BC +3)
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El gigante hace dos ataques con su árbol garrote o su lanzamiento de basura en cualquier combinación.
 
 *Árbol garrote. Tirada de ataque cuerpo a cuerpo:* +8, alcance 3 m. *Acierto:* 18 (3d8 + 5) de daño contundente. Si el objetivo es una criatura Grande o más pequeña, tendrá el estado de derribada.
 
 *Lanzamiento de basura. Tirada de ataque a distancia:* +8, alcance 18/72 m. *Acierto:* 16 (2d10 + 5) de daño contundente y el objetivo tendrá el estado de envenenado hasta el final de su siguiente turno.
-
-# **Gigante de las nubes**
 
 # **Gigante de las nubes**
 
@@ -217,7 +193,7 @@ pasiva 10 **Idiomas:** común **VD:** 2 (450 PX; BC +2)
 
 **Sentidos:** Percepción pasiva 21 **Idiomas:** común, gigante **VD:** 9 (5000 PX; BC +4)
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El gigante realiza dos ataques con su maza atronadora o su nube de tormenta en cualquier combinación. Puede sustituir un ataque por un uso de su lanzamiento de conjuros para lanzar *nube de oscurecimiento*.
 
@@ -237,8 +213,6 @@ pasiva 10 **Idiomas:** común **VD:** 2 (450 PX; BC +2)
 
 # **Gigante de las tormentas**
 
-# **Gigante de las tormentas**
-
 *Gigante Enorme, caótico bueno*
 
 **CA:** 16 **Iniciativa:** +7 (17)
@@ -247,14 +221,11 @@ pasiva 10 **Idiomas:** común **VD:** 2 (450 PX; BC +2)
 
 **Velocidad:** 15 m, nadar 15 m, volar 7,5 m (levitar)
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 29 |    | +9 | +14        | Des 14 | +2 | +2         | Con 20 | +5 | +10        |
-| Int    | 16 | +3 | +3         | Sab 20 | +5 | +10        | Car 18 | +4 | +9         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 29 (+9) | 14 (+2) | 20 (+5) | 16 (+3) | 20 (+5) | 18 (+4) |
 
-**Habilidades:** Atletismo +14, Conocimiento arcano +8,
-
-Historia +8, Percepción +10
+**Habilidades:** Atletismo +14, Conocimiento arcano +8, Historia +8, Percepción +10
 
 **Resistencias:** frío
 
@@ -264,11 +235,11 @@ Historia +8, Percepción +10
 
 9 m; Percepción pasiva 20 **Idiomas:** común, gigante **VD:** 13 (10 000 PX; BC +5)
 
-# Atributos
+### Atributos
 
 *Anfibio.* El gigante puede respirar tanto dentro como fuera del agua.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El gigante realiza dos ataques con su espada tormentosa o su rayo en cualquier combinación.
 
@@ -284,8 +255,6 @@ Historia +8, Percepción +10
 
 # **Gigante de piedra**
 
-# **Gigante de piedra**
-
 *Gigante Enorme, neutral*
 
 **CA:** 17 **Iniciativa:** +5 (15)
@@ -297,11 +266,9 @@ Historia +8, Percepción +10
 | Fue 23    | +6<br>+6   | Des 15 | +2<br>+5   | Con 20 | +5 | +8         |
 | Int<br>10 | +0<br>+0   | Sab 12 | +1<br>+4   | Car 9  | −1 | −1         |
 
-**Habilidades:** Atletismo +12, Percepción +4, Sigilo +5 **Sentidos:** visión en la oscuridad 18 m; Percepción
+**Habilidades:** Atletismo +12, Percepción +4, Sigilo +5 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 14 **Idiomas:** gigante **VD:** 7 (2900 PX; BC +3)
 
-pasiva 14 **Idiomas:** gigante **VD:** 7 (2900 PX; BC +3)
-
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El gigante realiza dos ataques con su garrote de piedra o pedrusco en cualquier combinación.
 
@@ -309,11 +276,9 @@ pasiva 14 **Idiomas:** gigante **VD:** 7 (2900 PX; BC +3)
 
 *Pedrusco. Tirada de ataque a distancia:* +9, alcance 18/72 m. *Acierto:* 15 (2d8 + 6) de daño contundente. Si el objetivo es una criatura Grande o más pequeña, tendrá el estado de derribada.
 
-# Reacciones
+### Reacciones
 
 *Desviar proyectiles (recarga 5–6). Detonante:* una tirada de ataque a distancia acierta al gigante y le hace daño contundente, cortante o perforante. *Respuesta:* el gigante reduce en 11 (1d10 + 6) el daño que recibe del ataque. Si lo reduce a 0, el gigante puede redirigir una parte de la fuerza del ataque. *Tirada de salvación de Destreza:* CD 17, una criatura que el gigante pueda ver a 18 m o menos. *Fallo:* 11 (1d10 + 6) de daño de fuerza.
-
-# **Glabrezu**
 
 # **Glabrezu**
 
@@ -323,10 +288,9 @@ pasiva 14 **Idiomas:** gigante **VD:** 7 (2900 PX; BC +3)
 
 **PG:** 189 (18d10 + 90) **Velocidad:** 12 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 20 |    | +5 | +9         | Des 15 | +2 | +2         | Con 21 | +5 | +9         |
-| Int    | 19 | +4 | +4         | Sab 17 | +3 | +7         | Car 16 | +3 | +7         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 20 (+5) | 15 (+2) | 21 (+5) | 19 (+4) | 17 (+3) | 16 (+3) |
 
 **Habilidades:** Engaño +7, Percepción +7 **Resistencias:** frío, fuego, relámpago **Inmunidades:** veneno; envenenado
 
@@ -334,13 +298,13 @@ pasiva 14 **Idiomas:** gigante **VD:** 7 (2900 PX; BC +3)
 
 **Idiomas:** abisal; telepatía 36 m **VD:** 9 (5000 PX; BC +4)
 
-# Atributos
+### Atributos
 
 *Recuperación demoníaca.* Si el glabrezu muere fuera del Abismo, su cuerpo se disuelve en icor, obtiene un cuerpo nuevo al instante y revive con todos sus puntos de golpe en algún lugar del Abismo.
 
 *Resistencia mágica.* El glabrezu tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El glabrezu realiza dos ataques con sus tenazas y usa su acción de aporrear o de lanzamiento de conjuros.
 
@@ -354,18 +318,15 @@ pasiva 14 **Idiomas:** gigante **VD:** 7 (2900 PX; BC +3)
 
 # **Gladiador**
 
-# **Gladiador**
-
 *Humanoide Mediano o Pequeño, neutral*
 
 **CA:** 16 **Iniciativa:** +5 (15)
 
 **PG:** 112 (15d8 + 45) **Velocidad:** 9 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 18 |    | +4 | +7         | Des 15 | +2 | +5         | Con 16 | +3 | +6         |
-| Int    | 10 | +0 | +0         | Sab 12 | +1 | +4         | Car 15 | +2 | +2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 12 (+1) | 15 (+2) |
 
 **Habilidades:** Atletismo +10, Interpretación +5
 
@@ -375,7 +336,7 @@ pasiva 14 **Idiomas:** gigante **VD:** 7 (2900 PX; BC +3)
 
 **Idiomas:** común **VD:** 5 (1800 PX; BC +3)
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El gladiador realiza tres ataques con sus lanzas. Puede sustituir un ataque por un uso de su golpe con escudo.
 
@@ -383,7 +344,7 @@ pasiva 14 **Idiomas:** gigante **VD:** 7 (2900 PX; BC +3)
 
 *Golpe con escudo. Tirada de salvación de Fuerza:* CD 15, una criatura a 1,5 m o menos que el gladiador pueda ver. *Fallo:* 9 (2d4 + 4) de daño contundente. Si el objetivo es una criatura Mediana o más pequeña, tendrá el estado de derribada.
 
-# Reacciones
+### Reacciones
 
 *Parada. Detonante:* una tirada de ataque cuerpo a cuerpo acierta al gladiador mientras sostiene un arma. *Respuesta:* el gladiador suma 3 a su CA contra ese ataque, lo que puede hacer que falle.
 
@@ -397,18 +358,15 @@ pasiva 14 **Idiomas:** gigante **VD:** 7 (2900 PX; BC +3)
 
 **PG:** 27 (6d8) **Velocidad:** 9 m
 
-|        | MOD. SALV. |    |    |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|------------|----|----|--------|----|------------|--------|----|------------|
-| Fue 14 |            | +2 | +2 | Des 12 | +1 | +1         | Con 11 | +0 | +0         |
-| Int    | 6          | −2 | −2 | Sab 10 | +0 | +0         | Car 7  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 14 (+2) | 12 (+1) | 11 (+0) | 6 (−2) | 10 (+0) | 7 (−2) |
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 10 **Idiomas:** gnoll
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 10 **Idiomas:** gnoll
 
 **VD:** 1/2 (100 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Desgarro. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 5 (1d6 + 2) de daño perforante.
 
@@ -428,10 +386,9 @@ pasiva 10 **Idiomas:** gnoll
 
 **PG:** 10 (3d6) **Velocidad:** 9 m
 
-|     |    |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|----|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue | 8  | −1 | −1         | Des 15 |   | +2 | +2         | Con 10 | +0 | +0         |
-| Int | 10 | +0 | +0         | Sab    | 8 | −1 | −1         | Car 8  | −1 | −1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 8 (−1) | 15 (+2) | 10 (+0) | 10 (+0) | 8 (−1) | 8 (−1) |
 
 **Habilidades:** Sigilo +6
 
@@ -439,7 +396,7 @@ pasiva 10 **Idiomas:** gnoll
 
 **Idiomas:** común, goblin **VD:** 1/4 (50 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Cimitarra. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 5 (1d6 + 2) de daño cortante más 2 (1d4) de daño cortante si la tirada de ataque tenía ventaja.
 
@@ -451,18 +408,15 @@ pasiva 10 **Idiomas:** gnoll
 
 # **Gólem de arcilla**
 
-# **Gólem de arcilla**
-
 *Autómata Grande, sin alineamiento*
 
 **CA:** 14 **Iniciativa:** +3 (13)
 
 **PG:** 123 (13d10 + 52) **Velocidad:** 9 m
 
-|        |   |    | MOD. SALV. |     |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|-----|---|----|------------|--------|----|------------|
-| Fue 20 |   | +5 | +5         | Des | 9 | −1 | −1         | Con 18 | +4 | +4         |
-| Int    | 3 | −4 | −4         | Sab | 8 | −1 | −1         | Car 1  | −5 | −5         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 20 (+5) | 9 (−1) | 18 (+4) | 3 (−4) | 8 (−1) | 1 (−5) |
 
 **Resistencias:** contundente, cortante, perforante
 
@@ -474,7 +428,7 @@ pasiva 10 **Idiomas:** gnoll
 
 **VD:** 9 (5000 PX; BC +4)
 
-# Atributos
+### Atributos
 
 *Absorción de ácido.* Siempre que fuese a recibir daño de ácido, el gólem no sufre ese daño y recupera una cantidad de puntos de golpe igual al daño de ácido infligido.
 
@@ -484,7 +438,7 @@ pasiva 10 **Idiomas:** gnoll
 
 *Resistencia mágica.* El gólem tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El gólem realiza dos ataques con su golpe o tres si ha utilizado la acción adicional de prisa en este turno.
 
@@ -496,18 +450,15 @@ pasiva 10 **Idiomas:** gnoll
 
 # **Gólem de carne**
 
-# **Gólem de carne**
-
 *Autómata Mediano, neutral*
 
 **CA:** 9 **Iniciativa:** −1 (9)
 
 **PG:** 127 (15d8 + 60) **Velocidad:** 9 m
 
-|        |   |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue 19 |   | +4 | +4         | Des    | 9 | −1 | −1         | Con 18 | +4 | +4         |
-| Int    | 6 | −2 | −2         | Sab 10 |   | +0 | +0         | Car 5  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 19 (+4) | 9 (−1) | 18 (+4) | 6 (−2) | 10 (+0) | 5 (−3) |
 
 **Inmunidades:** relámpago, veneno; asustado, cansancio, envenenado, hechizado, paralizado, petrificado
 
@@ -519,7 +470,7 @@ hablar
 
 **VD:** 5 (1800 PX; BC +3)
 
-# Atributos
+### Atributos
 
 *Absorción de relámpago.* Siempre que fuese a recibir daño de relámpago, el gólem recupera una cantidad de puntos de golpe igual al daño de relámpago infligido.
 
@@ -533,13 +484,11 @@ Si el creador del gólem está a 18 m o menos de este, podrá intentar calmarlo 
 
 *Resistencia mágica.* El gólem tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El gólem realiza dos ataques con su golpe.
 
 *Golpe. Tirada de ataque cuerpo a cuerpo:* +7, alcance 1,5 m. *Acierto:* 13 (2d8 + 4) de daño contundente más 4 (1d8) de daño de relámpago.
-
-# **Gólem de hierro**
 
 # **Gólem de hierro**
 
@@ -551,10 +500,9 @@ Si el creador del gólem está a 18 m o menos de este, podrá intentar calmarlo 
 
 **Velocidad:** 9 m
 
-|        |   |    | MOD. SALV. |        |   |    | MOD. SALV. |        | MOD. SALV. |    |
-|--------|---|----|------------|--------|---|----|------------|--------|------------|----|
-| Fue 24 |   | +7 | +7         | Des    | 9 | −1 | −1         | Con 20 | +5         | +5 |
-| Int    | 3 | −4 | −4         | Sab 11 |   | +0 | +0         | Car 1  | −5         | −5 |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 24 (+7) | 9 (−1) | 20 (+5) | 3 (−4) | 11 (+0) | 1 (−5) |
 
 **Inmunidades:** fuego, psíquico, veneno; asustado, cansancio, envenenado, hechizado, paralizado, petrificado
 
@@ -564,7 +512,7 @@ Si el creador del gólem está a 18 m o menos de este, podrá intentar calmarlo 
 
 **VD:** 16 (15 000 PX; BC +5)
 
-# Atributos
+### Atributos
 
 *Absorción de fuego.* Siempre que fuese a recibir daño de fuego, el gólem recupera una cantidad de puntos de golpe igual al daño de fuego infligido.
 
@@ -572,7 +520,7 @@ Si el creador del gólem está a 18 m o menos de este, podrá intentar calmarlo 
 
 *Resistencia mágica.* El gólem tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El gólem realiza dos ataques con su brazo cuchilla o su rayo ardiente en cualquier combinación.
 
@@ -584,22 +532,17 @@ Si el creador del gólem está a 18 m o menos de este, podrá intentar calmarlo 
 
 # **Gólem de piedra**
 
-# **Gólem de piedra**
-
 *Autómata Grande, sin alineamiento*
 
 **CA:** 18 **Iniciativa:** +3 (13)
 
 **PG:** 220 (21d10 + 105) **Velocidad:** 9 m
 
-|     |        |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|--------|----|------------|--------|---|----|------------|--------|----|------------|
-|     | Fue 22 | +6 | +6         | Des    | 9 | −1 | −1         | Con 20 | +5 | +5         |
-| Int | 3      | −4 | −4         | Sab 11 |   | +0 | +0         | Car 1  | −5 | −5         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 22 (+6) | 9 (−1) | 20 (+5) | 3 (−4) | 11 (+0) | 1 (−5) |
 
-**Inmunidades:** psíquico, veneno; asustado, cansancio, envenenado, hechizado, paralizado, petrificado **Sentidos:** visión en la oscuridad 36 m; Percepción
-
-pasiva 10
+**Inmunidades:** psíquico, veneno; asustado, cansancio, envenenado, hechizado, paralizado, petrificado **Sentidos:** visión en la oscuridad 36 m; Percepción pasiva 10
 
 **Idiomas:** entiende común y otros dos idiomas, pero no
 
@@ -607,13 +550,13 @@ puede hablar
 
 **VD:** 10 (5900 PX; BC +4)
 
-# Atributos
+### Atributos
 
 *Forma inmutable.* El gólem no puede cambiar de forma.
 
 *Resistencia mágica.* El gólem tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El gólem realiza dos ataques con su golpe o su rayo de fuerza en cualquier combinación.
 
@@ -624,8 +567,6 @@ puede hablar
 # Acciones adicionales
 
 *Ralentizar (recarga 5–6).* El gólem lanza el conjuro *ralentizar*, que no requiere componentes y utiliza la Constitución como aptitud mágica (CD de salvación de conjuros 17).
-
-# **Gorgon**
 
 # **Gorgon**
 
@@ -644,11 +585,9 @@ puede hablar
 
 **Inmunidades:** cansancio, petrificado
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 17 **Idiomas:** ninguno **VD:** 5 (1800 PX; BC +3)
 
-pasiva 17 **Idiomas:** ninguno **VD:** 5 (1800 PX; BC +3)
-
-# Acciones
+### Acciones
 
 *Cornada. Tirada de ataque cuerpo a cuerpo:* +8, alcance 1,5 m. *Acierto:* 18 (2d12 + 5) de daño perforante. Si el objetivo es una criatura Grande o más pequeña y el gorgon recorre al menos 6 m en línea recta hacia ella justo antes de acertarle, tendrá el estado de derribada.
 
@@ -660,8 +599,6 @@ pasiva 17 **Idiomas:** ninguno **VD:** 5 (1800 PX; BC +3)
 
 # **Grick**
 
-# **Grick**
-
 *Aberración Mediana, sin alineamiento*
 
 **CA:** 14 **Iniciativa:** +2 (12)
@@ -670,26 +607,21 @@ pasiva 17 **Idiomas:** ninguno **VD:** 5 (1800 PX; BC +3)
 
 **Velocidad:** 9 m, trepar 9 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 14 |   | +2 | +2         | Des 14 | +2 | +2         | Con 11 | +0 | +0         |
-| Int    | 3 | −4 | −4         | Sab 14 | +2 | +2         | Car 5  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 14 (+2) | 14 (+2) | 11 (+0) | 3 (−4) | 14 (+2) | 5 (−3) |
 
 **Habilidades:** Sigilo +4
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 12 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
-pasiva 12 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
-
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El grick realiza un ataque con su pico y uno con sus tentáculos.
 
 *Pico. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 9 (2d6 + 2) de daño perforante.
 
 *Tentáculos. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 7 (1d10 + 2) de daño cortante. Si el objetivo es una criatura Mediana o más pequeña, tendrá el estado de agarrada (CD 12 para escapar) por los cuatro tentáculos.
-
-# **Grifo**
 
 # **Grifo**
 
@@ -701,24 +633,19 @@ pasiva 12 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
 **Velocidad:** 9 m, volar 24 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 18 |   | +4 | +4         | Des 15 | +2 | +2         | Con 16 | +3 | +3         |
-| Int    | 2 | −4 | −4         | Sab 13 | +1 | +1         | Car 8  | −1 | −1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 18 (+4) | 15 (+2) | 16 (+3) | 2 (−4) | 13 (+1) | 8 (−1) |
 
 **Habilidades:** Percepción +5
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 15 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
-pasiva 15 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
-
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El grifo realiza dos ataques de desgarro.
 
 *Desgarro. Tirada de ataque cuerpo a cuerpo:* +6, alcance 1,5 m. *Acierto:* 8 (1d8 + 4) de daño perforante. Si el objetivo es una criatura Mediana o más pequeña, tendrá el estado de agarrada (CD 14 para escapar) por ambas garras delanteras del grifo.
-
-# **Grimlock**
 
 # **Grimlock**
 
@@ -730,20 +657,17 @@ pasiva 15 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
 **Velocidad:** 9 m, trepar 9 m
 
-|        |   |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue 16 |   | +3 | +3         | Des 12 |   | +1 | +1         | Con 12 | +1 | +1         |
-| Int    | 9 | −1 | −1         | Sab    | 8 | −1 | −1         | Car 6  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 16 (+3) | 12 (+1) | 12 (+1) | 9 (−1) | 8 (−1) | 6 (−2) |
 
 **Habilidades:** Atletismo +5, Percepción +3, Sigilo +5 **Sentidos:** visión ciega 9 m; Percepción pasiva 13
 
 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Garrote óseo. Tirada de ataque cuerpo a cuerpo:* +5, alcance 1,5 m. *Acierto:* 6 (1d6 + 3) de daño contundente más 2 (1d4) de daño psíquico.
-
-# **Guardián escudo**
 
 # **Guardián escudo**
 
@@ -753,10 +677,9 @@ pasiva 15 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
 **PG:** 142 (15d10 + 60) **Velocidad:** 9 m
 
-|        |   |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue 18 |   | +4 | +4         | Des    | 8 | −1 | −1         | Con 18 | +4 | +4         |
-| Int    | 7 | −2 | −2         | Sab 10 |   | +0 | +0         | Car 3  | −4 | −4         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 18 (+4) | 8 (−1) | 18 (+4) | 7 (−2) | 10 (+0) | 3 (−4) |
 
 **Inmunidades:** veneno; asustado, cansancio, envenenado, hechizado, paralizado, petrificado
 
@@ -766,7 +689,7 @@ pasiva 15 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
 **VD:** 7 (2900 PX; BC +3)
 
-# Atributos
+### Atributos
 
 *Almacenar conjuros.* El lanzador de conjuros que porte el amuleto del guardián podrá hacer que el guardián almacene un conjuro de nivel 4 o menos. Para ello, el portador deberá lanzar el conjuro sobre el guardián estando a 1,5 m o menos. Este conjuro, en vez de tener efecto, se almacenará en él. Cualquier conjuro almacenado anteriormente se perderá cuando se almacene uno nuevo. El guardián puede lanzar el conjuro almacenado siguiendo los parámetros definidos por el lanzador original sin necesidad de componentes y empleará la aptitud mágica del lanzador. Luego, el conjuro almacenado se perderá.
 
@@ -774,13 +697,13 @@ pasiva 15 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
 *Vínculo.* El guardián está vinculado mágicamente a un amuleto. Mientras ambos se encuentren en el mismo plano de existencia, el portador del amuleto podrá llamar telepáticamente al guardián para que acuda a su lado, y el guardián conocerá la distancia que le separa del amuleto y en qué dirección se halla. Si el guardián está situado a 18 m o menos del portador del amuleto, la mitad del daño que reciba este (redondeado hacia arriba) será transferido al guardián.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El guardián realiza dos ataques de puñetazo.
 
 *Puñetazo. Tirada de ataque cuerpo a cuerpo:* +7, alcance 3 m. *Acierto:* 11 (2d6 + 4) de daño contundente más 7 (2d6) de daño de fuerza.
 
-# Reacciones
+### Reacciones
 
 *Protección. Detonante:* una tirada de ataque acierta al portador del amuleto del guardián mientras está a 1,5 m o menos de él. *Respuesta:* hasta el principio del siguiente turno del guardián, el portador obtiene un bonificador de +5 a la CA, incluido contra el ataque al que reacciona, lo que puede hacer que falle.
 
@@ -794,10 +717,9 @@ pasiva 15 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
 **PG:** 11 (2d8 + 2) **Velocidad:** 9 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 13 |    | +1 | +1         | Des 12 | +1 | +1         | Con 12 | +1 | +1         |
-| Int    | 10 | +0 | +0         | Sab 11 | +0 | +0         | Car 10 | +0 | +0         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 11 (+0) | 10 (+0) |
 
 **Habilidades:** Percepción +2
 
@@ -807,7 +729,7 @@ pasiva 15 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
 **Idiomas:** común **VD:** 1/8 (25 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Lanza. Tirada de ataque cuerpo a cuerpo o a distancia:* +3, alcance 1,5 m o 6/18 m a distancia. *Acierto:* 4 (1d6 + 1) de daño perforante.
 
@@ -819,20 +741,19 @@ pasiva 15 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
 **PG:** 9 (2d8) **Velocidad:** 9 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 13 |   | +1 | +1         | Des 11 | +0 | +0         | Con 11 | +0 | +0         |
-| Int    | 8 | −1 | −1         | Sab 11 | +0 | +0         | Car 8  | −1 | −1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 13 (+1) | 11 (+0) | 11 (+0) | 8 (−1) | 11 (+0) | 8 (−1) |
 
 **Equipo:** camisa de malla, lanza **Sentidos:** Percepción pasiva 10
 
 **Idiomas:** común **VD:** 1/8 (25 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Atacar en grupo.* El guerrero tiene ventaja en una tirada de ataque contra una criatura si al menos uno de los aliados del guerrero se encuentra a 1,5 m o menos de la criatura y no tiene el estado de incapacitado.
 
-# Acciones
+### Acciones
 
 *Lanza. Tirada de ataque cuerpo a cuerpo o a distancia:* +3, alcance 1,5 m o 6/18 m a distancia. *Acierto:* 4 (1d6 + 1) de daño perforante.
 
@@ -844,10 +765,9 @@ pasiva 15 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
 **PG:** 65 (10d8 + 20) **Velocidad:** 9 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 16 |    | +3 | +3         | Des 13 | +1 | +1         | Con 14 | +2 | +2         |
-| Int    | 10 | +0 | +0         | Sab 11 | +0 | +0         | Car 10 | +0 | +0         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
 
 **Habilidades:** Atletismo +5, Percepción +2
 
@@ -857,7 +777,7 @@ pasiva 15 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
 **VD:** 3 (700 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El guerrero realiza dos ataques con su espadón o su ballesta pesada.
 
@@ -865,11 +785,9 @@ pasiva 15 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
 *Ballesta pesada. Tirada de ataque a distancia:* +3, alcance 30/120 m. *Acierto:* 12 (2d10 + 1) de daño perforante.
 
-# Reacciones
+### Reacciones
 
 *Parada. Detonante:* una tirada de ataque cuerpo a cuerpo acierta al guerrero mientras sostiene un arma. *Respuesta:* el guerrero suma 2 a su CA contra ese ataque, lo que puede hacer que falle.
-
-# **Guiverno**
 
 # **Guiverno**
 
@@ -879,18 +797,15 @@ pasiva 15 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
 **PG:** 127 (15d10 + 45) **Velocidad:** 9 m, volar 24 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 19 |   | +4 | +4         | Des 10 | +0 | +0         | Con 16 | +3 | +3         |
-| Int    | 5 | −3 | −3         | Sab 12 | +1 | +1         | Car 6  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 19 (+4) | 10 (+0) | 16 (+3) | 5 (−3) | 12 (+1) | 6 (−2) |
 
 **Habilidades:** Percepción +4
 
-**Sentidos:** visión en la oscuridad 36 m; Percepción
+**Sentidos:** visión en la oscuridad 36 m; Percepción pasiva 14 **Idiomas:** ninguno **VD:** 6 (2300 PX; BC +3)
 
-pasiva 14 **Idiomas:** ninguno **VD:** 6 (2300 PX; BC +3)
-
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El guiverno realiza un ataque de mordisco y uno con su aguijón.
 
@@ -900,32 +815,25 @@ pasiva 14 **Idiomas:** ninguno **VD:** 6 (2300 PX; BC +3)
 
 # **Gul**
 
-# **Gul**
-
 *Muerto viviente Mediano, caótico malvado*
 
 **CA:** 12 **Iniciativa:** +2 (12)
 
 **PG:** 22 (5d8) **Velocidad:** 9 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 13 |   | +1 | +1         | Des 15 | +2 | +2         | Con 10 | +0 | +0         |
-| Int    | 7 | −2 | −2         | Sab 10 | +0 | +0         | Car 6  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 13 (+1) | 15 (+2) | 10 (+0) | 7 (−2) | 10 (+0) | 6 (−2) |
 
-**Inmunidades:** veneno; cansancio, envenenado, hechizado **Sentidos:** visión en la oscuridad 18 m; Percepción
+**Inmunidades:** veneno; cansancio, envenenado, hechizado **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 10 **Idiomas:** común **VD:** 1 (200 PX; BC +2)
 
-pasiva 10 **Idiomas:** común **VD:** 1 (200 PX; BC +2)
-
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El gul realiza dos ataques de mordisco.
 
 *Garra. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 4 (1d4 + 2) de daño cortante. Si el objetivo es una criatura que no sea un muerto viviente o un elfo, sufre el siguiente efecto. *Tirada de salvación de Constitución:* CD 10. *Fallo:* el objetivo tendrá el estado de paralizado hasta el final de su siguiente turno.
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 5 (1d6 + 2) de daño perforante más 3 (1d6) de daño necrótico.
-
-# **Gusano púrpura**
 
 # **Gusano púrpura**
 
@@ -937,22 +845,19 @@ pasiva 10 **Idiomas:** común **VD:** 1 (200 PX; BC +2)
 
 **Velocidad:** 15 m, excavar 15 m
 
-|        |   | MOD. SALV. |    |     |   | MOD. SALV. |    |        | MOD. SALV. |     |
-|--------|---|------------|----|-----|---|------------|----|--------|------------|-----|
-| Fue 28 |   | +9         | +9 | Des | 7 | −2         | −2 | Con 22 | +6         | +11 |
-| Int    | 1 | −5         | −5 | Sab | 8 | −1         | +4 | Car 4  | −3         | −3  |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 28 (+9) | 7 (−2) | 22 (+6) | 1 (−5) | 8 (−1) | 4 (−3) |
 
-**Sentidos:** sentir vibraciones 18 m, visión ciega 9 m;
-
-Percepción pasiva 9 **Idiomas:** ninguno
+**Sentidos:** sentir vibraciones 18 m, visión ciega 9 m; Percepción pasiva 9 **Idiomas:** ninguno
 
 **VD:** 15 (13 000 PX; BC +5)
 
-# Atributos
+### Atributos
 
 *Excavador.* El gusano puede excavar a través de roca sólida a la mitad de su velocidad excavando y deja a su paso un túnel de 3 m de diámetro.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El gusano realiza un ataque de mordisco y uno con su aguijón de la cola.
 
@@ -974,22 +879,19 @@ Si el gusano sufre 30 o más de daño en un solo turno por parte de una criatura
 
 **PG:** 11 (2d8 + 2) **Velocidad:** 9 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 13 |    | +1 | +1         | Des 12 | +1 | +1         | Con 12 | +1 | +1         |
-| Int    | 10 | +0 | +0         | Sab 10 | +0 | +0         | Car 9  | −1 | −1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 9 (−1) |
 
-**Equipo:** arco largo, escudo, espada larga, media armadura **Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 10
+**Equipo:** arco largo, escudo, espada larga, media armadura **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 10
 
 **Idiomas:** común, goblin **VD:** 1/2 (100 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Atacar en grupo.* El hobgoblin tiene ventaja en una tirada de ataque contra una criatura si al menos uno de los aliados del hobgoblin se encuentra a 1,5 m o menos de la criatura y no tiene el estado de incapacitado.
 
-# Acciones
+### Acciones
 
 *Espada larga. Tirada de ataque cuerpo a cuerpo:* +3, alcance 1,5 m. *Acierto:* 12 (2d10 + 1) de daño cortante.
 
@@ -1003,10 +905,9 @@ pasiva 10
 
 **PG:** 7 (3d6 − 3) **Velocidad:** 9 m
 
-|     |   |    | MOD. SALV. |        |   |    | MOD. SALV. |       |    | MOD. SALV. |
-|-----|---|----|------------|--------|---|----|------------|-------|----|------------|
-| Fue | 7 | −2 | −2         | Des 15 |   | +2 | +2         | Con 9 | −1 | −1         |
-| Int | 8 | −1 | −1         | Sab    | 7 | −2 | −2         | Car 8 | −1 | −1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 7 (−2) | 15 (+2) | 9 (−1) | 8 (−1) | 7 (−2) | 8 (−1) |
 
 **Equipo:** dagas (3)
 
@@ -1014,13 +915,13 @@ pasiva 10
 
 **Idiomas:** común, dracónico **VD:** 1/8 (25 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Atacar en manada.* El kobold tiene ventaja en una tirada de ataque contra una criatura si al menos uno de los aliados del kobold se encuentra a 1,5 m o menos de la criatura y no tiene el estado de incapacitado.
 
 *Sensibilidad a la luz solar.* Bajo la luz del sol, el kobold tiene desventaja en las pruebas de característica y las tiradas de ataque.
 
-# Acciones
+### Acciones
 
 *Daga. Tirada de ataque cuerpo a cuerpo o a distancia:* +4, alcance 1,5 m o 6/18 m a distancia. *Acierto:* 4 (1d4 + 2) de daño perforante.
 
@@ -1032,24 +933,21 @@ pasiva 10
 
 **PG:** 33 (6d8 + 6) **Velocidad:** 9 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 15 |   | +2 | +2         | Des 14 | +2 | +2         | Con 13 | +1 | +1         |
-| Int    | 8 | −1 | −1         | Sab 11 | +0 | +0         | Car 9  | −1 | −1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 15 (+2) | 14 (+2) | 13 (+1) | 8 (−1) | 11 (+0) | 9 (−1) |
 
 **Habilidades:** Sigilo +6, Supervivencia +2
 
-**Equipo:** armadura de pieles, martillos ligeros (3) **Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 10
+**Equipo:** armadura de pieles, martillos ligeros (3) **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 10
 
 **Idiomas:** común, goblin **VD:** 1 (200 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Rapto.* El osgo no necesita gastar movimiento adicional para desplazar a una criatura que tenga agarrada.
 
-# Acciones
+### Acciones
 
 *Agarre. Tirada de ataque cuerpo a cuerpo:* +4, alcance 3 m. *Acierto:* 9 (2d6 + 2) de daño contundente. Si el objetivo es una criatura Mediana o más pequeña, tendrá el estado de agarrada (CD 12 para escapar).
 
@@ -1065,18 +963,15 @@ pasiva 10
 
 **Velocidad:** 9 m, nadar 12 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 13 |    | +1 | +1         | Des 11 | +0 | +0         | Con 12 | +1 | +1         |
-| Int    | 12 | +1 | +1         | Sab 13 | +1 | +1         | Car 9  | −1 | −1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 13 (+1) | 11 (+0) | 12 (+1) | 12 (+1) | 13 (+1) | 9 (−1) |
 
 **Habilidades:** Percepción +5 **Resistencias:** ácido, frío
 
-**Sentidos:** visión en la oscuridad 36 m; Percepción
+**Sentidos:** visión en la oscuridad 36 m; Percepción pasiva 15 **Idiomas:** sahuagin **VD:** 1/2 (100 PX; BC +2)
 
-pasiva 15 **Idiomas:** sahuagin **VD:** 1/2 (100 PX; BC +2)
-
-# Atributos
+### Atributos
 
 *Frenesí sangriento.* El sahuagin tiene ventaja en las tiradas de ataque contra cualquier criatura que no posea todos sus puntos de golpe.
 
@@ -1084,7 +979,7 @@ pasiva 15 **Idiomas:** sahuagin **VD:** 1/2 (100 PX; BC +2)
 
 *Telepatía con tiburones.* El sahuagin puede controlar mágicamente a los tiburones a 36 m o menos de él usando una telepatía especial.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El sahuagin realiza dos ataques con sus garras.
 
@@ -1093,4 +988,5 @@ pasiva 15 **Idiomas:** sahuagin **VD:** 1/2 (100 PX; BC +2)
 # Acciones adicionales
 
 *Carga acuática.* El sahuagin nada hasta la mitad de su velocidad nadando en línea recta hacia un enemigo que pueda ver.
+
 

@@ -1,17 +1,14 @@
 # **Rakshasa**
 
-# **Rakshasa**
-
 *Infernal Mediano, legal malvado*
 
 **CA:** 17 **Iniciativa:** +8 (18)
 
 **PG:** 221 (26d8 + 104) **Velocidad:** 12 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 14 |    | +2 | +2         | Des 17 | +3 | +3         | Con 18 | +4 | +4         |
-| Int    | 13 | +1 | +1         | Sab 16 | +3 | +3         | Car 20 | +5 | +5         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 14 (+2) | 17 (+3) | 18 (+4) | 13 (+1) | 16 (+3) | 20 (+5) |
 
 **Habilidades:** Engaño +10, Percepción +8, Perspicacia +8 **Vulnerabilidades:** daño perforante de armas empuñadas por criaturas bajo el efecto de un conjuro *bendición*
 
@@ -21,13 +18,13 @@
 
 **Idiomas:** común, infernal **VD:** 13 (10 000 PX; BC +5)
 
-# Atributos
+### Atributos
 
 *Recuperación infernal.* Si el rakshasa muere fuera de los Nueve Infiernos, su cuerpo se convierte en icor, obtiene un cuerpo nuevo al instante y revive con todos sus puntos de golpe en algún lugar de los Nueve Infiernos.
 
 *Resistencia mágica superior.* El rakshasa supera automáticamente las tiradas de salvación contra conjuros y otros efectos mágicos, y las tiradas de ataque de conjuros contra él fallan automáticamente. Sin el permiso del rakshasa, ningún conjuro puede observarlo desde lejos ni detectar sus pensamientos, tipo de criatura o alineamiento.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El rakshasa realiza tres ataques con su toque maldito.
 
@@ -40,8 +37,6 @@
 **1/día cada uno:** *desplazamiento entre planos*, *imagen mayor*, *invisibilidad*, *volar*
 
 *Orden siniestra (recarga 5–6). Tirada de salvación de Sabiduría:* CD 18, todos los enemigos en una emanación de 9 m que se origina en el rakshasa. *Fallo:* 28 (8d6) de daño psíquico y el objetivo tendrá los estados de asustado e incapacitado hasta el principio del siguiente turno del rakshasa.
-
-# **Remorhaz**
 
 # **Remorhaz**
 
@@ -66,11 +61,11 @@
 
 **Idiomas:** ninguno **VD:** 11 (7200 PX; BC +4)
 
-# Atributos
+### Atributos
 
 *Aura de calor.* Al final de cada turno del remorhaz, todas las criaturas en una emanación de 1,5 m que se origina en él reciben 16 (3d10) de daño de fuego.
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +11, alcance 3 m. *Acierto:* 18 (2d10 + 7) de daño perforante más 14 (4d6) de daño de fuego. Si el objetivo es una criatura Grande o más pequeña, tendrá el estado de agarrada (CD 17 para escapar) y el de apresada hasta que el agarre termine.
 
@@ -82,24 +77,21 @@ Si el remorhaz sufre 30 o más de daño en un solo turno por parte de una criatu
 
 # **Roc**
 
-# **Roc**
-
 *Monstruosidad Gargantuesca, sin alineamiento*
 
 **CA:** 15 **Iniciativa:** +8 (18)
 
 **PG:** 248 (16d20 + 80) **Velocidad:** 6 m, volar 36 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 28 |   | +9 | +9         | Des 10 | +0 | +4         | Con 20 | +5 | +5         |
-| Int    | 3 | −4 | −4         | Sab 10 | +0 | +4         | Car 9  | −1 | −1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 28 (+9) | 10 (+0) | 20 (+5) | 3 (−4) | 10 (+0) | 9 (−1) |
 
 **Habilidades:** Percepción +8 **Sentidos:** Percepción pasiva 18
 
 **Idiomas:** ninguno **VD:** 11 (7200 PX; BC +4)
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El roc hace dos ataques con su pico. Puede sustituir uno de ellos por un ataque con sus garras.
 

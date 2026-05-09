@@ -13,9 +13,7 @@ Bestia Grande, sin alineamiento
 | FUE 14 | +2   | +2    | DES | 13 | +1   | +1    | <b>C</b> on 13 | +    | +     |
 | INT 2  | -4   | -4    | SAB | 10 | +0   | +0    | Car 3          | -4   | -4    |
 
-Sentidos: visión en la oscuridad 18 m, Percepción
-
-pasiva 10 **Idiomas:** ninguno **VD:** 0 (0 PX; BC +2)
+Sentidos: visión en la oscuridad 18 m, Percepción pasiva 10 **Idiomas:** ninguno **VD:** 0 (0 PX; BC +2)
 
 **Perro de ónice (raro).** Esta estatuilla de ónice de un perro puede convertirse en un **mastín** durante 6 horas, como máximo. El mastín tiene una Inteligencia de 8, puede hablar común y tiene visión ciega hasta 18 m. Una vez que se utilice, no podrá volver a usarse hasta que hayan pasado 7 días.
 

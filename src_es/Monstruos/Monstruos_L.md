@@ -1,7 +1,5 @@
 # **Lacero**
 
-# **Lacero**
-
 *Aberración Grande, neutral malvada*
 
 **CA:** 20 **Iniciativa:** +5 (15)
@@ -12,15 +10,13 @@ MOD. SALV. MOD. SALV. MOD. SALV. **Fue** 18 +4 +4 **Des** 8 −1 −1 **Con** 17
 
 **Habilidades:** Percepción +6, Sigilo +5
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 16 **Idiomas:** ninguno **VD:** 5 (1800 PX; BC +3)
 
-pasiva 16 **Idiomas:** ninguno **VD:** 5 (1800 PX; BC +3)
-
-# Atributos
+### Atributos
 
 *Trepar cual arácnido.* El lacero puede trepar por superficies difíciles e incluso recorrer techos sin tener que realizar pruebas de característica.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El lacero realiza dos ataques con sus tentáculos, usa la acción de atraer y hace dos ataques de mordisco.
 
@@ -34,26 +30,21 @@ El tentáculo se puede dañar y soltará a una criatura agarrada cuando se destr
 
 # **Lamia**
 
-# **Lamia**
-
 *Infernal Grande, caótico malvado*
 
 **CA:** 13 **Iniciativa:** +1 (11)
 
 **PG:** 97 (13d10 + 26) **Velocidad:** 12 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 16 |    | +3 | +3         | Des 13 | +1 | +1         | Con 15 | +2 | +2         |
-| Int    | 14 | +2 | +2         | Sab 15 | +2 | +2         | Car 16 | +3 | +3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 16 (+3) | 13 (+1) | 15 (+2) | 14 (+2) | 15 (+2) | 16 (+3) |
 
-**Habilidades:** Engaño +7, Perspicacia +4, Sigilo +5 **Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 12
+**Habilidades:** Engaño +7, Perspicacia +4, Sigilo +5 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 12
 
 **Idiomas:** abisal, común **VD:** 4 (1100 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* La lamia realiza dos ataques con sus garras. Puede sustituir un ataque por un uso de su toque corruptor.
 
@@ -71,8 +62,6 @@ pasiva 12
 
 # **Lémur**
 
-# **Lémur**
-
 *Infernal Mediano (diablo), legal malvado*
 
 **CA:** 9 **Iniciativa:** −3 (7)
@@ -86,23 +75,19 @@ pasiva 12
 
 **Resistencias:** frío
 
-**Inmunidades:** fuego, veneno; asustado, envenenado,
-
-hechizado
+**Inmunidades:** fuego, veneno; asustado, envenenado, hechizado
 
 **Sentidos:** visión en la oscuridad 36 m (no afectada por la oscuridad mágica); Percepción pasiva 10 **Idiomas:** entiende infernal, pero no puede hablar
 
 **VD:** 0 (10 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Recuperación en los Infiernos.* Si el lémur muere en los Nueve Infiernos, revive con todos sus puntos de golpe al cabo de 1d10 días salvo si lo mata una criatura bajo los efectos de un conjuro *bendición* o si se rocían sus restos con agua bendita.
 
-# Acciones
+### Acciones
 
 *Baba repulsiva. Tirada de ataque cuerpo a cuerpo:* +2, alcance 1,5 m. *Acierto:* 2 (1d4) de daño de veneno.
-
-# **Liche**
 
 # **Liche**
 
@@ -112,18 +97,13 @@ hechizado
 
 **PG:** 315 (42d8 + 126) **Velocidad:** 9 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 11 |    | +0 | +0         | Des 16 | +3 | +10        | Con 16 | +3 | +10        |
-| Int    | 21 | +5 | +12        | Sab 14 | +2 | +9         | Car 16 | +3 | +3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 11 (+0) | 16 (+3) | 16 (+3) | 21 (+5) | 14 (+2) | 16 (+3) |
 
-**Habilidades:** Conocimiento arcano +19, Historia +12,
+**Habilidades:** Conocimiento arcano +19, Historia +12, Percepción +9, Perspicacia +9 **Resistencias:** frío, relámpago
 
-Percepción +9, Perspicacia +9 **Resistencias:** frío, relámpago
-
-**Inmunidades:** necrótico, veneno; asustado, cansancio,
-
-envenenado, hechizado, paralizado **Equipo:** saquito de componentes
+**Inmunidades:** necrótico, veneno; asustado, cansancio, envenenado, hechizado, paralizado **Equipo:** saquito de componentes
 
 **Sentidos:** visión verdadera 36 m; Percepción pasiva 19
 
@@ -131,13 +111,13 @@ envenenado, hechizado, paralizado **Equipo:** saquito de componentes
 
 **VD:** 21 (33 000 PX o 41 000 en la guarida; BC +7)
 
-# Atributos
+### Atributos
 
 *Recipiente espiritual.* Si lo destruyen, el liche se recompondrá al cabo de 1d10 días si tiene un recipiente espiritual y revivirá con todos sus puntos de golpe. El nuevo cuerpo aparecerá en un espacio sin ocupar en la guarida del liche.
 
 *Resistencia legendaria (4/día o 5/día en la guarida).* El liche puede elegir tener éxito en una tirada de salvación que haya fallado.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El liche realiza tres ataques con su estallido sobrenatural o su toque paralizante en cualquier combinación.
 
@@ -153,11 +133,11 @@ envenenado, hechizado, paralizado **Equipo:** saquito de componentes
 
 **1/día cada uno:** *dedo de la muerte*, *escudriñar*, *palabra de poder: matar*, *relámpago en cadena*
 
-# Reacciones
+### Reacciones
 
 *Magia protectora.* El liche lanza *contrahechizo* o *escudo* en respuesta al desencadenante de esos conjuros, usando la misma aptitud mágica que para su lanzamiento de conjuros.
 
-# Acciones legendarias
+### Acciones legendarias
 
 *Usos de acciones legendarias: 3 (4 en la guarida). Justo después del turno de otra criatura, el liche puede emplear un uso para llevar a cabo una de las siguientes acciones. El liche recupera todos los usos al principio de cada uno de sus turnos.*
 
@@ -169,18 +149,15 @@ envenenado, hechizado, paralizado **Equipo:** saquito de componentes
 
 # **Lobo invernal**
 
-# **Lobo invernal**
-
 *Monstruosidad Grande, neutral malvada*
 
 **CA:** 13 **Iniciativa:** +1 (11)
 
 **PG:** 75 (10d10 + 20) **Velocidad:** 15 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 18 |   | +4 | +4         | Des 13 | +1 | +1         | Con 14 | +2 | +2         |
-| Int    | 7 | −2 | −2         | Sab 12 | +1 | +1         | Car 8  | −1 | −1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 18 (+4) | 13 (+1) | 14 (+2) | 7 (−2) | 12 (+1) | 8 (−1) |
 
 **Habilidades:** Percepción +5, Sigilo +5
 
@@ -188,13 +165,14 @@ envenenado, hechizado, paralizado **Equipo:** saquito de componentes
 
 **Sentidos:** Percepción pasiva 15 **Idiomas:** común, gigante **VD:** 3 (700 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Atacar en manada.* El lobo tiene ventaja en una tirada de ataque contra una criatura si al menos uno de los aliados del lobo se encuentra a 1,5 m o menos de la criatura y no tiene el estado de incapacitado.
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +6, alcance 1,5 m. *Acierto:* 11 (2d6 + 4) de daño perforante. Si el objetivo es una criatura Grande o más pequeña, tendrá el estado de derribada.
 
 *Aliento gélido (recarga 5–6). Tirada de salvación de Constitución:* CD 12, todas las criaturas en un cono de 4,5 m. *Fallo:* 18 (4d8) de daño de frío. *Éxito:* la mitad del daño.
+
 

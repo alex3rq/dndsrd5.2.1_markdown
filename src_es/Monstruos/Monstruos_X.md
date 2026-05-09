@@ -1,7 +1,5 @@
 # **Xorn**
 
-# **Xorn**
-
 *Elemental Mediano, neutral*
 
 **CA:** 19 **Iniciativa:** +0 (10)
@@ -17,21 +15,19 @@
 
 **Habilidades:** Percepción +6, Sigilo +6
 
-**Inmunidades:** veneno; envenenado, paralizado,
-
-petrificado
+**Inmunidades:** veneno; envenenado, paralizado, petrificado
 
 **Sentidos:** sentir vibraciones 18 m, visión en la oscuridad
 
 18 m; Percepción pasiva 16 **Idiomas:** primordial (terrano) **VD:** 5 (1800 PX; BC +3)
 
-# Atributos
+### Atributos
 
 *Deslizarse por la tierra.* El xorn puede excavar a través de la tierra y la piedra que no sean mágicas ni estén trabajadas. Al hacer esto, no desplaza ni perturba la materia a través de la que se mueve.
 
 *Sentir tesoros.* El xorn puede localizar la ubicación de metales preciosos y piedras a 18 m o menos de él.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El xorn realiza un ataque de mordisco y tres con sus garras.
 

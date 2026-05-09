@@ -8,16 +8,15 @@
 
 **Velocidad:** 9 m
 
-|        |   |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue 16 |   | +3 | +3         | Des 10 |   | +0 | +0         | Con 10 | +0 | +0         |
-| Int    | 3 | −4 | −4         | Sab    | 3 | −4 | −4         | Car 1  | −5 | −5         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 16 (+3) | 10 (+0) | 10 (+0) | 3 (−4) | 3 (−4) | 1 (−5) |
 
 **Inmunidades:** psíquico, veneno; asustado, cansancio, envenenado, hechizado, paralizado
 
 **Sentidos:** visión ciega 9 m; Percepción pasiva 6 **Idiomas:** entiende los idiomas que conozcas **VD:** ninguno (0 PX; BC igual a tu bonificador por competencia)
 
-# Acciones
+### Acciones
 
 *Golpe. Tirada de ataque cuerpo a cuerpo:* bonificador igual a tu modificador de ataque de conjuros, alcance 1,5 m. *Acierto:* daño de fuerza igual a 1d4 + 3 (Mediano o más pequeño), 2d6 + 3 + tu modificador por aptitud mágica (Grande) o 2d12 + 3 + tu modificador por aptitud mágica (Enorme).
 

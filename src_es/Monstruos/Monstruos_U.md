@@ -1,33 +1,28 @@
 # **Unicornio**
 
-# **Unicornio**
-
 *Celestial Grande, legal bueno*
 
 **CA:** 12 **Iniciativa:** +8 (18)
 
 **PG:** 97 (13d10 + 26) **Velocidad:** 15 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 18 |    | +4 | +4         | Des 14 | +2 | +2         | Con 15 | +2 | +2         |
-| Int    | 11 | +0 | +0         | Sab 17 | +3 | +3         | Car 16 | +3 | +3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 18 (+4) | 14 (+2) | 15 (+2) | 11 (+0) | 17 (+3) | 16 (+3) |
 
-**Inmunidades:** veneno; envenenado, hechizado, paralizado **Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 13
+**Inmunidades:** veneno; envenenado, hechizado, paralizado **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 13
 
 **Idiomas:** celestial, elfo, silvano; telepatía 36 m
 
 **VD:** 5 (1800 PX; BC +3)
 
-# Atributos
+### Atributos
 
 *Resistencia legendaria (3/día).* El unicornio puede elegir tener éxito en una tirada de salvación que haya fallado.
 
 *Resistencia mágica.* El unicornio tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El unicornio realiza un ataque con sus cascos y uno con su cuerno radiante.
 
@@ -43,7 +38,7 @@ pasiva 13
 
 *Bendición de unicornio (3/día).* El unicornio toca a otra criatura con su cuerno y lanza *curar heridas* o *restablecimiento menor* sobre esa criatura usando la misma aptitud mágica que para su lanzamiento de conjuros.
 
-# Acciones legendarias
+### Acciones legendarias
 
 *Usos de acciones legendarias: 3. Justo después del turno de otra criatura, el unicornio puede emplear un uso para llevar a cabo una de las siguientes acciones. El unicornio recupera todos los usos al principio de cada uno de sus turnos.*
 
@@ -52,4 +47,5 @@ pasiva 13
 *Escudo resplandeciente.* El unicornio se hace objetivo a sí mismo o hace objetivo a una criatura que pueda ver a 18 m o menos de él. El objetivo obtiene 10 (3d6) puntos de golpe temporales y su CA aumenta en 2 hasta el final del siguiente turno del unicornio. El unicornio no puede volver a realizar esta acción hasta el principio de su siguiente turno.
 
 # **Vampiros**
+
 

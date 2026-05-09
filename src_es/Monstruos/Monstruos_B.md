@@ -1,29 +1,24 @@
 # **Balor**
 
-# **Balor**
-
 *Infernal Enorme (demonio), caótico malvado*
 
 **CA:** 19 **Iniciativa:** +14 (24)
 
 **PG:** 287 (23d12 + 138) **Velocidad:** 12 m, volar 24 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 26 |    | +8 | +8         | Des 15 | +2 | +2         | Con 22 | +6 | +12        |
-| Int    | 20 | +5 | +5         | Sab 16 | +3 | +9         | Car 22 | +6 | +6         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 26 (+8) | 15 (+2) | 22 (+6) | 20 (+5) | 16 (+3) | 22 (+6) |
 
 **Habilidades:** Percepción +9 **Resistencias:** frío, relámpago
 
-**Inmunidades:** fuego, veneno; asustado, envenenado,
-
-hechizado
+**Inmunidades:** fuego, veneno; asustado, envenenado, hechizado
 
 **Sentidos:** visión verdadera 36 m; Percepción pasiva 19
 
 **Idiomas:** abisal; telepatía 36 m **VD:** 19 (22 000 PX; BC +6)
 
-# Atributos
+### Atributos
 
 *Aura de fuego.* Al final de cada turno del balor, todas las criaturas en una emanación de 1,5 m que se origina en él reciben 13 (3d8) de daño de fuego.
 
@@ -33,7 +28,7 @@ hechizado
 
 *Últimos estertores.* El balor explota cuando muere. *Tirada de salvación de Destreza:* CD 20, todas las criaturas en una emanación de 9 m que se origina en el balor. *Fallo:* 31 (9d6) de daño de fuego más 31 (9d6) de daño de fuerza. *Éxito:* la mitad del daño. *Fallo o éxito:* si el balor muere fuera del Abismo, obtiene un cuerpo nuevo al instante y revive con todos sus puntos de golpe en algún lugar del Abismo.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El balor realiza un ataque con su látigo de llamas y un ataque con su hoja de relámpago.
 
@@ -55,10 +50,9 @@ hechizado
 
 **PG:** 11 (2d8 + 2) **Velocidad:** 9 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 11 |    | +0 | +0         | Des 12 | +1 | +1         | Con 12 | +1 | +1         |
-| Int    | 10 | +0 | +0         | Sab 10 | +0 | +0         | Car 10 | +0 | +0         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 11 (+0) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 10 (+0) |
 
 **Equipo:** armadura de cuero, ballesta ligera, cimitarra
 
@@ -72,24 +66,21 @@ hechizado
 
 # **Basilisco**
 
-# **Basilisco**
-
 *Monstruosidad Mediana, sin alineamiento*
 
 **CA:** 15 **Iniciativa:** −1 (9)
 
 **PG:** 52 (8d8 + 16) **Velocidad:** 6 m
 
-|        |   |    | MOD. SALV. |     |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|-----|---|----|------------|--------|----|------------|
-| Fue 16 |   | +3 | +3         | Des | 8 | −1 | −1         | Con 15 | +2 | +2         |
-| Int    | 2 | −4 | −4         | Sab | 8 | −1 | −1         | Car 7  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 16 (+3) | 8 (−1) | 15 (+2) | 2 (−4) | 8 (−1) | 7 (−2) |
 
 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 9
 
 **Idiomas:** ninguno **VD:** 3 (700 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +5, alcance 1,5 m. *Acierto:* 10 (2d6 + 3) de daño perforante más 7 (2d6) de daño de veneno.
 
@@ -99,22 +90,17 @@ hechizado
 
 # **Batidor**
 
-# **Batidor**
-
 *Humanoide Mediano o Pequeño, neutral*
 
 **CA:** 13 **Iniciativa:** +2 (12)
 
 **PG:** 16 (3d8 + 3) **Velocidad:** 9 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 11 |    | +0 | +0         | Des 14 | +2 | +2         | Con 12 | +1 | +1         |
-| Int    | 11 | +0 | +0         | Sab 13 | +1 | +1         | Car 11 | +0 | +0         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 11 (+0) | 14 (+2) | 12 (+1) | 11 (+0) | 13 (+1) | 11 (+0) |
 
-**Habilidades:** Naturaleza +4, Percepción +5, Sigilo +6,
-
-Supervivencia +5
+**Habilidades:** Naturaleza +4, Percepción +5, Sigilo +6, Supervivencia +5
 
 **Equipo:** arco largo, armadura de cuero, espada corta
 
@@ -122,7 +108,7 @@ Supervivencia +5
 
 **VD:** 1/2 (100 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El batidor realiza dos ataques con su arco largo o su espada corta en cualquier combinación.
 
@@ -132,26 +118,21 @@ Supervivencia +5
 
 # **Behir**
 
-# **Behir**
-
 *Monstruosidad Enorme, neutral malvada*
 
 **CA:** 17 **Iniciativa:** +3 (13)
 
 **PG:** 168 (16d12 + 64) **Velocidad:** 15 m, trepar 15 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 23 |   | +6 | +6         | Des 16 | +3 | +3         | Con 18 | +4 | +4         |
-| Int    | 7 | −2 | −2         | Sab 14 | +2 | +2         | Car 12 | +1 | +1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 23 (+6) | 16 (+3) | 18 (+4) | 7 (−2) | 14 (+2) | 12 (+1) |
 
 **Habilidades:** Percepción +6, Sigilo +7
 
 **Inmunidades:** relámpago
 
-**Sentidos:** visión en la oscuridad 27 m; Percepción
-
-pasiva 16
+**Sentidos:** visión en la oscuridad 27 m; Percepción pasiva 16
 
 **Idiomas:** dracónico **VD:** 11 (7200 PX; BC +4)
 
@@ -171,18 +152,15 @@ Si el behir sufre 30 de daño o más en un solo turno por parte de la criatura e
 
 # **Berserker**
 
-# **Berserker**
-
 *Humanoide Mediano o Pequeño, neutral*
 
 **CA:** 13 **Iniciativa:** +1 (11)
 
 **PG:** 67 (9d8 + 27) **Velocidad:** 9 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 16 |   | +3 | +3         | Des 12 | +1 | +1         | Con 17 | +3 | +3         |
-| Int    | 9 | −1 | −1         | Sab 11 | +0 | +0         | Car 9  | −1 | −1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 16 (+3) | 12 (+1) | 17 (+3) | 9 (−1) | 11 (+0) | 9 (−1) |
 
 **Equipo:** armadura de pieles, hacha a dos manos
 
@@ -190,15 +168,13 @@ Si el behir sufre 30 de daño o más en un solo turno por parte de la criatura e
 
 **Idiomas:** común **VD:** 2 (450 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Frenesí maltrecho.* Mientras esté maltrecho, el berserker tiene ventaja en las tiradas de ataque y las tiradas de salvación.
 
-# Acciones
+### Acciones
 
 *Hacha a dos manos. Tirada de ataque cuerpo a cuerpo:* +5, alcance 1,5 m. *Acierto:* 9 (1d12 + 3) de daño cortante.
-
-# **Bocón barbotante**
 
 # **Bocón barbotante**
 
@@ -210,18 +186,15 @@ Si el behir sufre 30 de daño o más en un solo turno por parte de la criatura e
 
 **Velocidad:** 6 m, nadar 6 m
 
-|        |   |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue 10 |   | +0 | +0         | Des    | 8 | −1 | −1         | Con 16 | +3 | +3         |
-| Int    | 3 | −4 | −4         | Sab 10 |   | +0 | +0         | Car 6  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 10 (+0) | 8 (−1) | 16 (+3) | 3 (−4) | 10 (+0) | 6 (−2) |
 
 **Inmunidades:** derribado
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 10 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
-pasiva 10 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
-
-# Atributos
+### Atributos
 
 *Barbotar.* El bocón no cesa de balbucear incoherencias mientras no tenga el estado de incapacitado. *Tirada de salvación de Sabiduría:* CD 10, cualquier criatura que empiece su turno a 6 m o menos del bocón mientras balbucea. *Fallo:* el objetivo tira 1d8 para determinar lo que hace durante ese turno.
 
@@ -231,7 +204,7 @@ pasiva 10 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
 *Suelo aberrante.* El suelo en una emanación de 3 m que se origina en el bocón es terreno difícil.
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +2, alcance 1,5 m. *Acierto:* 7 (2d6) de daño perforante. Si el objetivo es una criatura Mediana o más pequeña, tendrá el estado de derribada. El objetivo muere si este ataque reduce sus puntos de golpe a 0. Luego, el bocón absorberá su cuerpo, dejando atrás solo su equipo.
 
@@ -241,18 +214,15 @@ el estado de cegado hasta el final del siguiente turno del bocón.
 
 # **Broza movediza**
 
-# **Broza movediza**
-
 *Planta Grande, sin alineamiento*
 
 **CA:** 15 **Iniciativa:** −1 (9)
 
 **PG:** 110 (13d10 + 39) **Velocidad:** 9 m, nadar 6 m
 
-|        |   |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue 18 |   | +4 | +4         | Des    | 8 | −1 | −1         | Con 16 | +3 | +3         |
-| Int    | 5 | −3 | −3         | Sab 10 |   | +0 | +0         | Car 5  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 18 (+4) | 8 (−1) | 16 (+3) | 5 (−3) | 10 (+0) | 5 (−3) |
 
 **Habilidades:** Sigilo +3 **Resistencias:** frío, fuego
 
@@ -260,19 +230,17 @@ el estado de cegado hasta el final del siguiente turno del bocón.
 
 **Idiomas:** ninguno **VD:** 5 (1800 PX; BC +3)
 
-# Atributos
+### Atributos
 
 *Absorción de relámpago.* Siempre que fuese a recibir daño de relámpago, la broza movediza recupera una cantidad de puntos de golpe igual al daño de relámpago infligido.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* La broza movediza realiza tres ataques con sus zarcillos cargados. Puede sustituir un ataque por una acción de absorber.
 
 *Zarcillo cargado. Tirada de ataque cuerpo a cuerpo:* +7, alcance 3 m. *Acierto:* 7 (1d6 + 4) de daño contundente más 5 (2d4) de daño de relámpago. Si el objetivo es una criatura Mediana o más pequeña, la broza movediza atraerá al objetivo 1,5 m en línea recta hacia ella.
 
 *Absorber. Tirada de salvación de Fuerza:* CD 15, una criatura Mediana o más pequeña a 1,5 m o menos. *Fallo:* el objetivo será arrastrado al espacio de la broza movediza y tendrá el estado de agarrado (CD 14 para escapar). Hasta que el agarre termine, el objetivo tendrá los estados de apresado y cegado y recibirá 10 (3d6) de daño de relámpago al principio de cada uno de sus turnos. Cuando la broza movediza se mueva, el objetivo agarrado se moverá con ella sin costarle movimiento adicional. La broza movediza solo puede tener a una criatura agarrada con esta acción al mismo tiempo.
-
-# **Bulette**
 
 # **Bulette**
 
@@ -284,10 +252,9 @@ el estado de cegado hasta el final del siguiente turno del bocón.
 
 **Velocidad:** 12 m, excavar 12 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 19 |   | +4 | +4         | Des 11 | +0 | +0         | Con 21 | +5 | +5         |
-| Int    | 2 | −4 | −4         | Sab 10 | +0 | +0         | Car 5  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 19 (+4) | 11 (+0) | 21 (+5) | 2 (−4) | 10 (+0) | 5 (−3) |
 
 **Habilidades:** Percepción +6
 
@@ -297,7 +264,7 @@ el estado de cegado hasta el final del siguiente turno del bocón.
 
 **Idiomas:** ninguno **VD:** 5 (1800 PX; BC +3)
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El bulette realiza dos ataques de mordisco.
 
@@ -308,4 +275,5 @@ el estado de cegado hasta el final del siguiente turno del bocón.
 # Acciones adicionales
 
 *Salto.* El bulette gasta 3 m de movimiento para saltar hasta 9 m.
+
 

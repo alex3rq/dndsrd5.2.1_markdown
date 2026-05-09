@@ -1,33 +1,28 @@
 # **Quasit**
 
-# **Quasit**
-
 *Infernal Diminuto (demonio), caótico malvado*
 
 **CA:** 13 **Iniciativa:** +3 (13)
 
 **PG:** 25 (10d4) **Velocidad:** 12 m
 
-|     |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue | 5 | −3 | −3         | Des 17 | +3 | +3         | Con 10 | +0 | +0         |
-| Int | 7 | −2 | −2         | Sab 10 | +0 | +0         | Car 10 | +0 | +0         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 5 (−3) | 17 (+3) | 10 (+0) | 7 (−2) | 10 (+0) | 10 (+0) |
 
 **Habilidades:** Sigilo +5
 
 **Resistencias:** frío, fuego, relámpago **Inmunidades:** veneno; envenenado
 
-**Sentidos:** visión en la oscuridad 36 m; Percepción
-
-pasiva 10
+**Sentidos:** visión en la oscuridad 36 m; Percepción pasiva 10
 
 **Idiomas:** abisal, común **VD:** 1 (200 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Resistencia mágica.* El quasit tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Desgarro. Tirada de ataque cuerpo a cuerpo:* +5, alcance 1,5 m. *Acierto:* 5 (1d4 + 3) de daño cortante y el objetivo tendrá el estado de envenenado hasta el principio del siguiente turno del quasit.
 
@@ -39,30 +34,25 @@ pasiva 10
 
 # **Quimera**
 
-# **Quimera**
-
 *Monstruosidad Grande, caótica malvada*
 
 **CA:** 14 **Iniciativa:** +0 (10)
 
 **PG:** 114 (12d10 + 48) **Velocidad:** 9 m, volar 18 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 19 |   | +4 | +4         | Des 11 | +0 | +0         | Con 19 | +4 | +4         |
-| Int    | 3 | −4 | −4         | Sab 14 | +2 | +2         | Car 10 | +0 | +0         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 19 (+4) | 11 (+0) | 19 (+4) | 3 (−4) | 14 (+2) | 10 (+0) |
 
 **Habilidades:** Percepción +8
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 18
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 18
 
 **Idiomas:** entiende dracónico, pero no puede hablar
 
 **VD:** 6 (2300 PX; BC +3)
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* La quimera embiste una vez y realiza un ataque de mordisco y uno con sus garras. Puede sustituir el ataque con sus garras por un uso de su aliento de fuego, si está disponible.
 
@@ -73,4 +63,5 @@ pasiva 18
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +7, alcance 1,5 m. *Acierto:* 11 (2d6 + 4) de daño perforante o 18 (4d6 + 4) de daño perforante si la quimera tenía ventaja en la tirada de ataque.
 
 *Aliento de fuego (recarga 5–6). Tirada de salvación de Destreza:* CD 15, todas las criaturas en un cono de 4,5 m. *Fallo:* 31 (7d8) de daño de fuego. *Éxito:* la mitad del daño.
+
 

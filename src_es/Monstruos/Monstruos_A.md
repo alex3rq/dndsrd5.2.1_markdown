@@ -1,25 +1,20 @@
 # **Aboleth**
 
-# **Aboleth**
-
 *Aberración Grande, legal malvada*
 
 **CA:** 17 **Iniciativa:** +7 (17)
 
 **PG:** 150 (20d10 + 40) **Velocidad:** 3 m, nadar 12 m
 
-|        |    |    | MOD. SALV. |        | MOD. SALV. |    |    |        | MOD. SALV. |    |  |
-|--------|----|----|------------|--------|------------|----|----|--------|------------|----|--|
-| Fue 21 |    | +5 | +5         | Des    | 9          | −1 | +3 | Con 15 | +2         | +6 |  |
-| Int    | 18 | +4 | +8         | Sab 15 |            | +2 | +6 | Car 18 | +4         | +4 |  |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 21 (+5) | 9 (−1) | 15 (+6) | 18 (+4) | 15 (+2) | 18 (+4) |
 
-**Habilidades:** Historia +12, Percepción +10 **Sentidos:** visión en la oscuridad 36 m; Percepción
-
-pasiva 20
+**Habilidades:** Historia +12, Percepción +10 **Sentidos:** visión en la oscuridad 36 m; Percepción pasiva 20
 
 **Idiomas:** habla de las profundidades; telepatía 36 m **VD:** 10 (5900 PX o 7200 en la guarida; BC +4)
 
-# Atributos
+### Atributos
 
 *Anfibio.* El aboleth puede respirar tanto dentro como fuera del agua.
 
@@ -33,7 +28,7 @@ Mientras la criatura maldita esté fuera de una masa de agua, recibirá 6 (1d12)
 
 *Telepatía inquisitiva.* Si una criatura a la que el aboleth pueda ver se comunica telepáticamente con este, el aboleth descubrirá cuáles son los deseos más intensos de la criatura.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El aboleth realiza dos ataques con sus tentáculos y usa o bien su acción de consumir recuerdos o bien la de dominar la mente si está disponible.
 
@@ -45,15 +40,13 @@ Mientras la criatura maldita esté fuera de una masa de agua, recibirá 6 (1d12)
 
 El objetivo repetirá la tirada de salvación siempre que reciba daño y tras cada 24 horas que pase a al menos 1,5 km de distancia del aboleth; si la supera, se librará del efecto.
 
-# Acciones legendarias
+### Acciones legendarias
 
 *Usos de acciones legendarias: 3 (4 en la guarida). Justo después del turno de otra criatura, el aboleth puede emplear un uso para llevar a cabo una de las siguientes acciones. El aboleth recupera todos los usos al principio de cada uno de sus turnos.*
 
 *Drenaje psíquico.* Si el aboleth tiene al menos a una criatura agarrada o hechizada, usa su acción de consumir recuerdos y recupera 5 (1d10) puntos de golpe.
 
 *Latigazo.* El aboleth realiza un ataque con un tentáculo.
-
-# **Acechador invisible**
 
 # **Acechador invisible**
 
@@ -65,36 +58,31 @@ El objetivo repetirá la tirada de salvación siempre que reciba daño y tras ca
 
 **Velocidad:** 15 m, volar 15 m (levitar)
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 16 |    | +3 | +3         | Des 19 | +4 | +4         | Con 14 | +2 | +2         |
-| Int    | 10 | +0 | +0         | Sab 15 | +2 | +2         | Car 11 | +0 | +0         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 16 (+3) | 19 (+4) | 14 (+2) | 10 (+0) | 15 (+2) | 11 (+0) |
 
 **Habilidades:** Percepción +8, Sigilo +10 **Resistencias:** contundente, cortante, perforante **Inmunidades:** veneno; agarrado, apresado, cansancio, derribado, envenenado, inconsciente, paralizado, petrificado
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 18
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 18
 
 **Idiomas:** común, primordial (aurano)
 
 **VD:** 6 (2300 PX; BC +3)
 
-# Atributos
+### Atributos
 
 *Forma de aire.* El acechador puede entrar en el espacio de un enemigo y detenerse allí. Puede moverse a través de un espacio de solo 2,5 cm de ancho sin gastar movimiento adicional para hacerlo.
 
 *Invisibilidad.* El acechador tiene el estado de invisible.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El acechador realiza tres ataques con su zarpazo de viento. Puede sustituir un ataque por un uso de su vórtice.
 
 *Zarpazo de viento. Tirada de ataque cuerpo a cuerpo:* +7, alcance 1,5 m. *Acierto:* 11 (2d6 + 4) de daño de fuerza.
 
 *Vórtice. Tirada de salvación de Constitución:* CD 14, una criatura Grande o más pequeña en el espacio del acechador. *Fallo:* 7 (1d8 + 3) de daño de trueno y el objetivo tendrá el estado de agarrado (CD 13 para escapar). Hasta que el agarre termine, el objetivo no podrá lanzar conjuros con un componente verbal y recibirá 7 (2d6) de daño de trueno al principio de cada turno del acechador.
-
-# **Ankheg**
 
 # **Ankheg**
 
@@ -106,26 +94,23 @@ pasiva 18
 
 **Velocidad:** 9 m, excavar 3 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        | MOD. SALV. |    |  |
-|--------|---|----|------------|--------|----|------------|--------|------------|----|--|
-| Fue 17 |   | +3 | +3         | Des 11 | +0 | +0         | Con 14 | +2         | +2 |  |
-| Int    | 1 | −5 | −5         | Sab 13 | +1 | +1         | Car 6  | −2         | −2 |  |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 17 (+3) | 11 (+0) | 14 (+2) | 1 (−5) | 13 (+1) | 6 (−2) |
 
 **Sentidos:** sentir vibraciones 18 m, visión en la oscuridad 18 m; Percepción pasiva 11
 
 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Excavador.* El ankheg puede excavar a través de roca sólida a la mitad de su velocidad excavando y deja a su paso un túnel de 3 m de diámetro.
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +5 (con ventaja si el ankheg tiene agarrado al objetivo), alcance 1,5 m. *Acierto:* 10 (2d6 + 3) de daño cortante más 3 (1d6) de daño de ácido. Si el objetivo es una criatura Grande o más pequeña, tendrá el estado de agarrada (CD 13 para escapar).
 
 *Chorro de ácido (recarga 6). Tirada de salvación de Destreza:* CD 12, todas las criaturas en una línea de 9 m de largo y 1,5 m de ancho. *Fallo:* 14 (4d6) de daño de ácido. *Éxito:* la mitad del daño.
-
-# **Aparición**
 
 # **Aparición**
 
@@ -137,36 +122,31 @@ pasiva 18
 
 **Velocidad:** 1,5 m, volar 18 m (levitar)
 
-|     |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue | 6  | −2 | −2         | Des 16 | +3 | +3         | Con 16 | +3 | +3         |
-| Int | 12 | +1 | +1         | Sab 14 | +2 | +2         | Car 15 | +2 | +2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 6 (−2) | 16 (+3) | 16 (+3) | 12 (+1) | 14 (+2) | 15 (+2) |
 
 **Resistencias:** ácido, contundente, cortante, frío, fuego, perforante
 
 **Inmunidades:** necrótico, veneno; agarrado, apresado, cansancio, derribado, envenenado, hechizado, inconsciente, paralizado, petrificado
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 12
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 12
 
 **Idiomas:** común y otros dos idiomas
 
 **VD:** 5 (1800 PX; BC +3)
 
-# Atributos
+### Atributos
 
 *Movimiento incorpóreo.* La aparición puede moverse a través de otras criaturas y objetos como si fueran terreno difícil. Recibe 5 (1d10) de daño de fuerza si acaba su turno dentro de un objeto.
 
 *Sensibilidad a la luz solar.* Bajo la luz del sol, la aparición tiene desventaja en las pruebas de característica y las tiradas de ataque.
 
-# Acciones
+### Acciones
 
 *Consumir vida. Tirada de ataque cuerpo a cuerpo:* +6, alcance 1,5 m. *Acierto:* 21 (4d8 + 3) de daño necrótico. Si el objetivo es una criatura, sus puntos de golpe máximos se reducen en una cantidad igual al daño sufrido.
 
 *Crear espectro.* La aparición hace objetivo a un cadáver de humanoide que esté a 3 m o menos de ella y haya muerto hace 1 minuto como máximo. El espíritu del objetivo se alza como un **espectro** en el espacio de su cadáver o en el espacio sin ocupar más cercano. El espectro estará bajo el control de la aparición. Esta última no puede tener más de siete espectros bajo su control a la vez.
-
-# **Araña de fase**
 
 # **Araña de fase**
 
@@ -178,18 +158,15 @@ pasiva 12
 
 **Velocidad:** 9 m, trepar 9 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        | MOD. SALV. |    |
-|--------|---|----|------------|--------|----|------------|--------|------------|----|
-| Fue 15 |   | +2 | +2         | Des 16 | +3 | +3         | Con 12 | +1         | +1 |
-| Int    | 6 | −2 | −2         | Sab 10 | +0 | +0         | Car 6  | −2         | −2 |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 15 (+2) | 16 (+3) | 12 (+1) | 6 (−2) | 10 (+0) | 6 (−2) |
 
 **Habilidades:** Sigilo +7
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 10 **Idiomas:** ninguno **VD:** 3 (700 PX; BC +2)
 
-pasiva 10 **Idiomas:** ninguno **VD:** 3 (700 PX; BC +2)
-
-# Atributos
+### Atributos
 
 *Caminar por telarañas.* La araña ignora todas las restricciones de movimiento causadas por las telarañas y conoce la ubicación de cualquier otra criatura que esté en contacto con la misma telaraña.
 
@@ -197,7 +174,7 @@ pasiva 10 **Idiomas:** ninguno **VD:** 3 (700 PX; BC +2)
 
 *Visión etérea.* La araña puede ver a 18 m de distancia en el Plano Etéreo cuando se encuentra en el Plano Material y viceversa.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* La araña realiza dos ataques de mordisco.
 
@@ -206,8 +183,6 @@ pasiva 10 **Idiomas:** ninguno **VD:** 3 (700 PX; BC +2)
 # Acciones adicionales
 
 *Salto etéreo.* La araña se teletransporta del Plano Material al Plano Etéreo o viceversa.
-
-# **Arpía**
 
 # **Arpía**
 
@@ -225,13 +200,11 @@ MOD. SALV. MOD. SALV. MOD. SALV. **Fue** 12 +1 +1 **Des** 13 +1 +1 **Con** 12 +1
 
 **Idiomas:** común **VD:** 1 (200 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Garra. Tirada de ataque cuerpo a cuerpo:* +3, alcance 1,5 m. *Acierto:* 6 (2d4 + 1) de daño cortante.
 
 *Canción tentadora.* La arpía canta una melodía mágica, que dura hasta que la arpía deja de concentrarse en ella. *Tirada de salvación de Sabiduría:* CD 11, todos los humanoides y gigantes en una emanación de 90 m que se origina en la arpía cuando empieza la canción. *Fallo:* el objetivo tendrá el estado de hechizado hasta que termine la canción y repetirá la tirada de salvación al final de cada uno de sus turnos. Mientras esté hechizado, tendrá el estado de incapacitado e ignorará la canción tentadora de otras arpías. Si el objetivo se encuentra a más de 1,5 m de la arpía, deberá moverse durante su turno hacia ella por el camino más corto para intentar situarse a 1,5 m o menos de ella. No evitará provocar ataques de oportunidad; sin embargo, antes de moverse a un terreno que le causaría daño (como lava o un pozo) y cada vez que sufra daño de una fuente distinta a la arpía, repetirá la tirada de salvación. *Éxito:* el objetivo será inmune a la canción tentadora de esta arpía durante 24 horas.
-
-# **Asesino**
 
 # **Asesino**
 
@@ -241,28 +214,25 @@ MOD. SALV. MOD. SALV. MOD. SALV. **Fue** 12 +1 +1 **Des** 13 +1 +1 **Con** 12 +1
 
 **PG:** 97 (15d8 + 30) **Velocidad:** 9 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 11 |    | +0 | +0         | Des 18 | +4 | +7         | Con 14 | +2 | +2         |
-| Int    | 16 | +3 | +6         | Sab 11 | +0 | +0         | Car 10 | +0 | +0         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 11 (+0) | 18 (+4) | 14 (+2) | 16 (+3) | 11 (+0) | 10 (+0) |
 
 **Habilidades:** Acrobacias +7, Percepción +6, Sigilo +10
 
 **Resistencias:** veneno
 
-**Equipo:** armadura de cuero tachonado, ballesta ligera,
-
-espada corta
+**Equipo:** armadura de cuero tachonado, ballesta ligera, espada corta
 
 **Sentidos:** Percepción pasiva 16 **Idiomas:** común, jerga de ladrones
 
 **VD:** 8 (3900 PX; BC +3)
 
-# Atributos
+### Atributos
 
 *Evasión.* Si el asesino sufre un efecto que le permita hacer una tirada de salvación de Destreza para sufrir solo la mitad de daño, no recibe ningún daño si la supera y solo sufre la mitad si la falla. No puede usar este atributo si tiene el estado de incapacitado.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El asesino realiza tres ataques con su espada corta o su ballesta ligera en cualquier combinación.
 
@@ -284,14 +254,11 @@ espada corta
 
 **PG:** 170 (31d8 + 31) **Velocidad:** 9 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 10 |    | +0 | +0         | Des 14 | +2 | +2         | Con 12 | +1 | +1         |
-| Int    | 20 | +5 | +9         | Sab 15 | +2 | +6         | Car 16 | +3 | +3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 10 (+0) | 14 (+2) | 12 (+1) | 20 (+5) | 15 (+2) | 16 (+3) |
 
-**Habilidades:** Conocimiento arcano +13, Historia +9,
-
-Percepción +6
+**Habilidades:** Conocimiento arcano +13, Historia +9, Percepción +6
 
 **Inmunidades:** psíquico; hechizado (con *mente en blanco*)
 
@@ -301,11 +268,11 @@ Percepción +6
 
 **VD:** 12 (8000 PX; BC +4)
 
-# Atributos
+### Atributos
 
 *Resistencia mágica.* El archimago tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El archimago realiza cuatro ataques con su estallido arcano.
 
@@ -319,7 +286,7 @@ Percepción +6
 
 *Paso brumoso (3/día).* El mago lanza *paso brumoso* usando la misma aptitud mágica que para su lanzamiento de conjuros.
 
-# Reacciones
+### Reacciones
 
 *Magia protectora (3/día).* El archimago lanza *contrahechizo* o *escudo* en respuesta al desencadenante de esos conjuros, usando la misma aptitud mágica que para su lanzamiento de conjuros.
 
@@ -331,10 +298,9 @@ Percepción +6
 
 **PG:** 27 (5d10) **Velocidad:** 3 m
 
-|        |   |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue 17 |   | +3 | +3         | Des 14 |   | +2 | +2         | Con 10 | +0 | +0         |
-| Int    | 1 | −5 | −5         | Sab    | 3 | −4 | −4         | Car 1  | −5 | −5         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 17 (+3) | 14 (+2) | 10 (+0) | 1 (−5) | 3 (−4) | 1 (−5) |
 
 **Inmunidades:** psíquico, veneno; asustado, cansancio, ensordecido, envenenado, hechizado, paralizado, petrificado
 
@@ -342,7 +308,7 @@ Percepción +6
 
 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Ahogar. Tirada de ataque cuerpo a cuerpo:* +5, alcance 1,5 m. *Acierto:* 10 (2d6 + 3) de daño contundente. Si el objetivo es una criatura Mediana o más pequeña, la alfombra puede imponerle el estado de agarrada (CD 13 para escapar) en vez de causarle daño. Hasta que el agarre termine, el objetivo tendrá los estados de apresado y cegado, se asfixiará y recibirá 10 (2d6 + 3) de daño contundente al principio de cada uno de sus turnos. La alfombra solo puede ahogar a una criatura a la vez.
 
@@ -356,10 +322,9 @@ Mientras esté agarrando al objetivo, la alfombra no podrá realizar esta acció
 
 **PG:** 33 (6d8 + 6) **Velocidad:** 7,5 m
 
-|        |   |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue 14 |   | +2 | +2         | Des 11 |   | +0 | +0         | Con 13 | +1 | +1         |
-| Int    | 1 | −5 | −5         | Sab    | 3 | −4 | −4         | Car 1  | −5 | −5         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 14 (+2) | 11 (+0) | 13 (+1) | 1 (−5) | 3 (−4) | 1 (−5) |
 
 **Inmunidades:** psíquico, veneno; asustado, cansancio, ensordecido, envenenado, hechizado, paralizado, petrificado
 
@@ -367,7 +332,7 @@ Mientras esté agarrando al objetivo, la alfombra no podrá realizar esta acció
 
 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* La armadura realiza dos ataques con su golpe.
 
@@ -381,24 +346,21 @@ Mientras esté agarrando al objetivo, la alfombra no podrá realizar esta acció
 
 **PG:** 65 (10d8 + 20) **Velocidad:** 9 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 17 |    | +3 | +3         | Des 14 | +2 | +2         | Con 14 | +2 | +4         |
-| Int    | 11 | +0 | +0         | Sab 12 | +1 | +3         | Car 11 | +0 | +0         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 17 (+3) | 14 (+2) | 14 (+2) | 11 (+0) | 12 (+1) | 11 (+0) |
 
 **Habilidades:** Sigilo +6, Supervivencia +3
 
-**Equipo:** camisa de malla, jabalinas (6), lucero del alba **Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 11
+**Equipo:** camisa de malla, jabalinas (6), lucero del alba **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 11
 
 **Idiomas:** común, goblin **VD:** 3 (700 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Rapto.* El osgo no necesita gastar movimiento adicional para desplazar a una criatura que tenga agarrada.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El osgo realiza dos ataques con sus jabalinas o su lucero del alba.
 
@@ -418,10 +380,9 @@ pasiva 11
 
 **PG:** 59 (7d12 + 14) **Velocidad:** 6 m
 
-|        |    |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue 19 |    | +4 | +4         | Des    | 6 | −2 | −2         | Con 15 | +2 | +2         |
-| Int    | 10 | +0 | +0         | Sab 10 |   | +0 | +0         | Car 7  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 19 (+4) | 6 (−2) | 15 (+2) | 10 (+0) | 10 (+0) | 7 (−2) |
 
 **Vulnerabilidades:** fuego
 
@@ -429,7 +390,7 @@ pasiva 11
 
 **VD:** 2 (450 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Golpe. Tirada de ataque cuerpo a cuerpo:* +6, alcance 3 m. *Acierto:* 14 (3d6 + 4) de daño contundente.
 
@@ -441,10 +402,9 @@ pasiva 11
 
 **PG:** 10 (3d6) **Velocidad:** 6 m
 
-|     |    |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|----|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue | 3  | −4 | −4         | Des    | 8 | −1 | −1         | Con 11 | +0 | +0         |
-| Int | 10 | +0 | +0         | Sab 10 |   | +0 | +0         | Car 6  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 3 (−4) | 8 (−1) | 11 (+0) | 10 (+0) | 10 (+0) | 6 (−2) |
 
 **Vulnerabilidades:** fuego **Resistencias:** perforante
 
@@ -453,4 +413,5 @@ pasiva 11
 **VD:** 0 (10 PX; BC +2)
 
 *Desgarrar. Tirada de ataque cuerpo a cuerpo:* +1, alcance 1,5 m. *Acierto:* 1 de daño cortante.
+
 

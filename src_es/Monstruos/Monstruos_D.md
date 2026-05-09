@@ -1,7 +1,5 @@
 # **Deva**
 
-# **Deva**
-
 *Celestial Mediano (ángel), legal bueno*
 
 **CA:** 17 **Iniciativa:** +4 (14)
@@ -19,19 +17,17 @@
 
 **Resistencias:** radiante
 
-**Inmunidades:** asustado, cansancio, hechizado **Sentidos:** visión en la oscuridad 36 m; Percepción
-
-pasiva 19
+**Inmunidades:** asustado, cansancio, hechizado **Sentidos:** visión en la oscuridad 36 m; Percepción pasiva 19
 
 **Idiomas:** todos; telepatía 36 m **VD:** 10 (5900 PX; BC +4)
 
-# Atributos
+### Atributos
 
 *Recuperación exaltada.* Si el deva muere fuera del Monte Celestia, su cuerpo desaparece, obtiene un cuerpo nuevo al instante y revive con todos sus puntos de golpe en algún lugar del Monte Celestia.
 
 *Resistencia mágica.* El deva tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El deva realiza dos ataques con su maza sagrada.
 
@@ -49,8 +45,6 @@ pasiva 19
 
 # **Diablillo**
 
-# **Diablillo**
-
 *Infernal Diminuto (diablo), legal malvado*
 
 **CA:** 13 **Iniciativa:** +3 (13)
@@ -59,10 +53,9 @@ pasiva 19
 
 **Velocidad:** 6 m, volar 12 m
 
-|     |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue | 6  | −2 | −2         | Des 17 | +3 | +3         | Con 13 | +1 | +1         |
-| Int | 11 | +0 | +0         | Sab 12 | +1 | +1         | Car 14 | +2 | +2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 6 (−2) | 17 (+3) | 13 (+1) | 11 (+0) | 12 (+1) | 14 (+2) |
 
 **Habilidades:** Engaño +4, Perspicacia +3, Sigilo +5
 
@@ -76,11 +69,11 @@ la oscuridad mágica); Percepción pasiva 11
 
 **Idiomas:** común, infernal **VD:** 1 (200 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Resistencia mágica.* El diablillo tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Aguijón. Tirada de ataque cuerpo a cuerpo:* +5, alcance 1,5 m. *Acierto:* 6 (1d6 + 3) de daño perforante más 7 (2d6) de daño de veneno.
 
@@ -90,18 +83,15 @@ la oscuridad mágica); Percepción pasiva 11
 
 # **Diablo astado**
 
-# **Diablo astado**
-
 *Infernal Grande (diablo), legal malvado*
 
 **CA:** 18 **Iniciativa:** +7 (17)
 
 **PG:** 199 (19d10 + 95) **Velocidad:** 9 m, volar 18 m
 
-|     |        |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|--------|----|------------|--------|----|------------|--------|----|------------|
-|     | Fue 22 | +6 | +10        | Des 17 | +3 | +7         | Con 21 | +5 | +5         |
-| Int | 12     | +1 | +1         | Sab 16 | +3 | +7         | Car 18 | +4 | +8         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 22 (+6) | 17 (+3) | 21 (+5) | 12 (+1) | 16 (+3) | 18 (+4) |
 
 **Resistencias:** frío
 
@@ -113,13 +103,13 @@ la oscuridad mágica); Percepción pasiva 13
 
 **Idiomas:** infernal; telepatía 36 m **VD:** 11 (7200 PX; BC +4)
 
-# Atributos
+### Atributos
 
 *Recuperación diabólica.* Si el diablo muere fuera de los Nueve Infiernos, su cuerpo se desvanece en un humo sulfuroso, obtiene un cuerpo nuevo al instante y revive con todos sus puntos de golpe en algún lugar de los Nueve Infiernos.
 
 *Resistencia mágica.* El diablo tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El diablo realiza tres ataques con su horca abrasadora y su acción de arrojar llama en cualquier combinación. Puede sustituir un ataque por un uso de su cola infernal.
 
@@ -131,18 +121,15 @@ la oscuridad mágica); Percepción pasiva 13
 
 # **Diablo barbado**
 
-# **Diablo barbado**
-
 *Infernal Mediano (diablo), legal malvado*
 
 **CA:** 13 **Iniciativa:** +2 (12)
 
 **PG:** 58 (9d8 + 18) **Velocidad:** 9 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 16 |   | +3 | +5         | Des 15 | +2 | +2         | Con 15 | +2 | +4         |
-| Int    | 9 | −1 | −1         | Sab 11 | +0 | +0         | Car 14 | +2 | +4         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 16 (+3) | 15 (+2) | 15 (+2) | 9 (−1) | 11 (+0) | 14 (+2) |
 
 **Resistencias:** frío
 
@@ -152,11 +139,11 @@ la oscuridad mágica); Percepción pasiva 13
 
 **VD:** 3 (700 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Resistencia mágica.* El diablo tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El diablo realiza un ataque con su barba y uno con su guja infernal.
 
@@ -166,18 +153,15 @@ la oscuridad mágica); Percepción pasiva 13
 
 # **Diablo de las cadenas**
 
-# **Diablo de las cadenas**
-
 *Infernal Mediano (diablo), legal malvado*
 
 **CA:** 15 **Iniciativa:** +5 (15)
 
 **PG:** 85 (10d8 + 40) **Velocidad:** 9 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 18 |    | +4 | +4         | Des 15 | +2 | +2         | Con 18 | +4 | +7         |
-| Int    | 11 | +0 | +0         | Sab 12 | +1 | +4         | Car 14 | +2 | +2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 18 (+4) | 15 (+2) | 18 (+4) | 11 (+0) | 12 (+1) | 14 (+2) |
 
 **Resistencias:** contundente, cortante, frío, perforante
 
@@ -191,13 +175,13 @@ la oscuridad mágica); Percepción pasiva 11
 
 **VD:** 8 (3900 PX; BC +3)
 
-# Atributos
+### Atributos
 
 *Recuperación diabólica.* Si el diablo muere fuera de los Nueve Infiernos, su cuerpo se desvanece en un humo sulfuroso, obtiene un cuerpo nuevo al instante y revive con todos sus puntos de golpe en algún lugar de los Nueve Infiernos.
 
 *Resistencia mágica.* El diablo tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El diablo realiza dos ataques con sus cadenas y usa la acción de conjurar cadena infernal.
 
@@ -205,11 +189,9 @@ la oscuridad mágica); Percepción pasiva 11
 
 *Conjurar cadena infernal.* El diablo conjura una cadena ardiente para atar a una criatura. *Tirada de salvación de Destreza:* CD 15, una criatura que el diablo pueda ver a 18 m o menos. *Fallo:* 9 (2d4 + 4) de daño de fuego y el objetivo tendrá el estado de apresado hasta el final del siguiente turno del diablo, momento en el que la cadena desaparecerá. Si el objetivo es Grande o más pequeño, el diablo lo moverá hasta 9 m en línea recta hacia él. *Éxito:* la cadena desaparece.
 
-# Reacciones
+### Reacciones
 
 *Mirada inquietante. Detonante:* una criatura que el diablo pueda ver comienza su turno a 9 m o menos del diablo y puede ver a este. *Respuesta; tirada de salvación de Sabiduría:* CD 15, la criatura detonante. *Fallo:* el objetivo tendrá el estado de asustado hasta el final de su turno. *Éxito:* el objetivo será inmune a la mirada inquietante de este diablo durante 24 horas.
-
-# **Diablo de la sima**
 
 # **Diablo de la sima**
 
@@ -219,10 +201,9 @@ la oscuridad mágica); Percepción pasiva 11
 
 **PG:** 337 (27d10 + 189) **Velocidad:** 9 m, volar 18 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 26 |    | +8 | +8         | Des 14 | +2 | +8         | Con 24 | +7 | +7         |
-| Int    | 22 | +6 | +6         | Sab 18 | +4 | +10        | Car 24 | +7 | +7         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 26 (+8) | 14 (+2) | 24 (+7) | 22 (+6) | 18 (+4) | 24 (+7) |
 
 **Habilidades:** Percepción +10, Persuasión +19
 
@@ -234,7 +215,7 @@ la oscuridad mágica); Percepción pasiva 11
 
 **Idiomas:** infernal; telepatía 36 m **VD:** 20 (25 000 PX; BC +6)
 
-# Atributos
+### Atributos
 
 *Aura de miedo.* Mientras no tenga el estado de incapacitado, el diablo de la sima emite un aura en una emanación de 6 m. *Tirada de salvación de Sabiduría:* CD 21, cualquier enemigo que comience su turno dentro del aura. *Fallo:* el objetivo tendrá el estado de asustado hasta el principio de su siguiente turno. *Éxito:* el objetivo será inmune al aura de este diablo de la sima durante 24 horas.
 
@@ -244,7 +225,7 @@ la oscuridad mágica); Percepción pasiva 11
 
 *Resistencia mágica.* El diablo de la sima tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El diablo de la sima realiza un ataque de mordisco, dos con su garra diabólica y uno con su maza ardiente.
 
@@ -258,18 +239,15 @@ la oscuridad mágica); Percepción pasiva 11
 
 # **Diablo gélido**
 
-# **Diablo gélido**
-
 *Infernal Grande (diablo), legal malvado*
 
 **CA:** 18 **Iniciativa:** +7 (17)
 
 **PG:** 228 (24d10 + 96) **Velocidad:** 12 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 21 |    | +5 | +5         | Des 14 | +2 | +7         | Con 18 | +4 | +9         |
-| Int    | 18 | +4 | +4         | Sab 15 | +2 | +7         | Car 18 | +4 | +9         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 21 (+5) | 14 (+2) | 18 (+4) | 18 (+4) | 15 (+2) | 18 (+4) |
 
 **Habilidades:** Percepción +7, Perspicacia +7, Persuasión +9 **Inmunidades:** frío, fuego, veneno; envenenado
 
@@ -277,13 +255,13 @@ la oscuridad mágica); Percepción pasiva 11
 
 **Idiomas:** infernal; telepatía 36 m **VD:** 14 (11 500 PX; BC +5)
 
-# Atributos
+### Atributos
 
 *Recuperación diabólica.* Si el diablo muere fuera de los Nueve Infiernos, su cuerpo se desvanece en un humo sulfuroso, obtiene un cuerpo nuevo al instante y revive con todos sus puntos de golpe en algún lugar de los Nueve Infiernos.
 
 *Resistencia mágica.* El diablo tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El diablo realiza tres ataques con su lanza de hielo. Puede sustituir uno de ellos por un ataque con su cola.
 
@@ -295,18 +273,15 @@ la oscuridad mágica); Percepción pasiva 11
 
 # **Diablo óseo**
 
-# **Diablo óseo**
-
 *Infernal Grande (diablo), legal malvado*
 
 **CA:** 16 **Iniciativa:** +7 (17)
 
 **PG:** 161 (17d10 + 68) **Velocidad:** 12 m, volar 12 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 18 |    | +4 | +8         | Des 16 | +3 | +3         | Con 18 | +4 | +4         |
-| Int    | 13 | +1 | +5         | Sab 14 | +2 | +6         | Car 16 | +3 | +7         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 18 (+4) | 16 (+3) | 18 (+4) | 13 (+1) | 14 (+2) | 16 (+3) |
 
 **Habilidades:** Engaño +7, Perspicacia +6
 
@@ -322,13 +297,13 @@ la oscuridad mágica); Percepción pasiva 12
 
 **VD:** 9 (5000 PX; BC +4)
 
-# Atributos
+### Atributos
 
 *Recuperación diabólica.* Si el diablo muere fuera de los Nueve Infiernos, su cuerpo se desvanece en un humo sulfuroso, obtiene un cuerpo nuevo al instante y revive con todos sus puntos de golpe en algún lugar de los Nueve Infiernos.
 
 *Resistencia mágica.* El diablo tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El diablo realiza dos ataques con sus garras y uno con su aguijón infernal.
 
@@ -338,18 +313,15 @@ la oscuridad mágica); Percepción pasiva 12
 
 # **Diablo punzante**
 
-# **Diablo punzante**
-
 *Infernal Mediano (diablo), legal malvado*
 
 **CA:** 15 **Iniciativa:** +3 (13)
 
 **PG:** 110 (13d8 + 52) **Velocidad:** 9 m, trepar 9 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 16 |    | +3 | +6         | Des 17 | +3 | +3         | Con 18 | +4 | +7         |
-| Int    | 12 | +1 | +1         | Sab 14 | +2 | +5         | Car 14 | +2 | +5         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 16 (+3) | 17 (+3) | 18 (+4) | 12 (+1) | 14 (+2) | 14 (+2) |
 
 **Habilidades:** Engaño +5, Percepción +8, Perspicacia +5
 
@@ -365,7 +337,7 @@ la oscuridad mágica); Percepción pasiva 18
 
 **VD:** 5 (1800 PX; BC +3)
 
-# Atributos
+### Atributos
 
 *Piel espinosa.* Al principio de cada uno de sus turnos, el diablo inflige 5 (1d10) de daño perforante a cualquier criatura a la que esté agarrando o que lo esté agarrando a él.
 
@@ -373,7 +345,7 @@ la oscuridad mágica); Percepción pasiva 18
 
 *Resistencia mágica.* El diablo tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El diablo realiza un ataque con sus garras y uno con su cola o realiza dos ataques de arrojar llama.
 
@@ -382,8 +354,6 @@ la oscuridad mágica); Percepción pasiva 18
 *Garras. Tirada de ataque cuerpo a cuerpo:* +6, alcance 1,5 m. *Acierto:* 10 (2d6 + 3) de daño perforante. Si el objetivo es una criatura Grande o más pequeña, tendrá el estado de agarrada (CD 13 para escapar) por ambas garras.
 
 *Arrojar llama. Tirada de ataque a distancia:* +5, alcance 45 m. *Acierto:* 17 (5d6) de daño de fuego. Si el objetivo es un objeto inflamable que no lleve o vista nadie, empieza a arder.
-
-# **Djinn**
 
 # **Djinn**
 
@@ -402,13 +372,11 @@ la oscuridad mágica); Percepción pasiva 18
 
 **Inmunidades:** relámpago, trueno
 
-**Sentidos:** visión en la oscuridad 36 m; Percepción
-
-pasiva 13
+**Sentidos:** visión en la oscuridad 36 m; Percepción pasiva 13
 
 **Idiomas:** primordial (aurano) **VD:** 11 (7200 PX; BC +4)
 
-# Atributos
+### Atributos
 
 *Deseos.* El djinn tiene un 30 % de probabilidad de conocer el conjuro *deseo*. Si es así, puede lanzarlo en nombre de una criatura que no sea un genio y que pida un deseo de tal modo que el djinn pueda entenderlo. Si el djinn lanza el conjuro para esa criatura, no sufrirá los efectos de la tensión del conjuro. Cuando lo haya lanzado tres veces, el djinn no podrá volver a hacerlo hasta pasados 365 días.
 
@@ -416,7 +384,7 @@ pasiva 13
 
 *Resistencia mágica.* El djinn tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El djinn realiza tres ataques con su hoja tormentosa o su golpe de tormenta en cualquier combinación.
 
@@ -431,8 +399,6 @@ Cuando el torbellino entre en el espacio de una criatura o una criatura en él, 
 *Lanzamiento de conjuros.* El djinn lanza uno de los siguientes conjuros, que no requiere componentes materiales y utiliza el Carisma como aptitud mágica (CD de salvación de conjuros 17):
 
 **A voluntad:** *detectar el bien y el mal*, *detectar magia* **2/día cada uno:** *crear comida y agua* (puede crear vino en lugar de agua), *don de lenguas*, *viajar con el viento* **1/día cada uno:** *creación*, *desplazamiento entre planos*, *forma gaseosa*, *imagen mayor*, *invisibilidad*
-
-# **Doppelganger**
 
 # **Doppelganger**
 
@@ -451,15 +417,13 @@ Cuando el torbellino entre en el espacio de una criatura o una criatura en él, 
 
 **Inmunidades:** hechizado
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 11
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 11
 
 **Idiomas:** común y otros tres idiomas
 
 **VD:** 3 (700 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El doppelganger realiza dos ataques con su golpe y usa su acción de rostro inquietante si está disponible.
 
@@ -485,20 +449,17 @@ pasiva 11
 
 **Velocidad:** 12 m, excavar 6 m, volar 24 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 21 |    | +5 | +5         | Des 10 | +0 | +4         | Con 19 | +4 | +4         |
-| Int    | 14 | +2 | +2         | Sab 13 | +1 | +5         | Car 17 | +3 | +3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 21 (+5) | 10 (+0) | 19 (+4) | 14 (+2) | 13 (+1) | 17 (+3) |
 
 **Habilidades:** Percepción +9, Sigilo +4
 
 **Inmunidades:** relámpago
 
-**Sentidos:** visión ciega 9 m, visión en la oscuridad 36 m;
+**Sentidos:** visión ciega 9 m, visión en la oscuridad 36 m; Percepción pasiva 19 **Idiomas:** común, dracónico **VD:** 9 (5000 PX; BC +4)
 
-Percepción pasiva 19 **Idiomas:** común, dracónico **VD:** 9 (5000 PX; BC +4)
-
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El dragón realiza tres ataques de desgarro.
 
@@ -516,26 +477,23 @@ Percepción pasiva 19 **Idiomas:** común, dracónico **VD:** 9 (5000 PX; BC +4)
 
 **Velocidad:** 12 m, excavar 9 m, volar 24 m
 
-|        | MOD. SALV. |    |    |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|------------|----|----|--------|----|------------|--------|----|------------|
-| Fue 25 |            | +7 | +7 | Des 10 | +0 | +5         | Con 23 | +6 | +6         |
-| Int    | 16         | +3 | +3 | Sab 15 | +2 | +7         | Car 20 | +5 | +5         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 25 (+7) | 10 (+0) | 23 (+6) | 16 (+3) | 15 (+2) | 20 (+5) |
 
 **Habilidades:** Percepción +12, Sigilo +5
 
 **Inmunidades:** relámpago
 
-**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m;
-
-Percepción pasiva 22 **Idiomas:** común, dracónico
+**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m; Percepción pasiva 22 **Idiomas:** común, dracónico
 
 **VD:** 16 (15 000 PX o 18 000 en la guarida; BC +5)
 
-# Atributos
+### Atributos
 
 *Resistencia legendaria (3/día o 4/día en la guarida).* El dragón puede elegir tener éxito en una tirada de salvación que haya fallado.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El dragón realiza tres ataques de desgarro. Puede sustituir un ataque por un uso de su lanzamiento de conjuros para lanzar *hacer añicos*.
 
@@ -549,7 +507,7 @@ Percepción pasiva 22 **Idiomas:** común, dracónico
 
 **1/día cada uno:** *escudriñar*, *recado*
 
-# Acciones legendarias
+### Acciones legendarias
 
 *Usos de acciones legendarias: 3 (4 en la guarida). Justo después del turno de otra criatura, el dragón puede emplear un uso para llevar a cabo una de las siguientes acciones. El dragón recupera todos los usos al principio de cada uno de sus turnos.*
 
@@ -569,26 +527,23 @@ Percepción pasiva 22 **Idiomas:** común, dracónico
 
 **Velocidad:** 12 m, excavar 12 m, volar 24 m
 
-| MOD. SALV. |    |    |    |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|------------|----|----|----|--------|----|------------|--------|----|------------|
-| Fue 29     |    | +9 | +9 | Des 10 | +0 | +7         | Con 27 | +8 | +8         |
-| Int        | 18 | +4 | +4 | Sab 17 | +3 | +10        | Car 25 | +7 | +7         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 29 (+9) | 10 (+0) | 27 (+8) | 18 (+4) | 17 (+3) | 25 (+7) |
 
 **Habilidades:** Percepción +17, Sigilo +7
 
 **Inmunidades:** relámpago
 
-**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m;
-
-Percepción pasiva 27 **Idiomas:** común, dracónico
+**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m; Percepción pasiva 27 **Idiomas:** común, dracónico
 
 **VD:** 23 (50 000 PX o 62 000 en la guarida; BC +7)
 
-# Atributos
+### Atributos
 
 *Resistencia legendaria (4/día o 5/día en la guarida).* El dragón puede elegir tener éxito en una tirada de salvación que haya fallado.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El dragón realiza tres ataques de desgarro. Puede sustituir un ataque por un uso de su lanzamiento de conjuros para lanzar *hacer añicos* (versión de nivel 3).
 
@@ -600,7 +555,7 @@ Percepción pasiva 27 **Idiomas:** común, dracónico
 
 **A voluntad:** *detectar magia*, *hacer añicos* (versión de nivel 3), *invisibilidad*, *mano de mago* **1/día cada uno:** *escudriñar*, *recado*
 
-# Acciones legendarias
+### Acciones legendarias
 
 *Usos de acciones legendarias: 3 (4 en la guarida). Justo después del turno de otra criatura, el dragón puede emplear un uso para llevar a cabo una de las siguientes acciones. El dragón recupera todos los usos al principio de cada uno de sus turnos.*
 
@@ -631,15 +586,13 @@ Percepción pasiva 27 **Idiomas:** común, dracónico
 
 **Inmunidades:** frío
 
-**Sentidos:** visión ciega 9 m, visión en la oscuridad 36 m;
+**Sentidos:** visión ciega 9 m, visión en la oscuridad 36 m; Percepción pasiva 16 **Idiomas:** común, dracónico **VD:** 6 (2300 PX; BC +3)
 
-Percepción pasiva 16 **Idiomas:** común, dracónico **VD:** 6 (2300 PX; BC +3)
-
-# Atributos
+### Atributos
 
 *Caminar por el hielo.* El dragón puede moverse y trepar por superficies heladas sin tener que hacer pruebas de característica. Además, desplazarse por terreno difícil compuesto de nieve o hielo no le cuesta movimiento adicional.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El dragón realiza tres ataques de desgarro.
 
@@ -657,28 +610,25 @@ Percepción pasiva 16 **Idiomas:** común, dracónico **VD:** 6 (2300 PX; BC +3)
 
 **Velocidad:** 12 m, excavar 9 m, nadar 12 m, volar 24 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 22 |   | +6 | +6         | Des 10 | +0 | +5         | Con 22 | +6 | +6         |
-| Int    | 8 | −1 | −1         | Sab 12 | +1 | +6         | Car 12 | +1 | +1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 22 (+6) | 10 (+0) | 22 (+6) | 8 (−1) | 12 (+1) | 12 (+1) |
 
 **Habilidades:** Percepción +11, Sigilo +5
 
 **Inmunidades:** frío
 
-**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m;
-
-Percepción pasiva 21 **Idiomas:** común, dracónico
+**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m; Percepción pasiva 21 **Idiomas:** común, dracónico
 
 **VD:** 13 (10 000 PX u 11 500 en la guarida; BC +5)
 
-# Atributos
+### Atributos
 
 *Caminar por el hielo.* El dragón puede moverse y trepar por superficies heladas sin tener que hacer pruebas de característica. Además, desplazarse por terreno difícil compuesto de nieve o hielo no le cuesta movimiento adicional.
 
 *Resistencia legendaria (3/día o 4/día en la guarida).* El dragón puede elegir tener éxito en una tirada de salvación que haya fallado.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El dragón realiza tres ataques de desgarro.
 
@@ -686,7 +636,7 @@ Percepción pasiva 21 **Idiomas:** común, dracónico
 
 *Aliento gélido (recarga 5–6). Tirada de salvación de Constitución:* CD 19, todas las criaturas en un cono de 18 m. *Fallo:* 54 (12d8) de daño de frío. *Éxito:* la mitad del daño.
 
-# Acciones legendarias
+### Acciones legendarias
 
 *Usos de acciones legendarias: 3 (4 en la guarida). Justo después del turno de otra criatura, el dragón puede emplear un uso para llevar a cabo una de las siguientes acciones. El dragón recupera todos los usos al principio de cada uno de sus turnos.*
 
@@ -706,22 +656,19 @@ Percepción pasiva 21 **Idiomas:** común, dracónico
 
 **Velocidad:** 12 m, excavar 12 m, nadar 12 m, volar 24 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 26 |    | +8 | +8         | Des 10 | +0 | +6         | Con 26 | +8 | +8         |
-| Int    | 10 | +0 | +0         | Sab 13 | +1 | +7         | Car 18 | +4 | +4         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 26 (+8) | 10 (+0) | 26 (+8) | 10 (+0) | 13 (+1) | 18 (+4) |
 
 **Habilidades:** Percepción +13, Sigilo +6
 
 **Inmunidades:** frío
 
-**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m;
-
-Percepción pasiva 23 **Idiomas:** común, dracónico
+**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m; Percepción pasiva 23 **Idiomas:** común, dracónico
 
 **VD:** 20 (25 000 PX o 33 000 en la guarida; BC +6)
 
-# Atributos
+### Atributos
 
 *Caminar por el hielo.* El dragón puede moverse y trepar por superficies heladas sin tener que hacer pruebas de característica. Además, desplazarse por terreno difícil compuesto de nieve o hielo no le cuesta movimiento adicional.
 
@@ -729,7 +676,7 @@ Percepción pasiva 23 **Idiomas:** común, dracónico
 
 El dragón puede elegir tener éxito en una tirada de salvación que haya fallado.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El dragón realiza tres ataques de desgarro.
 
@@ -737,7 +684,7 @@ El dragón puede elegir tener éxito en una tirada de salvación que haya fallad
 
 *Aliento gélido (recarga 5–6). Tirada de salvación de Constitución:* CD 22, todas las criaturas en un cono de 27 m. *Fallo:* 63 (14d8) de daño de frío. *Éxito:* la mitad del daño.
 
-# Acciones legendarias
+### Acciones legendarias
 
 *Usos de acciones legendarias: 3 (4 en la guarida). Justo después del turno de otra criatura, el dragón puede emplear un uso para llevar a cabo una de las siguientes acciones. El dragón recupera todos los usos al principio de cada uno de sus turnos.*
 
@@ -759,24 +706,21 @@ El dragón puede elegir tener éxito en una tirada de salvación que haya fallad
 
 **Velocidad:** 12 m, nadar 12 m, volar 24 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 21 |    | +5 | +5         | Des 10 | +0 | +3         | Con 19 | +4 | +4         |
-| Int    | 14 | +2 | +2         | Sab 13 | +1 | +4         | Car 17 | +3 | +3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 21 (+5) | 10 (+0) | 19 (+4) | 14 (+2) | 13 (+1) | 17 (+3) |
 
 **Habilidades:** Percepción +7, Perspicacia +4, Sigilo +3
 
 **Inmunidades:** relámpago
 
-**Sentidos:** visión ciega 9 m, visión en la oscuridad 36 m;
+**Sentidos:** visión ciega 9 m, visión en la oscuridad 36 m; Percepción pasiva 17 **Idiomas:** común, dracónico **VD:** 8 (3900 PX; BC +3)
 
-Percepción pasiva 17 **Idiomas:** común, dracónico **VD:** 8 (3900 PX; BC +3)
-
-# Atributos
+### Atributos
 
 *Anfibio.* El dragón puede respirar tanto dentro como fuera del agua.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El dragón realiza tres ataques de desgarro. Puede sustituir un ataque por un uso de su aliento repulsor.
 
@@ -796,28 +740,25 @@ Percepción pasiva 17 **Idiomas:** común, dracónico **VD:** 8 (3900 PX; BC +3)
 
 **Velocidad:** 12 m, nadar 12 m, volar 24 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 25 |    | +7 | +7         | Des 10 | +0 | +5         | Con 23 | +6 | +6         |
-| Int    | 16 | +3 | +3         | Sab 15 | +2 | +7         | Car 20 | +5 | +5         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 25 (+7) | 10 (+0) | 23 (+6) | 16 (+3) | 15 (+2) | 20 (+5) |
 
 **Habilidades:** Percepción +12, Perspicacia +7, Sigilo +5
 
 **Inmunidades:** relámpago
 
-**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m;
-
-Percepción pasiva 22 **Idiomas:** común, dracónico
+**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m; Percepción pasiva 22 **Idiomas:** común, dracónico
 
 **VD:** 15 (13 000 PX o 15 000 en la guarida; BC +5)
 
-# Atributos
+### Atributos
 
 *Anfibio.* El dragón puede respirar tanto dentro como fuera del agua.
 
 *Resistencia legendaria (3/día o 4/día en la guarida).* El dragón puede elegir tener éxito en una tirada de salvación que haya fallado.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El dragón realiza tres ataques de desgarro. Puede sustituir un ataque por un uso de (A) su aliento repulsor o de (B) su lanzamiento de conjuros para lanzar *saeta guía* (versión de nivel 2).
 
@@ -833,7 +774,7 @@ Percepción pasiva 22 **Idiomas:** común, dracónico
 
 **1/día cada uno:** *detectar pensamientos*, *respirar bajo el agua*
 
-# Acciones legendarias
+### Acciones legendarias
 
 *Usos de acciones legendarias: 3 (4 en la guarida). Justo después del turno de otra criatura, el dragón puede emplear un uso para llevar a cabo una de las siguientes acciones. El dragón recupera todos los usos al principio de cada uno de sus turnos.*
 
@@ -853,10 +794,9 @@ Percepción pasiva 22 **Idiomas:** común, dracónico
 
 **Velocidad:** 12 m, nadar 12 m, volar 24 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 29 |    | +9 | +9         | Des 10 | +0 | +7         | Con 27 | +8 | +8         |
-| Int    | 18 | +4 | +4         | Sab 17 | +3 | +10        | Car 25 | +7 | +7         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 29 (+9) | 10 (+0) | 27 (+8) | 18 (+4) | 17 (+3) | 25 (+7) |
 
 **Habilidades:** Percepción +17, Perspicacia +10, Sigilo +7
 
@@ -868,13 +808,13 @@ Percepción pasiva 22 **Idiomas:** común, dracónico
 
 **VD:** 22 (41 000 PX o 50 000 en la guarida; BC +7)
 
-# Atributos
+### Atributos
 
 *Anfibio.* El dragón puede respirar tanto dentro como fuera del agua.
 
 *Resistencia legendaria (4/día o 5/día en la guarida).* El dragón puede elegir tener éxito en una tirada de salvación que haya fallado.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El dragón realiza tres ataques de desgarro. Puede sustituir un ataque por un uso de (A) su aliento repulsor o de (B) su lanzamiento de conjuros para lanzar *saeta guía* (versión de nivel 2).
 
@@ -890,7 +830,7 @@ Percepción pasiva 22 **Idiomas:** común, dracónico
 
 **1/día cada uno:** *controlar agua*, *detectar pensamientos*, *escudriñar*, *respirar bajo el agua*
 
-# Acciones legendarias
+### Acciones legendarias
 
 *Usos de acciones legendarias: 3 (4 en la guarida). Justo después del turno de otra criatura, el dragón puede emplear un uso para llevar a cabo una de las siguientes acciones. El dragón recupera todos los usos al principio de cada uno de sus turnos.*
 
@@ -921,11 +861,9 @@ Percepción pasiva 22 **Idiomas:** común, dracónico
 
 **Inmunidades:** ácido
 
-**Sentidos:** visión ciega 9 m, visión en la oscuridad 36 m;
+**Sentidos:** visión ciega 9 m, visión en la oscuridad 36 m; Percepción pasiva 17 **Idiomas:** común, dracónico **VD:** 7 (2900 PX; BC +3)
 
-Percepción pasiva 17 **Idiomas:** común, dracónico **VD:** 7 (2900 PX; BC +3)
-
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El dragón realiza tres ataques de desgarro. Puede sustituir un ataque por un uso de su aliento ralentizador.
 
@@ -954,17 +892,15 @@ Percepción pasiva 17 **Idiomas:** común, dracónico **VD:** 7 (2900 PX; BC +3)
 
 **Inmunidades:** ácido
 
-**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m;
-
-Percepción pasiva 22 **Idiomas:** común, dracónico
+**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m; Percepción pasiva 22 **Idiomas:** común, dracónico
 
 **VD:** 14 (11 500 PX o 13 000 en la guarida; BC +5)
 
-# Atributos
+### Atributos
 
 *Resistencia legendaria (3/día o 4/día en la guarida).* El dragón puede elegir tener éxito en una tirada de salvación que haya fallado.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El dragón realiza tres ataques de desgarro. Puede sustituir un ataque por un uso de (A) su aliento ralentizador o de (B) su lanzamiento de conjuros para lanzar *clavo mental* (versión de nivel 4).
 
@@ -980,7 +916,7 @@ Percepción pasiva 22 **Idiomas:** común, dracónico
 
 **1/día cada uno:** *imagen mayor*, *restablecimiento mayor*
 
-# Acciones legendarias
+### Acciones legendarias
 
 *Usos de acciones legendarias: 3 (4 en la guarida). Justo después del turno de otra criatura, el dragón puede emplear un uso para llevar a cabo una de las siguientes acciones. El dragón recupera todos los usos al principio de cada uno de sus turnos.*
 
@@ -1009,17 +945,15 @@ Percepción pasiva 22 **Idiomas:** común, dracónico
 
 **Inmunidades:** ácido
 
-**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m;
-
-Percepción pasiva 27 **Idiomas:** común, dracónico
+**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m; Percepción pasiva 27 **Idiomas:** común, dracónico
 
 **VD:** 21 (33 000 PX o 41 000 en la guarida; BC +7)
 
-# Atributos
+### Atributos
 
 *Resistencia legendaria (4/día o 5/día en la guarida).* El dragón puede elegir tener éxito en una tirada de salvación que haya fallado.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El dragón realiza tres ataques de desgarro. Puede sustituir un ataque por un uso de (A) su aliento ralentizador o de (B) su lanzamiento de conjuros para lanzar *clavo mental* (versión de nivel 5).
 
@@ -1035,7 +969,7 @@ Percepción pasiva 27 **Idiomas:** común, dracónico
 
 **1/día cada uno:** *imagen mayor*, *proyectar imagen*, *restablecimiento mayor*
 
-# Acciones legendarias
+### Acciones legendarias
 
 *Usos de acciones legendarias: 3 (4 en la guarida). Justo después del turno de otra criatura, el dragón puede emplear un uso para llevar a cabo una de las siguientes acciones. El dragón recupera todos los usos al principio de cada uno de sus turnos.*
 
@@ -1066,15 +1000,13 @@ Percepción pasiva 27 **Idiomas:** común, dracónico
 
 **Inmunidades:** fuego
 
-**Sentidos:** visión ciega 9 m, visión en la oscuridad 36 m;
+**Sentidos:** visión ciega 9 m, visión en la oscuridad 36 m; Percepción pasiva 19 **Idiomas:** común, dracónico **VD:** 10 (5900 PX; BC +4)
 
-Percepción pasiva 19 **Idiomas:** común, dracónico **VD:** 10 (5900 PX; BC +4)
-
-# Atributos
+### Atributos
 
 *Anfibio.* El dragón puede respirar tanto dentro como fuera del agua.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El dragón realiza tres ataques de desgarro. Puede sustituir un ataque por un uso de su aliento debilitador.
 
@@ -1103,19 +1035,17 @@ Percepción pasiva 19 **Idiomas:** común, dracónico **VD:** 10 (5900 PX; BC +4
 
 **Inmunidades:** fuego
 
-**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m;
-
-Percepción pasiva 24 **Idiomas:** común, dracónico
+**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m; Percepción pasiva 24 **Idiomas:** común, dracónico
 
 **VD:** 17 (18 000 PX o 20 000 en la guarida; BC +6)
 
-# Atributos
+### Atributos
 
 *Anfibio.* El dragón puede respirar tanto dentro como fuera del agua.
 
 *Resistencia legendaria (3/día o 4/día en la guarida).* El dragón puede elegir tener éxito en una tirada de salvación que haya fallado.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El dragón realiza tres ataques de desgarro. Puede sustituir un ataque por un uso de (A) su lanzamiento de conjuros para lanzar *saeta guía* (versión de nivel 2) o de (B) su aliento debilitador.
 
@@ -1129,7 +1059,7 @@ Percepción pasiva 24 **Idiomas:** común, dracónico
 
 **A voluntad:** *cambiar de forma* (solo forma de bestia o humanoide, no se obtienen puntos de golpe temporales del conjuro y no se requieren concentración ni puntos de golpe temporales para mantener el conjuro), *detectar magia*, *saeta guía* (versión de nivel 2) **1/día cada uno:** *golpe flamígero*, *zona de la verdad*
 
-# Acciones legendarias
+### Acciones legendarias
 
 *Usos de acciones legendarias: 3 (4 en la guarida). Justo después del turno de otra criatura, el dragón puede emplear un uso para llevar a cabo una de las siguientes acciones. El dragón recupera todos los usos al principio de cada uno de sus turnos.*
 
@@ -1158,19 +1088,17 @@ Percepción pasiva 24 **Idiomas:** común, dracónico
 
 **Inmunidades:** fuego
 
-**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m;
-
-Percepción pasiva 27 **Idiomas:** común, dracónico
+**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m; Percepción pasiva 27 **Idiomas:** común, dracónico
 
 **VD:** 24 (62 000 PX o 75 000 en la guarida; BC +7)
 
-# Atributos
+### Atributos
 
 *Anfibio.* El dragón puede respirar tanto dentro como fuera del agua.
 
 *Resistencia legendaria (4/día o 5/día en la guarida).* El dragón puede elegir tener éxito en una tirada de salvación que haya fallado.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El dragón realiza tres ataques de desgarro. Puede sustituir un ataque por un uso de (A) su lanzamiento de conjuros para lanzar *saeta guía* (versión de nivel 4) o de (B) su aliento debilitador.
 
@@ -1184,7 +1112,7 @@ Percepción pasiva 27 **Idiomas:** común, dracónico
 
 **A voluntad:** *cambiar de forma* (solo forma de bestia o humanoide, no se obtienen puntos de golpe temporales del conjuro y no se requieren concentración ni puntos de golpe temporales para mantener el conjuro), *detectar magia*, *saeta guía* (versión de nivel 4) **1/día cada uno:** *golpe flamígero* (versión de nivel 6), *palabra de regreso*, *zona de la verdad*
 
-# Acciones legendarias
+### Acciones legendarias
 
 *Usos de acciones legendarias: 3 (4 en la guarida). Justo después del turno de otra criatura, el dragón puede emplear un uso para llevar a cabo una de las siguientes acciones. El dragón recupera todos los usos al principio de cada uno de sus turnos.*
 
@@ -1206,20 +1134,17 @@ Percepción pasiva 27 **Idiomas:** común, dracónico
 
 **Velocidad:** 12 m, excavar 6 m, volar 24 m
 
-|        | MOD. SALV. |    |    |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|------------|----|----|--------|----|------------|--------|----|------------|
-| Fue 19 |            | +4 | +4 | Des 10 | +0 | +3         | Con 17 | +3 | +3         |
-| Int    | 12         | +1 | +1 | Sab 11 | +0 | +3         | Car 15 | +2 | +2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
 
 **Habilidades:** Percepción +6, Persuasión +5, Sigilo +3
 
 **Inmunidades:** fuego
 
-**Sentidos:** visión ciega 9 m, visión en la oscuridad 36 m;
+**Sentidos:** visión ciega 9 m, visión en la oscuridad 36 m; Percepción pasiva 16 **Idiomas:** común, dracónico **VD:** 6 (2300 PX; BC +3)
 
-Percepción pasiva 16 **Idiomas:** común, dracónico **VD:** 6 (2300 PX; BC +3)
-
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El dragón realiza tres ataques de desgarro. Puede sustituir dos ataques por un uso de su aliento somnífero.
 
@@ -1248,17 +1173,15 @@ Percepción pasiva 16 **Idiomas:** común, dracónico **VD:** 6 (2300 PX; BC +3)
 
 **Inmunidades:** fuego
 
-**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m;
-
-Percepción pasiva 21 **Idiomas:** común, dracónico
+**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m; Percepción pasiva 21 **Idiomas:** común, dracónico
 
 **VD:** 13 (10 000 PX u 11 500 en la guarida; BC +5)
 
-# Atributos
+### Atributos
 
 *Resistencia legendaria (3/día o 4/día en la guarida).* El dragón puede elegir tener éxito en una tirada de salvación que haya fallado.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El dragón realiza tres ataques de desgarro. Puede sustituir un ataque por un uso de (A) su aliento somnífero o de (B) su lanzamiento de conjuros para lanzar *rayo abrasador*.
 
@@ -1274,7 +1197,7 @@ Percepción pasiva 21 **Idiomas:** común, dracónico
 
 **1/día cada uno:** *controlar el clima*, *detectar pensamientos*
 
-# Acciones legendarias
+### Acciones legendarias
 
 *Usos de acciones legendarias: 3 (4 en la guarida). Justo después del turno de otra criatura, el dragón puede emplear un uso para llevar a cabo una de las siguientes acciones. El dragón recupera todos los usos al principio de cada uno de sus turnos.*
 
@@ -1294,26 +1217,23 @@ Percepción pasiva 21 **Idiomas:** común, dracónico
 
 **Velocidad:** 12 m, excavar 12 m, volar 24 m
 
-|        | MOD. SALV. |    |    |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|------------|----|----|--------|----|------------|--------|----|------------|
-| Fue 27 |            | +8 | +8 | Des 10 | +0 | +6         | Con 25 | +7 | +7         |
-| Int    | 16         | +3 | +3 | Sab 15 | +2 | +8         | Car 22 | +6 | +6         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 15 (+2) | 22 (+6) |
 
 **Habilidades:** Historia +9, Percepción +14, Persuasión +12, Sigilo +6
 
 **Inmunidades:** fuego
 
-**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m;
-
-Percepción pasiva 24 **Idiomas:** común, dracónico
+**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m; Percepción pasiva 24 **Idiomas:** común, dracónico
 
 **VD:** 20 (25 000 PX o 33 000 en la guarida; BC +6)
 
-# Atributos
+### Atributos
 
 *Resistencia legendaria (4/día o 5/día en la guarida).* El dragón puede elegir tener éxito en una tirada de salvación que haya fallado.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El dragón realiza tres ataques de desgarro. Puede sustituir un ataque por un uso de (A) su aliento somnífero o de (B) su lanzamiento de conjuros para lanzar *rayo abrasador* (versión de nivel 3).
 
@@ -1329,7 +1249,7 @@ Percepción pasiva 24 **Idiomas:** común, dracónico
 
 **1/día cada uno:** *controlar el clima*, *detectar pensamientos*
 
-# Acciones legendarias
+### Acciones legendarias
 
 *Usos de acciones legendarias: 3 (4 en la guarida). Justo después del turno de otra criatura, el dragón puede emplear un uso para llevar a cabo una de las siguientes acciones. El dragón recupera todos los usos al principio de cada uno de sus turnos.*
 
@@ -1349,20 +1269,17 @@ Percepción pasiva 24 **Idiomas:** común, dracónico
 
 **PG:** 168 (16d10 + 80) **Velocidad:** 12 m, volar 24 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 23 |    | +6 | +6         | Des 10 | +0 | +4         | Con 21 | +5 | +5         |
-| Int    | 14 | +2 | +2         | Sab 11 | +0 | +4         | Car 19 | +4 | +4         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
 
 **Habilidades:** Historia +6, Percepción +8, Sigilo +4
 
 **Inmunidades:** frío
 
-**Sentidos:** visión ciega 9 m, visión en la oscuridad 36 m;
+**Sentidos:** visión ciega 9 m, visión en la oscuridad 36 m; Percepción pasiva 18 **Idiomas:** común, dracónico **VD:** 9 (5000 PX; BC +4)
 
-Percepción pasiva 18 **Idiomas:** común, dracónico **VD:** 9 (5000 PX; BC +4)
-
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El dragón realiza tres ataques de desgarro. Puede sustituir un ataque por un uso de su aliento paralizante.
 
@@ -1389,17 +1306,15 @@ Percepción pasiva 18 **Idiomas:** común, dracónico **VD:** 9 (5000 PX; BC +4)
 
 **Inmunidades:** frío
 
-**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m;
-
-Percepción pasiva 21 **Idiomas:** común, dracónico
+**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m; Percepción pasiva 21 **Idiomas:** común, dracónico
 
 **VD:** 16 (15 000 PX o 18 000 en la guarida; BC +5)
 
-# Atributos
+### Atributos
 
 *Resistencia legendaria (3/día o 4/día en la guarida).* El dragón puede elegir tener éxito en una tirada de salvación que haya fallado.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El dragón realiza tres ataques de desgarro. Puede sustituir un ataque por un uso de (A) su aliento paralizante o de (B) su lanzamiento de conjuros para lanzar *cuchillo de hielo*.
 
@@ -1415,7 +1330,7 @@ Percepción pasiva 21 **Idiomas:** común, dracónico
 
 **1/día cada uno:** *tormenta de hielo* (versión de nivel 5), *zona de la verdad*
 
-# Acciones legendarias
+### Acciones legendarias
 
 *Usos de acciones legendarias: 3 (4 en la guarida). Justo después del turno de otra criatura, el dragón puede emplear un uso para llevar a cabo una de las siguientes acciones. El dragón recupera todos los usos al principio de cada uno de sus turnos.*
 
@@ -1442,13 +1357,11 @@ Percepción pasiva 21 **Idiomas:** común, dracónico
 
 **Inmunidades:** frío
 
-**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m;
-
-Percepción pasiva 26 **Idiomas:** común, dracónico
+**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m; Percepción pasiva 26 **Idiomas:** común, dracónico
 
 **VD:** 23 (50 000 PX o 62 000 en la guarida; BC +7)
 
-# Atributos
+### Atributos
 
 *Resistencia legendaria (4/día o 5/día en la guarida).* El dragón puede elegir tener éxito en una tirada de salvación que haya fallado.
 
@@ -1466,7 +1379,7 @@ Percepción pasiva 26 **Idiomas:** común, dracónico
 
 **1/día cada uno:** *controlar el clima*, *teletransporte*, *tormenta de hielo* (versión de nivel 7), *zona de la verdad*
 
-# Acciones legendarias
+### Acciones legendarias
 
 *Usos de acciones legendarias: 3 (4 en la guarida). Justo después del turno de otra criatura, el dragón puede emplear un uso para llevar a cabo una de las siguientes acciones. El dragón recupera todos los usos al principio de cada uno de sus turnos.*
 
@@ -1488,20 +1401,17 @@ Percepción pasiva 26 **Idiomas:** común, dracónico
 
 **Velocidad:** 12 m, nadar 12 m, volar 24 m
 
-|        | MOD. SALV. |    |    |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|------------|----|----|--------|----|------------|--------|----|------------|
-| Fue 19 |            | +4 | +4 | Des 14 | +2 | +5         | Con 17 | +3 | +3         |
-| Int    | 12         | +1 | +1 | Sab 11 | +0 | +3         | Car 15 | +2 | +2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 19 (+4) | 14 (+2) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
 
 **Habilidades:** Percepción +6, Sigilo +5
 
 **Inmunidades:** ácido
 
-**Sentidos:** visión ciega 9 m, visión en la oscuridad 36 m;
+**Sentidos:** visión ciega 9 m, visión en la oscuridad 36 m; Percepción pasiva 16 **Idiomas:** común, dracónico **VD:** 7 (2900 PX; BC +3)
 
-Percepción pasiva 16 **Idiomas:** común, dracónico **VD:** 7 (2900 PX; BC +3)
-
-# Atributos
+### Atributos
 
 *Anfibio.* El dragón puede respirar tanto dentro como fuera del agua.
 
@@ -1521,28 +1431,25 @@ Percepción pasiva 16 **Idiomas:** común, dracónico **VD:** 7 (2900 PX; BC +3)
 
 **Velocidad:** 12 m, nadar 12 m, volar 24 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 23 |    | +6 | +6         | Des 14 | +2 | +7         | Con 21 | +5 | +5         |
-| Int    | 14 | +2 | +2         | Sab 13 | +1 | +6         | Car 19 | +4 | +4         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 23 (+6) | 14 (+2) | 21 (+5) | 14 (+2) | 13 (+1) | 19 (+4) |
 
 **Habilidades:** Percepción +11, Sigilo +7
 
 **Inmunidades:** ácido
 
-**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m;
-
-Percepción pasiva 21 **Idiomas:** común, dracónico
+**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m; Percepción pasiva 21 **Idiomas:** común, dracónico
 
 **VD:** 14 (11 500 PX o 13 000 en la guarida; BC +5)
 
-# Atributos
+### Atributos
 
 *Anfibio.* El dragón puede respirar tanto dentro como fuera del agua.
 
 *Resistencia legendaria (3/día o 4/día en la guarida).* El dragón puede elegir tener éxito en una tirada de salvación que haya fallado.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El dragón realiza tres ataques de desgarro. Puede sustituir un ataque por un uso de su lanzamiento de conjuros para lanzar *flecha ácida* (versión de nivel 3).
 
@@ -1556,7 +1463,7 @@ Percepción pasiva 21 **Idiomas:** común, dracónico
 
 **1/día cada uno:** *esfera vitriólica*, *hablar con los muertos*
 
-# Acciones legendarias
+### Acciones legendarias
 
 *Usos de acciones legendarias: 3 (4 en la guarida). Justo después del turno de otra criatura, el dragón puede emplear un uso para llevar a cabo una de las siguientes acciones. El dragón recupera todos los usos al principio de cada uno de sus turnos.*
 
@@ -1576,28 +1483,25 @@ Percepción pasiva 21 **Idiomas:** común, dracónico
 
 **Velocidad:** 12 m, nadar 12 m, volar 24 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 27 |    | +8 | +8         | Des 14 | +2 | +9         | Con 25 | +7 | +7         |
-| Int    | 16 | +3 | +3         | Sab 15 | +2 | +9         | Car 22 | +6 | +6         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 27 (+8) | 14 (+2) | 25 (+7) | 16 (+3) | 15 (+2) | 22 (+6) |
 
 **Habilidades:** Percepción +16, Sigilo +9
 
 **Inmunidades:** ácido
 
-**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m;
-
-Percepción pasiva 26 **Idiomas:** común, dracónico
+**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m; Percepción pasiva 26 **Idiomas:** común, dracónico
 
 **VD:** 21 (33 000 PX o 41 000 en la guarida; BC +7)
 
-# Atributos
+### Atributos
 
 *Anfibio.* El dragón puede respirar tanto dentro como fuera del agua.
 
 *Resistencia legendaria (4/día o 5/día en la guarida).* El dragón puede elegir tener éxito en una tirada de salvación que haya fallado.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El dragón realiza tres ataques de desgarro. Puede sustituir un ataque por un uso de su lanzamiento de conjuros para lanzar *flecha ácida* (versión de nivel 4).
 
@@ -1611,7 +1515,7 @@ Percepción pasiva 26 **Idiomas:** común, dracónico
 
 **1/día cada uno:** *crear muerto viviente*, *esfera vitriólica* (versión de nivel 5), *hablar con los muertos*
 
-# Acciones legendarias
+### Acciones legendarias
 
 *Usos de acciones legendarias: 3 (4 en la guarida). Justo después del turno de otra criatura, el dragón puede emplear un uso para llevar a cabo una de las siguientes acciones. El dragón recupera todos los usos al principio de cada uno de sus turnos.*
 
@@ -1633,20 +1537,17 @@ Percepción pasiva 26 **Idiomas:** común, dracónico
 
 **Velocidad:** 12 m, trepar 12 m, volar 24 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 23 |    | +6 | +6         | Des 10 | +0 | +4         | Con 21 | +5 | +5         |
-| Int    | 14 | +2 | +2         | Sab 11 | +0 | +4         | Car 19 | +4 | +4         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
 
 **Habilidades:** Percepción +8, Sigilo +4
 
 **Inmunidades:** fuego
 
-**Sentidos:** visión ciega 9 m, visión en la oscuridad 36 m;
+**Sentidos:** visión ciega 9 m, visión en la oscuridad 36 m; Percepción pasiva 18 **Idiomas:** común, dracónico **VD:** 10 (5900 PX; BC +4)
 
-Percepción pasiva 18 **Idiomas:** común, dracónico **VD:** 10 (5900 PX; BC +4)
-
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El dragón realiza tres ataques de desgarro.
 
@@ -1664,22 +1565,19 @@ Percepción pasiva 18 **Idiomas:** común, dracónico **VD:** 10 (5900 PX; BC +4
 
 **Velocidad:** 12 m, trepar 12 m, volar 24 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 27 |    | +8 | +8         | Des 10 | +0 | +6         | Con 25 | +7 | +7         |
-| Int    | 16 | +3 | +3         | Sab 13 | +1 | +7         | Car 23 | +6 | +6         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 23 (+6) |
 
 **Habilidades:** Percepción +13, Sigilo +6
 
 **Inmunidades:** fuego
 
-**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m;
-
-Percepción pasiva 23 **Idiomas:** común, dracónico
+**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m; Percepción pasiva 23 **Idiomas:** común, dracónico
 
 **VD:** 17 (18 000 PX o 20 000 en la guarida; BC +6)
 
-# Atributos
+### Atributos
 
 *Resistencia legendaria (3/día o 4/día en la guarida).* El dragón puede elegir tener éxito en una tirada de salvación que haya fallado.
 
@@ -1695,7 +1593,7 @@ Percepción pasiva 23 **Idiomas:** común, dracónico
 
 **1/día:** *bola de fuego*
 
-# Acciones legendarias
+### Acciones legendarias
 
 *Usos de acciones legendarias: 3 (4 en la guarida). Justo después del turno de otra criatura, el dragón puede emplear un uso para llevar a cabo una de las siguientes acciones. El dragón recupera todos los usos al principio de cada uno de sus turnos.*
 
@@ -1715,26 +1613,23 @@ Percepción pasiva 23 **Idiomas:** común, dracónico
 
 **Velocidad:** 12 m, trepar 12 m, volar 24 m
 
-|     |        |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|--------|----|------------|--------|----|------------|--------|----|------------|
-|     | Fue 30 |    | +10 +10    | Des 10 | +0 | +7         | Con 29 | +9 | +9         |
-| Int | 18     | +4 | +4         | Sab 15 | +2 | +9         | Car 27 | +8 | +8         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 30 (+0) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 27 (+8) |
 
 **Habilidades:** Percepción +16, Sigilo +7
 
 **Inmunidades:** fuego
 
-**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m;
-
-Percepción pasiva 26 **Idiomas:** común, dracónico
+**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m; Percepción pasiva 26 **Idiomas:** común, dracónico
 
 **VD:** 24 (62 000 PX o 75 000 en la guarida; BC +7)
 
-# Atributos
+### Atributos
 
 *Resistencia legendaria (4/día o 5/día en la guarida).* El dragón puede elegir tener éxito en una tirada de salvación que haya fallado.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El dragón realiza tres ataques de desgarro. Puede sustituir un ataque por un uso de su lanzamiento de conjuros para lanzar *rayo abrasador* (versión de nivel 3).
 
@@ -1746,7 +1641,7 @@ Percepción pasiva 26 **Idiomas:** común, dracónico
 
 **A voluntad:** *detectar magia*, *orden imperiosa* (versión de nivel 2), *rayo abrasador* (versión de nivel 3) **1/día cada uno:** *bola de fuego* (versión de nivel 6), *escudriñar*
 
-# Acciones legendarias
+### Acciones legendarias
 
 *Usos de acciones legendarias: 3 (4 en la guarida). Justo después del turno de otra criatura, el dragón puede emplear un uso para llevar a cabo una de las siguientes acciones. El dragón recupera todos los usos al principio de cada uno de sus turnos.*
 
@@ -1768,24 +1663,21 @@ Percepción pasiva 26 **Idiomas:** común, dracónico
 
 **Velocidad:** 12 m, nadar 12 m, volar 24 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 19 |    | +4 | +4         | Des 12 | +1 | +4         | Con 17 | +3 | +3         |
-| Int    | 16 | +3 | +3         | Sab 13 | +1 | +4         | Car 15 | +2 | +2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
 
 **Habilidades:** Engaño +5, Percepción +7, Sigilo +4
 
 **Inmunidades:** veneno; envenenado
 
-**Sentidos:** visión ciega 9 m, visión en la oscuridad 36 m;
+**Sentidos:** visión ciega 9 m, visión en la oscuridad 36 m; Percepción pasiva 17 **Idiomas:** común, dracónico **VD:** 8 (3900 PX; BC +3)
 
-Percepción pasiva 17 **Idiomas:** común, dracónico **VD:** 8 (3900 PX; BC +3)
-
-# Atributos
+### Atributos
 
 *Anfibio.* El dragón puede respirar tanto dentro como fuera del agua.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El dragón realiza tres ataques de desgarro.
 
@@ -1803,30 +1695,25 @@ Percepción pasiva 17 **Idiomas:** común, dracónico **VD:** 8 (3900 PX; BC +3)
 
 **Velocidad:** 12 m, nadar 12 m, volar 24 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 23 |    | +6 | +6         | Des 12 | +1 | +6         | Con 21 | +5 | +5         |
-| Int    | 18 | +4 | +4         | Sab 15 | +2 | +7         | Car 18 | +4 | +4         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 23 (+6) | 12 (+1) | 21 (+5) | 18 (+4) | 15 (+2) | 18 (+4) |
 
-**Habilidades:** Engaño +9, Percepción +12, Persuasión +9,
-
-Sigilo +6
+**Habilidades:** Engaño +9, Percepción +12, Persuasión +9, Sigilo +6
 
 **Inmunidades:** veneno; envenenado
 
-**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m;
-
-Percepción pasiva 22 **Idiomas:** común, dracónico
+**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m; Percepción pasiva 22 **Idiomas:** común, dracónico
 
 **VD:** 15 (13 000 PX o 15 000 en la guarida; BC +5)
 
-# Atributos
+### Atributos
 
 *Anfibio.* El dragón puede respirar tanto dentro como fuera del agua.
 
 *Resistencia legendaria (3/día o 4/día en la guarida).* El dragón puede elegir tener éxito en una tirada de salvación que haya fallado.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El dragón realiza tres ataques de desgarro. Puede sustituir un ataque por un uso de su lanzamiento de conjuros para lanzar *clavo mental* (versión de nivel 3).
 
@@ -1840,7 +1727,7 @@ Percepción pasiva 22 **Idiomas:** común, dracónico
 
 **1/día:** *geas*
 
-# Acciones legendarias
+### Acciones legendarias
 
 *Usos de acciones legendarias: 3 (4 en la guarida). Justo después del turno de otra criatura, el dragón puede emplear un uso para llevar a cabo una de las siguientes acciones. El dragón recupera todos los usos al principio de cada uno de sus turnos.*
 
@@ -1858,30 +1745,25 @@ Percepción pasiva 22 **Idiomas:** común, dracónico
 
 **Velocidad:** 12 m, nadar 12 m, volar 24 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 27 |    | +8 | +8         | Des 12 | +1 | +8         | Con 25 | +7 | +7         |
-| Int    | 20 | +5 | +5         | Sab 17 | +3 | +10        | Car 22 | +6 | +6         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 27 (+8) | 12 (+1) | 25 (+7) | 20 (+5) | 17 (+3) | 22 (+6) |
 
-**Habilidades:** Engaño +13, Percepción +17, Persuasión +13,
-
-Sigilo +8
+**Habilidades:** Engaño +13, Percepción +17, Persuasión +13, Sigilo +8
 
 **Inmunidades:** veneno; envenenado
 
-**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m;
-
-Percepción pasiva 27 **Idiomas:** común, dracónico
+**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m; Percepción pasiva 27 **Idiomas:** común, dracónico
 
 **VD:** 22 (41 000 PX o 50 000 en la guarida; BC +7)
 
-# Atributos
+### Atributos
 
 *Anfibio.* El dragón puede respirar tanto dentro como fuera del agua.
 
 *Resistencia legendaria (4/día o 5/día en la guarida).* El dragón puede elegir tener éxito en una tirada de salvación que haya fallado.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El dragón realiza tres ataques de desgarro. Puede sustituir un ataque por un uso de su lanzamiento de conjuros para lanzar *clavo mental* (versión de nivel 5).
 
@@ -1895,7 +1777,7 @@ Percepción pasiva 27 **Idiomas:** común, dracónico
 
 **1/día cada uno:** *alterar los recuerdos*, *geas*
 
-# Acciones legendarias
+### Acciones legendarias
 
 *Usos de acciones legendarias: 3 (4 en la guarida). Justo después del turno de otra criatura, el dragón puede emplear un uso para llevar a cabo una de las siguientes acciones. El dragón recupera todos los usos al principio de cada uno de sus turnos.*
 
@@ -1904,8 +1786,6 @@ Percepción pasiva 27 **Idiomas:** común, dracónico
 *Invasión mental.* El dragón utiliza su lanzamiento de conjuros para lanzar *clavo mental* (versión de nivel 5).
 
 *Miasma venenoso. Tirada de salvación de Constitución:* CD 21, todas las criaturas en una esfera de 9 m de radio centrada en un punto que el dragón pueda ver a 27 m o menos. *Fallo:* 17 (5d6) de daño de veneno y el objetivo tendrá un penalizador de −2 a la CA hasta el final de su siguiente turno. *Fallo o éxito:* el dragón no puede volver a realizar esta acción hasta el principio de su siguiente turno.
-
-# **Dragón tortuga**
 
 # **Dragón tortuga**
 
@@ -1922,19 +1802,17 @@ Percepción pasiva 27 **Idiomas:** común, dracónico
 
 **Resistencias:** fuego
 
-**Sentidos:** visión en la oscuridad 36 m; Percepción
-
-pasiva 11
+**Sentidos:** visión en la oscuridad 36 m; Percepción pasiva 11
 
 **Idiomas:** dracónico, primordial (acuano)
 
 **VD:** 17 (18 000 PX; BC +6)
 
-# Atributos
+### Atributos
 
 *Anfibio.* El dragón puede respirar tanto dentro como fuera del agua.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El dragón realiza tres ataques de mordisco. Puede sustituir uno de ellos por un ataque con su cola.
 
@@ -1943,8 +1821,6 @@ pasiva 11
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +13, alcance 4,5 m. *Acierto:* 23 (3d10 + 7) de daño perforante más 7 (2d6) de daño de fuego. Estar bajo el agua no otorga resistencia a este daño de fuego.
 
 *Aliento de vapor (recarga 5–6). Tirada de salvación de Constitución:* CD 19, todas las criaturas en un cono de 18 m. *Fallo:* 56 (16d6) de daño de fuego. *Éxito:* la mitad del daño. *Fallo o éxito:* estar bajo el agua no otorga resistencia a este daño de fuego.
-
-# **Draña**
 
 # **Draña**
 
@@ -1961,13 +1837,11 @@ pasiva 11
 
 **Habilidades:** Percepción +6, Sigilo +10
 
-**Sentidos:** visión en la oscuridad 36 m; Percepción
-
-pasiva 16
+**Sentidos:** visión en la oscuridad 36 m; Percepción pasiva 16
 
 **Idiomas:** elfo, infracomún **VD:** 6 (2300 PX; BC +3)
 
-# Atributos
+### Atributos
 
 *Caminar por telarañas.* La draña ignora todas las restricciones de movimiento causadas por las telarañas y conoce la ubicación de cualquier otra criatura que esté en contacto con la misma telaraña.
 
@@ -1975,7 +1849,7 @@ pasiva 16
 
 *Trepar cual arácnido.* La draña puede trepar por superficies difíciles e incluso recorrer techos sin tener que realizar pruebas de característica.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* La draña realiza tres ataques con sus patas delanteras o su estallido venenoso en cualquier combinación.
 
@@ -1989,18 +1863,15 @@ pasiva 16
 
 # **Dretch**
 
-# **Dretch**
-
 *Infernal Pequeño (demonio), caótico malvado*
 
 **CA:** 11 **Iniciativa:** +0 (10)
 
 **PG:** 18 (4d6 + 4) **Velocidad:** 6 m
 
-|        |   |    | MOD. SALV. |        | MOD. SALV. |    |    |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|------------|----|----|--------|----|------------|
-| Fue 12 |   | +1 | +1         | Des 11 |            | +0 | +0 | Con 12 | +1 | +1         |
-| Int    | 5 | −3 | −3         | Sab    | 8          | −1 | −1 | Car 3  | −4 | −4         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 12 (+1) | 11 (+0) | 12 (+1) | 5 (−3) | 8 (−1) | 3 (−4) |
 
 **Resistencias:** frío, fuego, relámpago **Inmunidades:** veneno; envenenado
 
@@ -2008,13 +1879,11 @@ pasiva 16
 
 que entiendan abisal) **VD:** 1/4 (50 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Desgarro. Tirada de ataque cuerpo a cuerpo:* +3, alcance 1,5 m. *Acierto:* 4 (1d6 + 1) de daño cortante.
 
 *Nube fétida (1/día). Tirada de salvación de Constitución:* CD 11, todas las criaturas en una emanación de 3 m que se origina en el dretch. *Fallo:* el objetivo tendrá el estado de envenenado hasta el final de su siguiente turno. Mientras esté envenenada, la criatura podrá realizar una acción o una acción adicional en su turno, pero no ambas, y no podrá llevar a cabo reacciones.
-
-# **Dríade**
 
 # **Dríade**
 
@@ -2031,19 +1900,17 @@ que entiendan abisal) **VD:** 1/4 (50 PX; BC +2)
 
 **Habilidades:** Percepción +4, Sigilo +5
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 14
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 14
 
 **Idiomas:** elfo, silvano **VD:** 1 (200 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Hablar con las bestias y las plantas.* La dríade puede comunicarse con bestias y plantas como si tuvieran un idioma en común.
 
 *Resistencia mágica.* La dríade tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* La dríade realiza un ataque con su latigazo de enredadera o su estallido de espinas y puede utilizar su lanzamiento de conjuros para lanzar *hechizar monstruo*.
 
@@ -2060,8 +1927,6 @@ pasiva 14
 # Acciones adicionales
 
 *Paso arbóreo.* Si se encuentra a 1,5 m o menos de un árbol Grande o de mayor tamaño, la dríade se teletransporta a un espacio sin ocupar a 1,5 m o menos de un segundo árbol Grande o de mayor tamaño que esté a 18 m o menos del otro.
-
-# **Druida**
 
 # **Druida**
 
@@ -2082,7 +1947,7 @@ pasiva 14
 
 **VD:** 2 (450 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El druida realiza dos ataques con su bastón de enredaderas o con su voluta verdeante en cualquier combinación.
 
@@ -2093,8 +1958,6 @@ pasiva 14
 *Lanzamiento de conjuros.* El druida lanza uno de los siguientes conjuros, que utiliza la Sabiduría como aptitud mágica (CD de salvación de conjuros 13):
 
 **A voluntad:** *hablar con los animales*, *saber druídico* **2/día cada uno:** *enmarañar*, *ola atronadora* **1/día cada uno:** *mensajero animal*, *rayo de luna*, *zancada prodigiosa*
-
-# **Duende**
 
 # **Duende**
 
@@ -2113,7 +1976,7 @@ pasiva 14
 
 **Habilidades:** Percepción +3, Sigilo +8 **Sentidos:** Percepción pasiva 13 **Idiomas:** común, elfo, silvano **VD:** 1/4 (50 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Espada aguja. Tirada de ataque cuerpo a cuerpo:* +6, alcance 1,5 m. *Acierto:* 6 (1d4 + 4) de daño perforante.
 
@@ -2122,4 +1985,5 @@ pasiva 14
 *Invisibilidad.* El duende lanza *invisibilidad* sobre sí mismo sin necesidad de componentes y utiliza el Carisma como aptitud mágica.
 
 *Visión del corazón. Tirada de salvación de Carisma:* CD 10, una criatura que el duende pueda ver a 1,5 m o menos (los celestiales, infernales y muertos vivientes fallan automáticamente la tirada). *Fallo:* el duende descubre las emociones y el alineamiento del objetivo.
+
 

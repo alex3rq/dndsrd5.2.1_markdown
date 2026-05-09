@@ -139,9 +139,7 @@ Alcance: Lanzador Componentes: V
 
 Duración: Concentración, hasta I minuto
 
-El objetivo del golpe recibe 2d6 de daño radiante adicional del ataque. Hasta que el conjuro termine, el objetivo emitirá luz brillante en un radio de 1,5 m,
-
-las tiradas de ataque contra él tendrán ventaja y no podrá beneficiarse del estado de invisible.
+El objetivo del golpe recibe 2d6 de daño radiante adicional del ataque. Hasta que el conjuro termine, el objetivo emitirá luz brillante en un radio de 1,5 m, las tiradas de ataque contra él tendrán ventaja y no podrá beneficiarse del estado de invisible.
 
 *Con un espacio de conjuro de nivel superior.* El daño aumenta en 1d6 por cada nivel por encima de 2 que tenga el espacio.
 
@@ -850,20 +848,19 @@ Una ola de energía curativa brota de un punto que puedas ver dentro del alcance
 
 **Velocidad:** 18 m, volar 18 m (requiere un conjuro de nivel 4 o superior)
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 18 |   | +4 | +4         | Des 12 | +1 | +1         | Con 14 | +2 | +2         |
-| Int    | 6 | −2 | −2         | Sab 12 | +1 | +1         | Car 8  | −1 | −1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 18 (+4) | 12 (+1) | 14 (+2) | 6 (−2) | 12 (+1) | 8 (−1) |
 
 **Sentidos:** Percepción pasiva 11
 
 **Idiomas:** telepatía 1,5 km (solo funciona contigo) **VD:** ninguno (0 PX; BC igual a tu bonificador por competencia)
 
-# Atributos
+### Atributos
 
 *Vínculo vital.* Cuando recuperas puntos de golpe mediante un conjuro de nivel 1 o superior, el corcel recupera la misma cantidad de puntos de golpe si estás a 1,5 m o menos de él.
 
-# Acciones
+### Acciones
 
 *Golpetazo sobrenatural. Tirada de ataque cuerpo a cuerpo:* bonificador igual a tu modificador de ataque de conjuros, alcance 1,5 m. *Acierto:* 1d8 más el nivel de daño radiante (celestial), psíquico (feérico) o necrótico (infernal).
 
@@ -875,7 +872,7 @@ Una ola de energía curativa brota de un punto que puedas ver dentro del alcance
 
 *Toque sanador (solo celestial; se recarga tras un descanso largo).* Una criatura a 1,5 m o menos del corcel recupera una cantidad de puntos de golpe igual a 2d8 más el nivel del conjuro.
 
-# Capas prismáticas
+### Capas prismáticas
 
 #### Orden Efectos
 

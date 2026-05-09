@@ -212,9 +212,7 @@ Los apartados de los ataques de un monstruo identifican si el ataque es cuerpo a
 
 *Fallo.* Si un ataque produce algún efecto cuando falla, esta información estará tras la anotación "*Fallo:*".
 
-Acierto o fallo. Si un ataque tiene un efecto que se produce tanto si acierta a su objetivo como si no,
-
-la información sobre él aparecerá tras la anotación "Acierto o fallo:".
+Acierto o fallo. Si un ataque tiene un efecto que se produce tanto si acierta a su objetivo como si no, la información sobre él aparecerá tras la anotación "Acierto o fallo:".
 
 #### Notación de las tiradas de salvación
 

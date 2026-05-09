@@ -1,7 +1,5 @@
 # **Pegaso**
 
-# **Pegaso**
-
 *Celestial Grande, caótico bueno*
 
 **CA:** 12 **Iniciativa:** +2 (12)
@@ -10,10 +8,9 @@
 
 **Velocidad:** 18 m, volar 27 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 18 |    | +4 | +4         | Des 15 | +2 | +4         | Con 16 | +3 | +5         |
-| Int    | 10 | +0 | +0         | Sab 15 | +2 | +4         | Car 13 | +1 | +3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 15 (+2) | 13 (+1) |
 
 **Habilidades:** Percepción +6 **Sentidos:** Percepción pasiva 16
 
@@ -21,7 +18,7 @@
 
 puede hablar **VD:** 2 (450 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Cascos. Tirada de ataque cuerpo a cuerpo:* +6, alcance 1,5 m. *Acierto:* 7 (1d6 + 4) de daño contundente más 5 (2d4) de daño radiante.
 
@@ -35,10 +32,9 @@ puede hablar **VD:** 2 (450 PX; BC +2)
 
 **PG:** 32 (5d8 + 10) **Velocidad:** 9 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 15 |    | +2 | +2         | Des 12 | +1 | +1         | Con 14 | +2 | +2         |
-| Int    | 10 | +0 | +0         | Sab 10 | +0 | +0         | Car 11 | +0 | +0         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 15 (+2) | 12 (+1) | 14 (+2) | 10 (+0) | 10 (+0) | 11 (+0) |
 
 **Equipo:** armadura de cuero, ballesta pesada, maza
 
@@ -48,7 +44,7 @@ puede hablar **VD:** 2 (450 PX; BC +2)
 
 **VD:** 1/2 (100 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Atacar en grupo.* El pendenciero tiene ventaja en una tirada de ataque contra una criatura si al menos uno de los aliados del pendenciero se encuentra a 1,5 m de la criatura y no tiene el estado de incapacitado.
 
@@ -58,36 +54,27 @@ puede hablar **VD:** 2 (450 PX; BC +2)
 
 # **Perro del inframundo**
 
-# **Perro del inframundo**
-
 *Monstruosidad Mediana, neutral malvada*
 
 **CA:** 12 **Iniciativa:** +2 (12)
 
 **PG:** 39 (6d8 + 12) **Velocidad:** 12 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 15 |   | +2 | +2         | Des 14 | +2 | +2         | Con 14 | +2 | +2         |
-| Int    | 3 | −4 | −4         | Sab 13 | +1 | +1         | Car 6  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 15 (+2) | 14 (+2) | 14 (+2) | 3 (−4) | 13 (+1) | 6 (−2) |
 
 **Habilidades:** Percepción +5, Sigilo +4
 
-**Inmunidades:** asustado, aturdido, cegado, ensordecido,
+**Inmunidades:** asustado, aturdido, cegado, ensordecido, hechizado, inconsciente
 
-hechizado, inconsciente
+**Sentidos:** visión en la oscuridad 36 m; Percepción pasiva 15 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
-**Sentidos:** visión en la oscuridad 36 m; Percepción
-
-pasiva 15 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
-
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El perro del inframundo realiza dos ataques de mordisco.
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 4 (1d4 + 2) de daño perforante. Si el objetivo es una criatura, sufre el siguiente efecto. *Tirada de salvación de Constitución:* CD 12. *Primer fallo:* el objetivo tendrá el estado de envenenado. Mientras el objetivo esté envenenado, sus puntos de golpe máximos no volverán a la normalidad cuando termine un descanso largo. Repetirá la tirada de salvación cada vez que pasen 24 horas y, si tiene éxito, se librará del efecto. *Fallos posteriores:* los puntos de golpe máximos del objetivo envenenado se reducirán en 5 (1d10).
-
-# **Perro intermitente**
 
 # **Perro intermitente**
 
@@ -97,30 +84,25 @@ pasiva 15 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
 **PG:** 22 (4d8 + 4) **Velocidad:** 12 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 12 |    | +1 | +1         | Des 17 | +3 | +3         | Con 12 | +1 | +1         |
-| Int    | 10 | +0 | +0         | Sab 13 | +1 | +1         | Car 11 | +0 | +0         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 12 (+1) | 17 (+3) | 12 (+1) | 10 (+0) | 13 (+1) | 11 (+0) |
 
 **Habilidades:** Percepción +5, Sigilo +5
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 15
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 15
 
 **Idiomas:** perro intermitente; entiende el elfo y el silvano, pero no puede hablarlos
 
 **VD:** 1/4 (50 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +5, alcance 1,5 m. *Acierto:* 5 (1d4 + 3) de daño perforante.
 
 # Acciones adicionales
 
 *Teletransporte (recarga 4–6).* El perro se teletransporta hasta 12 m a un espacio sin ocupar que pueda ver.
-
-# **Pesadilla**
 
 # **Pesadilla**
 
@@ -132,10 +114,9 @@ pasiva 15
 
 **Velocidad:** 18 m, volar 27 m (levitar)
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 18 |    | +4 | +4         | Des 15 | +2 | +2         | Con 16 | +3 | +3         |
-| Int    | 10 | +0 | +0         | Sab 13 | +1 | +1         | Car 15 | +2 | +2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 13 (+1) | 15 (+2) |
 
 **Inmunidades:** fuego
 
@@ -147,19 +128,17 @@ hablar
 
 **VD:** 3 (700 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Iluminación.* La pesadilla emite luz brillante en un radio de 3 m y luz tenue 3 m más allá.
 
 *Otorgar resistencia al fuego.* La pesadilla puede conferir resistencia al daño de fuego a cualquiera que monte sobre ella.
 
-# Acciones
+### Acciones
 
 *Cascos. Tirada de ataque cuerpo a cuerpo:* +6, alcance 1,5 m. *Acierto:* 13 (2d8 + 4) de daño contundente más 10 (3d6) de daño de fuego.
 
 *Trote etéreo.* La pesadilla y hasta tres criaturas voluntarias situadas a 1,5 m o menos de ella se teletransportan del Plano Etéreo al Plano Material, o viceversa.
-
-# **Pico de hacha**
 
 # **Pico de hacha**
 
@@ -169,16 +148,15 @@ hablar
 
 **PG:** 19 (3d10 + 3) **Velocidad:** 15 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 14 |   | +2 | +2         | Des 12 | +1 | +1         | Con 12 | +1 | +1         |
-| Int    | 2 | −4 | −4         | Sab 10 | +0 | +0         | Car 5  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 14 (+2) | 12 (+1) | 12 (+1) | 2 (−4) | 10 (+0) | 5 (−3) |
 
 **Sentidos:** Percepción pasiva 10
 
 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Pico. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 6 (1d8 + 2) de daño cortante.
 
@@ -192,24 +170,21 @@ hablar
 
 **PG:** 33 (6d8 + 6) **Velocidad:** 9 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 10 |   | +0 | +0         | Des 16 | +3 | +5         | Con 12 | +1 | +1         |
-| Int    | 8 | −1 | −1         | Sab 12 | +1 | +1         | Car 14 | +2 | +4         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 10 (+0) | 16 (+3) | 12 (+1) | 8 (−1) | 12 (+1) | 14 (+2) |
 
 **Equipo:** armadura de cuero, dagas (6) **Sentidos:** Percepción pasiva 11 **Idiomas:** común y otro cualquiera
 
 **VD:** 1 (200 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El pirata realiza dos ataques con sus dagas. Puede sustituir un ataque por un uso de su garbo cautivador.
 
 *Daga. Tirada de ataque cuerpo a cuerpo o a distancia:* +5, alcance 1,5 m o 6/18 m a distancia. *Acierto:* 5 (1d4 + 3) de daño perforante.
 
 *Garbo cautivador. Tirada de salvación de Sabiduría:* CD 12, una criatura que el pirata pueda ver a 9 m o menos. *Fallo:* el objetivo tendrá el estado de hechizado hasta el principio del siguiente turno del pirata.
-
-# **Planetar**
 
 # **Planetar**
 
@@ -232,7 +207,7 @@ hablar
 
 **Idiomas:** todos; telepatía 36 m **VD:** 16 (15 000 PX; BC +5)
 
-# Atributos
+### Atributos
 
 *Percepción divina.* El planetar reconoce cualquier mentira que escuche.
 
@@ -240,7 +215,7 @@ hablar
 
 *Resistencia mágica.* El planetar tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El planetar realiza tres ataques con su espada radiante o emplea su estallido sagrado dos veces.
 
@@ -262,18 +237,15 @@ hablar
 
 # **Plebeyo**
 
-# **Plebeyo**
-
 *Humanoide Mediano o Pequeño, neutral*
 
 **CA:** 10 **Iniciativa:** +0 (10)
 
 **PG:** 4 (1d8) **Velocidad:** 9 m
 
-|     |        |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|--------|----|------------|--------|----|------------|--------|----|------------|
-|     | Fue 10 | +0 | +0         | Des 10 | +0 | +0         | Con 10 | +0 | +0         |
-| Int | 10     | +0 | +0         | Sab 10 | +0 | +0         | Car 10 | +0 | +0         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) |
 
 **Equipo:** garrote
 
@@ -281,15 +253,13 @@ hablar
 
 **Idiomas:** común **VD:** 0 (10 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Entrenamiento.* El plebeyo es competente en una habilidad a elección de cada GM y tiene ventaja siempre que realice una prueba de característica con esa habilidad.
 
-# Acciones
+### Acciones
 
 *Garrote. Tirada de ataque cuerpo a cuerpo:* +2, alcance 1,5 m. *Acierto:* 2 (1d4) de daño contundente.
-
-# **Pseudodragón**
 
 # **Pseudodragón**
 
@@ -301,10 +271,9 @@ hablar
 
 **Velocidad:** 4,5 m, volar 18 m
 
-|     |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue | 6  | −2 | −2         | Des 15 | +2 | +2         | Con 13 | +1 | +1         |
-| Int | 10 | +0 | +0         | Sab 12 | +1 | +1         | Car 10 | +0 | +0         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 6 (−2) | 15 (+2) | 13 (+1) | 10 (+0) | 12 (+1) | 10 (+0) |
 
 **Habilidades:** Percepción +5, Sigilo +4
 
@@ -316,19 +285,17 @@ hablar
 
 **VD:** 1/4 (50 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Resistencia mágica.* El pseudodragón tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El pseudodragón realiza dos ataques de mordisco.
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 4 (1d4 + 2) de daño perforante.
 
 *Aguijón. Tirada de salvación de Constitución:* CD 12, una criatura que el pseudodragón pueda ver a 1,5 m o menos. *Fallo:* 5 (2d4) de daño de veneno y el objetivo tendrá el estado de envenenado durante 1 hora. *Fallo por 5 o más:* mientras esté envenenado, el objetivo también tendrá el estado de inconsciente, que terminará antes si recibe daño o una criatura a 1,5 m o menos de él utiliza una acción para despertarlo.
-
-# **Pudin negro**
 
 # **Pudin negro**
 
@@ -340,10 +307,9 @@ hablar
 
 **Velocidad:** 6 m, trepar 6 m
 
-|        |   |    | MOD. SALV. |     |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|-----|---|----|------------|--------|----|------------|
-| Fue 16 |   | +3 | +3         | Des | 5 | −3 | −3         | Con 16 | +3 | +3         |
-| Int    | 1 | −5 | −5         | Sab | 6 | −2 | −2         | Car 1  | −5 | −5         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 16 (+3) | 5 (−3) | 16 (+3) | 1 (−5) | 6 (−2) | 1 (−5) |
 
 **Inmunidades:** ácido, cortante, frío, relámpago; agarrado, apresado, asustado, cansancio, derribado, ensordecido, hechizado
 
@@ -351,7 +317,7 @@ hablar
 
 **Idiomas:** ninguno **VD:** 4 (1100 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Amorfo.* El pudin puede moverse a través de un espacio de solo 2,5 cm de ancho sin gastar movimiento adicional para hacerlo.
 
@@ -361,11 +327,12 @@ En 1 minuto, el pudin puede devorar y atravesar 60 cm de madera o metal no mági
 
 *Trepar cual arácnido.* El pudin puede trepar por superficies difíciles e incluso recorrer techos sin tener que realizar pruebas de característica.
 
-# Acciones
+### Acciones
 
 *Pseudópodo disolvente. Tirada de ataque cuerpo a cuerpo:* +5, alcance 3 m. *Acierto:* 17 (4d6 + 3) de daño de ácido. La armadura no mágica que lleve el objetivo recibirá un penalizador de −1 a la CA que ofrece. La armadura se destruirá si el penalizador reduce su CA hasta 10. El penalizador se puede eliminar lanzando el conjuro *reparar* sobre la armadura.
 
-# Reacciones
+### Reacciones
 
 *Dividirse. Detonante:* mientras sea Grande o Mediano y tenga 10 o más puntos de golpe, el pudin pasa a estar maltrecho o recibe daño cortante o de relámpago. *Respuesta:* el pudin se divide en dos nuevos **púdines negros**. Cada nuevo pudin tiene un tamaño inferior al del pudin original y actúa en su orden de iniciativa. Los puntos de golpe del pudin original se dividen a partes iguales entre los nuevos púdines (redondeados hacia abajo).
+
 

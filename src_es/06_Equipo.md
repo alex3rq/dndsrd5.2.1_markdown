@@ -1044,9 +1044,7 @@ Las aventuras prometen, aunque sin garantía, que encontrarás objetos mágicos.
 
 # **Identificar un objeto mágico**
 
-Algunos objetos mágicos no se pueden distinguir de sus homólogos no mágicos, mientras que otros saltan a la vista. Con solo manipular un objeto mágico, percibirás que tiene algo extraordinario,
-
-pero descubrir sus propiedades no es un proceso automático.
+Algunos objetos mágicos no se pueden distinguir de sus homólogos no mágicos, mientras que otros saltan a la vista. Con solo manipular un objeto mágico, percibirás que tiene algo extraordinario, pero descubrir sus propiedades no es un proceso automático.
 
 El conjuro *identificar* es el modo más rápido de revelar las propiedades de un objeto. De manera alternativa, puedes concentrarte en un objeto má‑ gico durante un descanso corto mientras estás en contacto físico con él. Al final del descanso, conoce‑ rás sus propiedades y cómo usarlas (pero no si pesa sobre él alguna maldición).
 

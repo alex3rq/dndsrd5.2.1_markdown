@@ -1,7 +1,5 @@
 # **Tarasca**
 
-# **Tarasca**
-
 *Monstruosidad Gargantuesca (titán), sin alineamiento*
 
 **CA:** 25 **Iniciativa:** +18 (28)
@@ -10,16 +8,13 @@
 
 **Velocidad:** 18 m, excavar 12 m, trepar 18 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 30 |   |    | +10 +10    | Des 11 | +0 | +9         | Con 30 |    | +10 +10    |
-| Int    | 3 | −4 | +5         | Sab 11 | +0 | +9         | Car 11 | +0 | +9         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 30 (+0) | 11 (+0) | 30 (+0) | 3 (−4) | 11 (+0) | 11 (+0) |
 
 **Habilidades:** Percepción +9
 
-**Resistencias:** contundente, cortante, perforante **Inmunidades:** fuego, veneno; asustado, ensordecido,
-
-envenenado, hechizado, paralizado
+**Resistencias:** contundente, cortante, perforante **Inmunidades:** fuego, veneno; asustado, ensordecido, envenenado, hechizado, paralizado
 
 **Sentidos:** visión ciega 36 m; Percepción pasiva 19
 
@@ -27,7 +22,7 @@ envenenado, hechizado, paralizado
 
 **VD:** 30 (155 000 PX; BC +9)
 
-# Atributos
+### Atributos
 
 *Caparazón reflectante.* Si la tarasca es el objetivo de un conjuro *proyectil mágico* o de un conjuro que requiera una tirada de ataque a distancia, tira 1d6. Con un resultado de **1 a 5**, la tarasca no se verá afectada. Con un **6**, la tarasca no se verá afectada y reflejará el conjuro, convirtiendo al lanzador en el objetivo.
 
@@ -37,7 +32,7 @@ envenenado, hechizado, paralizado
 
 *Resistencia mágica.* La tarasca tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* La tarasca realiza un ataque de mordisco y otros tres ataques con sus garras o su cola en cualquier combinación.
 
@@ -55,15 +50,13 @@ envenenado, hechizado, paralizado
 
 Si la tarasca sufre 60 o más de daño en un solo turno por parte de una criatura que esté dentro de ella, deberá superar una tirada de salvación de Constitución con CD 20 al final de ese turno o regurgitará a todas las criaturas engullidas, que caerán en espacios a 3 m o menos de la tarasca y tendrán el estado de derribadas. Si la tarasca muere, cualquier criatura engullida dejará de tener el estado de apresada y podrá gastar 6 m de movimiento para escapar del cadáver, del que saldrá con el estado de derribada.
 
-# Acciones legendarias
+### Acciones legendarias
 
 *Usos de acciones legendarias: 3. Justo después del turno de otra criatura, la tarasca puede emplear un uso para llevar a cabo una de las siguientes acciones. La tarasca recupera todos los usos al principio de cada uno de sus turnos.*
 
 *Arremetida.* La tarasca se mueve hasta la mitad de su velocidad y realiza un ataque con sus garras o su cola.
 
 *Movimiento estremecedor.* La tarasca se mueve hasta su velocidad. Al final de este movimiento, crea una onda sísmica instantánea en una emanación de 18 m que se origina en ella. Las criaturas situadas en esa zona perderán la concentración y, si son Medianas o más pequeñas, tendrán el estado de derribadas. La tarasca no puede volver a realizar esta acción hasta el principio de su siguiente turno.
-
-# **Troll**
 
 # **Troll**
 
@@ -80,17 +73,15 @@ Si la tarasca sufre 60 o más de daño en un solo turno por parte de una criatur
 
 **Habilidades:** Percepción +5
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 15 **Idiomas:** gigante **VD:** 5 (1800 PX; BC +3)
 
-pasiva 15 **Idiomas:** gigante **VD:** 5 (1800 PX; BC +3)
-
-# Atributos
+### Atributos
 
 *Miembros repugnantes (4/día).* Si el troll termina cualquier turno maltrecho y ha sufrido 15 o más de daño cortante durante ese turno, uno de los miembros del troll será amputado, caerá en el espacio del trol y se convertirá en una **extremidad de troll**. La extremidad actuará inmediatamente después del turno del troll. El troll tendrá 1 nivel de cansancio por cada extremidad que le falte y le crecerán miembros de repuesto la siguiente vez que recupere puntos de golpe.
 
 *Regeneración.* El troll recupera 15 puntos de golpe al principio de cada uno de sus turnos. Si recibe daño de ácido o de fuego, este atributo no funcionará en su siguiente turno. El troll solo morirá si empieza su turno con 0 puntos de golpe y no se regenera.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El troll realiza tres ataques de desgarro.
 
@@ -102,18 +93,15 @@ pasiva 15 **Idiomas:** gigante **VD:** 5 (1800 PX; BC +3)
 
 # **Tumulario**
 
-# **Tumulario**
-
 *Muerto viviente Mediano, neutral malvado*
 
 **CA:** 14 **Iniciativa:** +4 (14)
 
 **PG:** 82 (11d8 + 33) **Velocidad:** 9 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 15 |    | +2 | +2         | Des 14 | +2 | +2         | Con 16 | +3 | +3         |
-| Int    | 10 | +0 | +0         | Sab 13 | +1 | +1         | Car 15 | +2 | +2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 15 (+2) | 14 (+2) | 16 (+3) | 10 (+0) | 13 (+1) | 15 (+2) |
 
 **Habilidades:** Percepción +3, Sigilo +4
 
@@ -123,19 +111,17 @@ pasiva 15 **Idiomas:** gigante **VD:** 5 (1800 PX; BC +3)
 
 **Equipo:** armadura de cuero tachonado
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 13
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 13
 
 **Idiomas:** común y otro cualquiera
 
 **VD:** 3 (700 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Sensibilidad a la luz solar.* Bajo la luz del sol, el tumulario tiene desventaja en las pruebas de característica y las tiradas de ataque.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El tumulario realiza dos ataques con su espada necrótica o su arco necrótico en cualquier combinación. Puede sustituir un ataque por una acción de consumir vida.
 
@@ -146,4 +132,5 @@ pasiva 13
 *Consumir vida. Tirada de salvación de Constitución:*  CD 13, una criatura a 1,5 m o menos. *Fallo:* 6 (1d8 + 2) de daño necrótico y los puntos de golpe máximos del objetivo se reducirán en una cantidad igual al daño sufrido.
 
 Un humanoide que muera por este ataque se alzará 24 horas después como un **zombi** bajo el control del tumulario, a menos que se le devuelva a la vida o su cuerpo sea destruido. El tumulario no puede tener más de doce zombis bajo su control a la vez.
+
 

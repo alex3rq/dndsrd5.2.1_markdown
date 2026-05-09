@@ -1,27 +1,22 @@
 # **Hezrou**
 
-# **Hezrou**
-
 *Infernal Grande (demonio), caótico malvado*
 
 **CA:** 18 **Iniciativa:** +6 (16)
 
 **PG:** 157 (15d10 + 75) **Velocidad:** 9 m
 
-| MOD. SALV. |        |   |    |    |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|------------|--------|---|----|----|--------|----|------------|--------|----|------------|
-|            | Fue 19 |   | +4 | +7 | Des 17 | +3 | +3         | Con 20 | +5 | +8         |
-|            | Int    | 5 | −3 | −3 | Sab 12 | +1 | +4         | Car 13 | +1 | +1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 19 (+4) | 17 (+3) | 20 (+5) | 5 (−3) | 12 (+1) | 13 (+1) |
 
 **Resistencias:** frío, fuego, relámpago **Inmunidades:** veneno; envenenado
 
-**Sentidos:** visión en la oscuridad 36 m; Percepción
-
-pasiva 11
+**Sentidos:** visión en la oscuridad 36 m; Percepción pasiva 11
 
 **Idiomas:** abisal; telepatía 36 m **VD:** 8 (3900 PX; BC +3)
 
-# Atributos
+### Atributos
 
 *Hedor. Tirada de salvación de Constitución:* CD 16, cualquier criatura que empiece su turno en una emanación de 3 m que se origina en el hezrou. *Fallo:* el objetivo tendrá el estado de envenenado hasta el principio de su siguiente turno.
 
@@ -29,7 +24,7 @@ pasiva 11
 
 *Resistencia mágica.* El hezrou tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El hezrou hace tres ataques de desgarro.
 
@@ -38,8 +33,6 @@ pasiva 11
 # Acciones adicionales
 
 *Salto.* El hezrou gasta 3 m de movimiento para saltar hasta 9 m.
-
-# **Hidra**
 
 # **Hidra**
 
@@ -56,15 +49,11 @@ pasiva 11
 
 **Habilidades:** Percepción +6
 
-**Inmunidades:** asustado, aturdido, cegado, ensordecido,
+**Inmunidades:** asustado, aturdido, cegado, ensordecido, hechizado, inconsciente
 
-hechizado, inconsciente
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 16 **Idiomas:** ninguno **VD:** 8 (3900 PX; BC +3)
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 16 **Idiomas:** ninguno **VD:** 8 (3900 PX; BC +3)
-
-# Atributos
+### Atributos
 
 *Aguantar la respiración.* La hidra puede aguantar la respiración durante 1 hora.
 
@@ -78,8 +67,6 @@ pasiva 16 **Idiomas:** ninguno **VD:** 8 (3900 PX; BC +3)
 
 # **Hipogrifo**
 
-# **Hipogrifo**
-
 *Monstruosidad Grande, sin alineamiento*
 
 **CA:** 11 **Iniciativa:** +1 (11)
@@ -88,28 +75,25 @@ pasiva 16 **Idiomas:** ninguno **VD:** 8 (3900 PX; BC +3)
 
 **Velocidad:** 12 m, volar 18 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 17 |   | +3 | +3         | Des 13 | +1 | +1         | Con 13 | +1 | +1         |
-| Int    | 2 | −4 | −4         | Sab 12 | +1 | +1         | Car 8  | −1 | −1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 17 (+3) | 13 (+1) | 13 (+1) | 2 (−4) | 12 (+1) | 8 (−1) |
 
 **Habilidades:** Percepción +5 **Sentidos:** Percepción pasiva 15
 
 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Pasar volando.* El hipogrifo no provoca ataques de oportunidad cuando vuela para ponerse fuera del alcance de un enemigo.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El hipogrifo realiza dos ataques de desgarro.
 
 *Desgarro. Tirada de ataque cuerpo a cuerpo:* +5, alcance 1,5 m. *Acierto:* 7 (1d8 + 3) de daño cortante.
 
 # **Hobgoblins**
-
-# **Hombre jabalí**
 
 # **Hombre jabalí**
 
@@ -121,10 +105,9 @@ pasiva 16 **Idiomas:** ninguno **VD:** 8 (3900 PX; BC +3)
 
 **Velocidad:** 9 m, 12 m (solo en forma de jabalí)
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 17 |    | +3 | +3         | Des 10 | +0 | +0         | Con 15 | +2 | +2         |
-| Int    | 10 | +0 | +0         | Sab 11 | +0 | +0         | Car 8  | −1 | −1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 17 (+3) | 10 (+0) | 15 (+2) | 10 (+0) | 11 (+0) | 8 (−1) |
 
 **Habilidades:** Percepción +2
 
@@ -150,8 +133,6 @@ pasiva 16 **Idiomas:** ninguno **VD:** 8 (3900 PX; BC +3)
 
 # **Hombre lobo**
 
-# **Hombre lobo**
-
 *Monstruosidad Mediana o Pequeña (licántropo), caótica malvada*
 
 **CA:** 15 **Iniciativa:** +4 (14)
@@ -166,19 +147,17 @@ MOD. SALV. MOD. SALV. MOD. SALV. **Fue** 16 +3 +3 **Des** 14 +2 +2 **Con** 14 +2
 
 **Equipo:** arco largo
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 14
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 14
 
 **Idiomas:** común (no puede hablar en forma de lobo)
 
 **VD:** 3 (700 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Atacar en manada.* El hombre lobo tiene ventaja en una tirada de ataque contra una criatura si al menos uno de los aliados del hombre lobo se encuentra a 1,5 m o menos de la criatura y no tiene el estado de incapacitado.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El hombre lobo realiza dos ataques con su arañazo o su arco largo en cualquier combinación. Puede sustituir uno de ellos por un ataque de mordisco.
 
@@ -194,8 +173,6 @@ pasiva 14
 
 # **Hombre oso**
 
-# **Hombre oso**
-
 *Monstruosidad Mediana o Pequeña (licántropo), neutral buena*
 
 **CA:** 15 **Iniciativa:** +3 (13)
@@ -208,9 +185,7 @@ MOD. SALV. MOD. SALV. MOD. SALV. **Fue** 19 +4 +4 **Des** 10 +0 +0 **Con** 17 +3
 
 **Habilidades:** Percepción +7 **Equipo:** hachas de mano (4)
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 17
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 17
 
 **Idiomas:** común (no puede hablar en forma de oso)
 
@@ -230,8 +205,6 @@ pasiva 17
 
 # **Hombre rata**
 
-# **Hombre rata**
-
 *Monstruosidad Mediana o Pequeña (licántropo), legal malvada*
 
 **CA:** 13 **Iniciativa:** +3 (13)
@@ -240,24 +213,21 @@ pasiva 17
 
 **Velocidad:** 9 m, trepar 9 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 10 |    | +0 | +0         | Des 16 | +3 | +3         | Con 12 | +1 | +1         |
-| Int    | 11 | +0 | +0         | Sab 10 | +0 | +0         | Car 8  | −1 | −1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 10 (+0) | 16 (+3) | 12 (+1) | 11 (+0) | 10 (+0) | 8 (−1) |
 
 **Habilidades:** Percepción +4, Sigilo +5
 
 **Equipo:** ballesta de mano
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 14
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 14
 
 **Idiomas:** común (no puede hablar en forma de rata)
 
 **VD:** 2 (450 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El hombre rata realiza dos ataques con su arañazo o su ballesta de mano en cualquier combinación. Puede sustituir uno de ellos por un ataque de mordisco.
 
@@ -273,8 +243,6 @@ pasiva 14
 
 # **Hombre tigre**
 
-# **Hombre tigre**
-
 *Monstruosidad Mediana o Pequeña (licántropo), neutral*
 
 **CA:** 12 **Iniciativa:** +2 (12)
@@ -283,24 +251,21 @@ pasiva 14
 
 **Velocidad:** 9 m, 12 m (solo en forma de tigre)
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 17 |    | +3 | +3         | Des 15 | +2 | +2         | Con 16 | +3 | +3         |
-| Int    | 10 | +0 | +0         | Sab 13 | +1 | +1         | Car 11 | +0 | +0         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 17 (+3) | 15 (+2) | 16 (+3) | 10 (+0) | 13 (+1) | 11 (+0) |
 
 **Habilidades:** Percepción +5, Sigilo +4
 
 **Equipo:** arco largo
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 15
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 15
 
 **Idiomas:** común (no puede hablar en forma de tigre)
 
 **VD:** 4 (1100 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El hombre tigre realiza dos ataques con su arañazo o su arco largo en cualquier combinación. Puede sustituir uno de ellos por un ataque de mordisco.
 
@@ -320,8 +285,6 @@ reducen a 0, en vez de ello, se convertirá en un **hombre tigre** controlado po
 
 # **Homúnculo**
 
-# **Homúnculo**
-
 *Autómata Diminuto, neutral*
 
 **CA:** 13 **Iniciativa:** +2 (12)
@@ -330,10 +293,9 @@ reducen a 0, en vez de ello, se convertirá en un **hombre tigre** controlado po
 
 **Velocidad:** 6 m, volar 12 m
 
-|     |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue | 4  | −3 | −3         | Des 15 | +2 | +2         | Con 14 | +2 | +2         |
-| Int | 10 | +0 | +0         | Sab 10 | +0 | +2         | Car 7  | −2 | +0         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 4 (−3) | 15 (+2) | 14 (+2) | 10 (+0) | 10 (+0) | 7 (−2) |
 
 **Inmunidades:** veneno; envenenado, hechizado **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 10
 
@@ -341,11 +303,11 @@ reducen a 0, en vez de ello, se convertirá en un **hombre tigre** controlado po
 
 **VD:** 0 (10 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Enlace telepático.* Mientras el homúnculo se encuentre en el mismo plano de existencia que su amo, los dos pueden comunicarse telepáticamente entre sí.
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 1 de daño perforante y el objetivo sufrirá el siguiente efecto. *Tirada de salvación de Constitución:* CD 12. *Fallo:* el objetivo tendrá el estado de envenenado hasta el final del siguiente turno del homúnculo. *Fallo por 5 o más:* el objetivo tendrá el estado de envenenado durante 1 minuto. Mientras esté envenenado, tendrá el estado de inconsciente, que terminará antes si recibe cualquier daño.
 
@@ -359,16 +321,15 @@ reducen a 0, en vez de ello, se convertirá en un **hombre tigre** controlado po
 
 **PG:** 13 (3d8) **Velocidad:** 1,5 m
 
-|     |   |    | MOD. SALV. |     |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|---|----|------------|-----|---|----|------------|--------|----|------------|
-| Fue | 1 | −5 | −5         | Des | 1 | −5 | −5         | Con 10 | +0 | +0         |
-| Int | 1 | −5 | −5         | Sab | 3 | −4 | −4         | Car 1  | −5 | −5         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 1 (−5) | 1 (−5) | 10 (+0) | 1 (−5) | 3 (−4) | 1 (−5) |
 
 **Inmunidades:** asustado, cegado, ensordecido, hechizado **Sentidos:** visión ciega 9 m; Percepción pasiva 6
 
 **Idiomas:** ninguno **VD:** 0 (0 PX; BC +2)
 
-# Reacciones
+### Reacciones
 
 *Chillar. Detonante:* una criatura o una fuente de luz brillante se acerca a 9 m o menos del chillón. *Respuesta:* el chillón emite un grito audible a 90 m de él durante 1 minuto o hasta que muera.
 
@@ -380,10 +341,9 @@ reducen a 0, en vez de ello, se convertirá en un **hombre tigre** controlado po
 
 **PG:** 18 (4d8) **Velocidad:** 1,5 m
 
-|     |   |    | MOD. SALV. |     |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|---|----|------------|-----|---|----|------------|--------|----|------------|
-| Fue | 3 | −4 | −4         | Des | 1 | −5 | −5         | Con 10 | +0 | +0         |
-| Int | 1 | −5 | −5         | Sab | 3 | −4 | −4         | Car 1  | −5 | −5         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 3 (−4) | 1 (−5) | 10 (+0) | 1 (−5) | 3 (−4) | 1 (−5) |
 
 **Inmunidades:** asustado, cegado, ensordecido, hechizado **Sentidos:** visión ciega 9 m; Percepción pasiva 6
 
@@ -391,13 +351,11 @@ reducen a 0, en vez de ello, se convertirá en un **hombre tigre** controlado po
 
 **VD:** 1/4 (50 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El hongo realiza dos ataques con su toque putrefacto.
 
 *Toque putrefacto. Tirada de ataque cuerpo a cuerpo:* +2, alcance 3 m. *Acierto:* 4 (1d8) de daño necrótico.
-
-# **Huargo**
 
 # **Huargo**
 
@@ -414,13 +372,12 @@ reducen a 0, en vez de ello, se convertirá en un **hombre tigre** controlado po
 
 **Habilidades:** Percepción +4
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 14
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 14
 
 **Idiomas:** goblin, huargo **VD:** 1/2 (100 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +5, alcance 1,5 m. *Acierto:* 7 (1d8 + 3) de daño perforante y la siguiente tirada de ataque realizada contra el objetivo antes del principio del siguiente turno del huargo tendrá ventaja.
+
 

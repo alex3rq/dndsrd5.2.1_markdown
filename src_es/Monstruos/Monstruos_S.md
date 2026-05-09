@@ -6,10 +6,9 @@
 
 **PG:** 45 (6d10 + 12) **Velocidad:** 15 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 18 |   | +4 | +4         | Des 14 | +2 | +2         | Con 14 | +2 | +2         |
-| Int    | 9 | −1 | −1         | Sab 13 | +1 | +1         | Car 11 | +0 | +0         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 18 (+4) | 14 (+2) | 14 (+2) | 9 (−1) | 13 (+1) | 11 (+0) |
 
 **Habilidades:** Atletismo +6, Percepción +3
 
@@ -17,7 +16,7 @@
 
 **Idiomas:** elfo, silvano **VD:** 2 (450 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El centauro realiza dos ataques con su pica o su arco largo en cualquier combinación.
 
@@ -37,10 +36,9 @@
 
 **PG:** 7 (2d6) **Velocidad:** 9 m
 
-|     |    |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|----|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue | 8  | −1 | −1         | Des 15 |   | +2 | +2         | Con 10 | +0 | +0         |
-| Int | 10 | +0 | +0         | Sab    | 8 | −1 | −1         | Car 8  | −1 | −1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 8 (−1) | 15 (+2) | 10 (+0) | 10 (+0) | 8 (−1) | 8 (−1) |
 
 **Habilidades:** Sigilo +6 **Equipo:** dagas (3)
 
@@ -48,7 +46,7 @@
 
 **Idiomas:** común, goblin **VD:** 1/8 (25 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Daga. Tirada de ataque cuerpo a cuerpo o a distancia:* +4, alcance 1,5 m o 6/18 m a distancia. *Acierto:* 4 (1d4 + 2) de daño perforante.
 
@@ -64,18 +62,15 @@
 
 **PG:** 187 (25d8 + 75) **Velocidad:** 9 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 18 |    | +4 | +4         | Des 10 | +0 | +0         | Con 17 | +3 | +3         |
-| Int    | 11 | +0 | +5         | Sab 19 | +4 | +9         | Car 16 | +3 | +3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 18 (+4) | 10 (+0) | 17 (+3) | 11 (+0) | 19 (+4) | 16 (+3) |
 
 **Habilidades:** Historia +5, Percepción +9, Religión +5
 
 **Vulnerabilidades:** fuego
 
-**Inmunidades:** necrótico, veneno; asustado, cansancio,
-
-envenenado, hechizado, paralizado
+**Inmunidades:** necrótico, veneno; asustado, cansancio, envenenado, hechizado, paralizado
 
 **Sentidos:** visión verdadera 18 m; Percepción pasiva 19
 
@@ -83,7 +78,7 @@ envenenado, hechizado, paralizado
 
 **VD:** 15 (13 000 PX o 15 000 en la guarida; BC +5)
 
-# Atributos
+### Atributos
 
 *Recuperación de muerto viviente.* Si la destruyen, la momia obtendrá un cuerpo nuevo al cabo de 24 horas si su corazón permanece intacto y revivirá con todos sus puntos de golpe. El nuevo cuerpo aparecerá en un espacio sin ocupar en la guarida de la momia. El corazón es un objeto Diminuto con una CA de 17, 10 pg e inmunidad a todo el daño excepto al de fuego.
 
@@ -91,7 +86,7 @@ envenenado, hechizado, paralizado
 
 *Resistencia mágica.* La momia tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* La momia realiza un ataque con su puño putrefacto o de canalizar energía negativa y utiliza su mirada espantosa.
 
@@ -105,11 +100,11 @@ envenenado, hechizado, paralizado
 
 *Mirada espantosa. Tirada de salvación de Sabiduría:* CD 17, una criatura que la momia pueda ver a 18 m o menos. *Fallo:* 25 (6d6 + 4) de daño psíquico y el objetivo tendrá el estado de paralizado hasta el final del siguiente turno de la momia.
 
-# Reacciones
+### Reacciones
 
 *Torbellino de arena. Detonante:* una tirada de ataque acierta a la momia. *Respuesta:* la momia suma 2 a su CA contra ese ataque, lo que puede hacer que falle. Además, la momia se teletransporta hasta 18 m a un espacio sin ocupar que pueda ver. Todas las criaturas de su elección que pueda ver a 1,5 m o menos de su espacio de destino tendrán el estado de cegadas hasta el final del siguiente turno de la momia.
 
-# Acciones legendarias
+### Acciones legendarias
 
 *Usos de acciones legendarias: 3 (4 en la guarida). Justo después del turno de otra criatura, la momia puede emplear un uso para llevar a cabo una de las siguientes acciones. La momia recupera todos los usos al principio de cada uno de sus turnos.*
 
@@ -123,34 +118,29 @@ puede volver a realizar esta acción hasta el principio de su siguiente turno.
 
 # **Sabueso infernal**
 
-# **Sabueso infernal**
-
 *Infernal Mediano, legal malvado*
 
 **CA:** 15 **Iniciativa:** +1 (11)
 
 **PG:** 58 (9d8 + 18) **Velocidad:** 15 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 17 |   | +3 | +3         | Des 12 | +1 | +1         | Con 14 | +2 | +2         |
-| Int    | 6 | −2 | −2         | Sab 13 | +1 | +1         | Car 6  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 17 (+3) | 12 (+1) | 14 (+2) | 6 (−2) | 13 (+1) | 6 (−2) |
 
 **Habilidades:** Percepción +5 **Inmunidades:** fuego
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 15
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 15
 
 **Idiomas:** entiende infernal, pero no puede hablar
 
 **VD:** 3 (700 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Atacar en manada.* El sabueso tiene ventaja en una tirada de ataque contra una criatura si al menos uno de los aliados del sabueso se encuentra a 1,5 m o menos de la criatura y no tiene el estado de incapacitado.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El sabueso realiza dos ataques de mordisco.
 
@@ -168,10 +158,9 @@ pasiva 15
 
 **PG:** 11 (2d8 + 2) **Velocidad:** 9 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 14 |    | +2 | +2         | Des 10 | +0 | +0         | Con 12 | +1 | +1         |
-| Int    | 10 | +0 | +0         | Sab 14 | +2 | +2         | Car 11 | +0 | +0         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 14 (+2) | 10 (+0) | 12 (+1) | 10 (+0) | 14 (+2) | 11 (+0) |
 
 **Habilidades:** Medicina +4, Religión +2
 
@@ -181,7 +170,7 @@ pasiva 15
 
 **Idiomas:** común **VD:** 1/4 (50 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Maza. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 5 (1d6 + 2) de daño contundente más 2 (1d4) de daño radiante.
 
@@ -203,10 +192,9 @@ pasiva 15
 
 **PG:** 38 (7d8 + 7) **Velocidad:** 9 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 16 |    | +3 | +3         | Des 10 | +0 | +0         | Con 12 | +1 | +1         |
-| Int    | 13 | +1 | +1         | Sab 16 | +3 | +3         | Car 13 | +1 | +1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 16 (+3) | 10 (+0) | 12 (+1) | 13 (+1) | 16 (+3) | 13 (+1) |
 
 **Habilidades:** Medicina +7, Percepción +5, Religión +5 **Equipo:** camisa de malla, maza, símbolo sagrado
 
@@ -214,7 +202,7 @@ pasiva 15
 
 **VD:** 2 (450 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El sacerdote realiza dos ataques con su maza o su llama radiante en cualquier combinación.
 
@@ -232,8 +220,6 @@ pasiva 15
 
 # **Saga cetrina**
 
-# **Saga cetrina**
-
 *Feérico Mediano, neutral malvado*
 
 **CA:** 17 **Iniciativa:** +1 (11)
@@ -242,22 +228,17 @@ pasiva 15
 
 **Velocidad:** 9 m, nadar 9 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 18 |    | +4 | +4         | Des 12 | +1 | +1         | Con 16 | +3 | +3         |
-| Int    | 13 | +1 | +1         | Sab 14 | +2 | +2         | Car 14 | +2 | +2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 18 (+4) | 12 (+1) | 16 (+3) | 13 (+1) | 14 (+2) | 14 (+2) |
 
-**Habilidades:** Conocimiento arcano +5, Engaño +4,
+**Habilidades:** Conocimiento arcano +5, Engaño +4, Percepción +4, Sigilo +3
 
-Percepción +4, Sigilo +3
-
-**Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 14
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 14
 
 **Idiomas:** común, elfo, silvano **VD:** 3 (700 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Anfibia.* La saga puede respirar tanto dentro como fuera del agua.
 
@@ -265,7 +246,7 @@ pasiva 14
 
 *Magia del aquelarre.* Mientras esté a 9 m o menos de un mínimo de dos sagas aliadas, la saga puede lanzar uno de los siguientes conjuros, que no requiere componentes materiales, emplea el tiempo de lanzamiento normal y usa la Inteligencia como aptitud mágica (CD de salvación de conjuros 11): *augurio*, *encontrar familiar*, *escudriñar*, *identificar*, *localizar objeto* o *sirviente invisible*. La saga debe finalizar un descanso largo antes de usar este atributo para lanzar ese conjuro otra vez.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* La saga realiza dos ataques con sus garras.
 
@@ -277,34 +258,27 @@ pasiva 14
 
 # **Saga de la noche**
 
-# **Saga de la noche**
-
 *Infernal Mediano, neutral malvado*
 
 **CA:** 17 **Iniciativa:** +5 (15)
 
 **PG:** 112 (15d8 + 45) **Velocidad:** 9 m
 
-|        | MOD. SALV. |    |    |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|------------|----|----|--------|----|------------|--------|----|------------|
-| Fue 18 |            | +4 | +4 | Des 15 | +2 | +2         | Con 16 | +3 | +3         |
-| Int    | 16         | +3 | +3 | Sab 14 | +2 | +2         | Car 16 | +3 | +3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 18 (+4) | 15 (+2) | 16 (+3) | 16 (+3) | 14 (+2) | 16 (+3) |
 
-**Habilidades:** Engaño +6, Percepción +5, Perspicacia +5,
-
-Sigilo +5
+**Habilidades:** Engaño +6, Percepción +5, Perspicacia +5, Sigilo +5
 
 **Resistencias:** frío, fuego **Inmunidades:** hechizado
 
-**Sentidos:** visión en la oscuridad 36 m; Percepción
-
-pasiva 15
+**Sentidos:** visión en la oscuridad 36 m; Percepción pasiva 15
 
 **Idiomas:** abisal, común, infernal, primordial
 
 **VD:** 5 (1800 PX; BC +3)
 
-# Atributos
+### Atributos
 
 *Bolsa de almas.* La saga tiene una bolsa de almas. Mientras la sostenga o lleve consigo, puede usar su acción de provocar pesadillas.
 
@@ -314,7 +288,7 @@ La bolsa tiene una CA de 15, 20 pg y resistencia a todo el daño. Se convertirá
 
 *Resistencia mágica.* La saga tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* La saga realiza dos ataques con sus garras.
 
@@ -336,8 +310,6 @@ Si el objetivo recibe daño del conjuro *ensueño*, sus puntos de golpe máximos
 
 # **Saga de los mares**
 
-# **Saga de los mares**
-
 *Feérico Mediano, caótico malvado*
 
 **CA:** 14 **Iniciativa:** +1 (11)
@@ -346,10 +318,9 @@ Si el objetivo recibe daño del conjuro *ensueño*, sus puntos de golpe máximos
 
 **Velocidad:** 9 m, nadar 12 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 16 |    | +3 | +3         | Des 13 | +1 | +1         | Con 16 | +3 | +3         |
-| Int    | 12 | +1 | +1         | Sab 12 | +1 | +1         | Car 13 | +1 | +1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 16 (+3) | 13 (+1) | 16 (+3) | 12 (+1) | 12 (+1) | 13 (+1) |
 
 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 11
 
@@ -357,7 +328,7 @@ Si el objetivo recibe daño del conjuro *ensueño*, sus puntos de golpe máximos
 
 **VD:** 2 (450 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Anfibia.* La saga puede respirar tanto dentro como fuera del agua.
 
@@ -365,7 +336,7 @@ Si el objetivo recibe daño del conjuro *ensueño*, sus puntos de golpe máximos
 
 *Magia del aquelarre.* Mientras esté a 9 m o menos de un mínimo de dos sagas aliadas, la saga puede lanzar uno de los siguientes conjuros, que no requiere componentes materiales, emplea el tiempo de lanzamiento normal y usa la Inteligencia como aptitud mágica (CD de salvación de conjuros 11): *augurio*, *encontrar familiar*, *escudriñar*, *identificar*, *localizar objeto* o *sirviente invisible*. La saga debe finalizar un descanso largo antes de usar este atributo para lanzar ese conjuro otra vez.
 
-# Acciones
+### Acciones
 
 *Garra. Tirada de ataque cuerpo a cuerpo:* +5, alcance 1,5 m. *Acierto:* 10 (2d6 + 3) de daño cortante.
 
@@ -377,32 +348,27 @@ Si el objetivo recibe daño del conjuro *ensueño*, sus puntos de golpe máximos
 
 # **Salamandra**
 
-# **Salamandra**
-
 *Elemental Grande, neutral malvado*
 
 **CA:** 15 **Iniciativa:** +2 (12)
 
 **PG:** 90 (12d10 + 24) **Velocidad:** 9 m, trepar 9 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 18 |    | +4 | +4         | Des 14 | +2 | +2         | Con 15 | +2 | +2         |
-| Int    | 11 | +0 | +0         | Sab 10 | +0 | +0         | Car 12 | +1 | +1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 18 (+4) | 14 (+2) | 15 (+2) | 11 (+0) | 10 (+0) | 12 (+1) |
 
 **Vulnerabilidades:** frío **Inmunidades:** fuego
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 10
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 10
 
 **Idiomas:** primordial (ígneo) **VD:** 5 (1800 PX; BC +3)
 
-# Atributos
+### Atributos
 
 *Aura de fuego.* Al final de cada turno de la salamandra, todas las criaturas a su elección en una emanación de 1,5 m que se origina en ella reciben 7 (2d6) de daño de fuego.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* La salamandra realiza dos ataques con su lanza de llamas. Puede sustituir un ataque por una acción de constreñir.
 
@@ -412,24 +378,21 @@ pasiva 10
 
 # **Sátiro**
 
-# **Sátiro**
-
 *Feérico Mediano, caótico neutral*
 
 **CA:** 13 **Iniciativa:** +3 (13)
 
 **PG:** 31 (7d8) **Velocidad:** 12 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 12 |    | +1 | +1         | Des 16 | +3 | +3         | Con 11 | +0 | +0         |
-| Int    | 12 | +1 | +1         | Sab 10 | +0 | +0         | Car 14 | +2 | +2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 12 (+1) | 16 (+3) | 11 (+0) | 12 (+1) | 10 (+0) | 14 (+2) |
 
 **Habilidades:** Interpretación +6, Percepción +2, Sigilo +5
 
 **Sentidos:** Percepción pasiva 12 **Idiomas:** común, elfo, silvano **VD:** 1/2 (100 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Resistencia mágica.* El sátiro tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
@@ -447,20 +410,17 @@ pasiva 10
 
 **PG:** 9 (2d8) **Velocidad:** 9 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 11 |    | +0 | +0         | Des 12 | +1 | +1         | Con 10 | +0 | +0         |
-| Int    | 10 | +0 | +0         | Sab 11 | +0 | +2         | Car 10 | +0 | +0         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 11 (+0) | 12 (+1) | 10 (+0) | 10 (+0) | 11 (+0) | 10 (+0) |
 
 **Habilidades:** Engaño +2, Religión +2 **Equipo:** armadura de cuero, hoz **Sentidos:** Percepción pasiva 10
 
 **Idiomas:** común **VD:** 1/8 (25 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Hoz ritual. Tirada de ataque cuerpo a cuerpo:* +3, alcance 1,5 m. *Acierto:* 3 (1d4 + 1) de daño cortante más 1 de daño necrótico.
-
-# **Semidragón**
 
 # **Semidragón**
 
@@ -470,24 +430,21 @@ pasiva 10
 
 **PG:** 105 (14d8 + 42) **Velocidad:** 12 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 19 |    | +4 | +4         | Des 14 | +2 | +5         | Con 16 | +3 | +3         |
-| Int    | 10 | +0 | +0         | Sab 15 | +2 | +5         | Car 14 | +2 | +2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 19 (+4) | 14 (+2) | 16 (+3) | 10 (+0) | 15 (+2) | 14 (+2) |
 
 **Habilidades:** Atletismo +7, Percepción +5, Sigilo +5 **Resistencias:** tipo de daño elegido para el atributo Origen
 
 dracónico más adelante
 
-**Sentidos:** visión ciega 3 m, visión en la oscuridad 18 m;
+**Sentidos:** visión ciega 3 m, visión en la oscuridad 18 m; Percepción pasiva 15 **Idiomas:** común, dracónico **VD:** 5 (1800 PX; BC +3)
 
-Percepción pasiva 15 **Idiomas:** común, dracónico **VD:** 5 (1800 PX; BC +3)
-
-# Atributos
+### Atributos
 
 *Origen dracónico.* El semidragón está relacionado con un tipo de dragón asociado con uno de los siguientes tipos de daño (a elección de cada GM): ácido, frío, fuego, relámpago o veneno. Esta elección afecta a otros aspectos del perfil.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El semidragón realiza dos ataques con sus garras.
 
@@ -500,8 +457,6 @@ Percepción pasiva 15 **Idiomas:** común, dracónico **VD:** 5 (1800 PX; BC +3)
 *Salto.* El semidragón gasta 3 m de movimiento para saltar hasta 9 m.
 
 # **Sirénido**
-
-# **Solar**
 
 # **Solar**
 
@@ -520,15 +475,13 @@ Percepción pasiva 15 **Idiomas:** común, dracónico **VD:** 5 (1800 PX; BC +3)
 
 **Habilidades:** Percepción +14
 
-**Inmunidades:** veneno, radiante; asustado, cansancio,
-
-envenenado, hechizado
+**Inmunidades:** veneno, radiante; asustado, cansancio, envenenado, hechizado
 
 **Sentidos:** visión verdadera 36 m; Percepción pasiva 24
 
 **Idiomas:** todos; telepatía 36 m **VD:** 21 (33 000 PX; BC +7)
 
-# Atributos
+### Atributos
 
 *Percepción divina.* El solar reconoce cualquier mentira que escuche.
 
@@ -538,7 +491,7 @@ envenenado, hechizado
 
 *Resistencia mágica.* El solar tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El solar realiza dos ataques con su espada voladora. Puede sustituir un ataque por un uso de su arco asesino.
 
@@ -554,7 +507,7 @@ envenenado, hechizado
 
 *Auxilio divino (3/día).* El solar lanza *curar heridas* (versión de nivel 2), *levantar maldición* o *restablecimiento menor* usando la misma aptitud mágica que para su lanzamiento de conjuros.
 
-# Acciones legendarias
+### Acciones legendarias
 
 *Usos de acciones legendarias: 3. Justo después del turno de otra criatura, el solar puede emplear un uso para llevar a cabo una de las siguientes acciones. El solar recupera todos los usos al principio de cada uno de sus turnos.*
 
@@ -564,44 +517,35 @@ envenenado, hechizado
 
 # **Sombra**
 
-# **Sombra**
-
 *Muerto viviente Mediano, caótico malvado*
 
 **CA:** 12 **Iniciativa:** +2 (12)
 
 **PG:** 27 (5d8 + 5) **Velocidad:** 12 m
 
-|     |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue | 6 | −2 | −2         | Des 14 | +2 | +2         | Con 13 | +1 | +1         |
-| Int | 6 | −2 | −2         | Sab 10 | +0 | +0         | Car 8  | −1 | −1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 6 (−2) | 14 (+2) | 13 (+1) | 6 (−2) | 10 (+0) | 8 (−1) |
 
 **Habilidades:** Sigilo +6 **Vulnerabilidades:** radiante
 
-**Resistencias:** ácido, frío, fuego, relámpago, trueno **Inmunidades:** necrótico, veneno; agarrado, apresado, asustado, cansancio, derribado, envenenado,
+**Resistencias:** ácido, frío, fuego, relámpago, trueno **Inmunidades:** necrótico, veneno; agarrado, apresado, asustado, cansancio, derribado, envenenado, inconsciente, paralizado, petrificado
 
-inconsciente, paralizado, petrificado
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 10 **Idiomas:** ninguno **VD:** 1/2 (100 PX; BC +2)
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 10 **Idiomas:** ninguno **VD:** 1/2 (100 PX; BC +2)
-
-# Atributos
+### Atributos
 
 *Amorfa.* La sombra puede moverse a través de un espacio de solo 2,5 cm de ancho sin gastar movimiento adicional para hacerlo.
 
 *Debilidad a la luz solar.* Bajo la luz del sol, la sombra tiene desventaja en las pruebas con d20.
 
-# Acciones
+### Acciones
 
 *Zarpazo debilitador. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 5 (1d6 + 2) de daño necrótico y la puntuación de Fuerza del objetivo se reduce en 1d4. Si su Fuerza se reduce a 0, morirá. Si un humanoide muere a causa de este ataque, una **sombra** surgirá de su cadáver tras 1d4 horas.
 
 # Acciones adicionales
 
 *Esconderse en las sombras.* Con luz tenue o en la oscuridad, la sombra realiza la acción de esconderse.
-
-# **Súcubo**
 
 # **Súcubo**
 
@@ -613,28 +557,23 @@ pasiva 10 **Idiomas:** ninguno **VD:** 1/2 (100 PX; BC +2)
 
 **Velocidad:** 9 m, volar 18 m
 
-|     |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue | 8  | −1 | −1         | Des 17 | +3 | +3         | Con 13 | +1 | +1         |
-| Int | 15 | +2 | +2         | Sab 12 | +1 | +1         | Car 20 | +5 | +5         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 8 (−1) | 17 (+3) | 13 (+1) | 15 (+2) | 12 (+1) | 20 (+5) |
 
-**Habilidades:** Engaño +9, Percepción +5, Perspicacia +5,
+**Habilidades:** Engaño +9, Percepción +5, Perspicacia +5, Persuasión +9, Sigilo +7
 
-Persuasión +9, Sigilo +7
-
-**Resistencias:** frío, fuego, psíquico, veneno **Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 15
+**Resistencias:** frío, fuego, psíquico, veneno **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 15
 
 **Idiomas:** abisal, común, infernal; telepatía 18 m
 
 **VD:** 4 (1100 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Forma de íncubo.* Cuando el súcubo finaliza un descanso largo, puede adoptar la forma de un **íncubo** y pasar a utilizar ese perfil en lugar de este.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El súcubo realiza un ataque con su toque infernal y emplea su beso debilitador o su acción de hechizar.
 
@@ -658,10 +597,9 @@ pasiva 15
 
 **Velocidad:** 9 m, trepar 9 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 17 |    | +3 | +3         | Des 16 | +3 | +5         | Con 15 | +2 | +2         |
-| Int    | 10 | +0 | +0         | Sab 10 | +0 | +2         | Car 14 | +2 | +2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 17 (+3) | 16 (+3) | 15 (+2) | 10 (+0) | 10 (+0) | 14 (+2) |
 
 **Habilidades:** Percepción +4, Persuasión +4, Sigilo +7
 
@@ -673,19 +611,17 @@ vampiro)
 
 **Equipo:** dagas (10)
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 14
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 14
 
 **Idiomas:** común y otro cualquiera
 
 **VD:** 3 (700 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Conexión vampírica.* Mientras el siervo de vampiro y su amo estén en el mismo plano de existencia, el vampiro puede comunicarse con el siervo telepáticamente y percibir el mundo a través de sus sentidos.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El siervo realiza dos ataques con sus dagas sombrías.
 
@@ -694,4 +630,5 @@ pasiva 14
 # Acciones adicionales
 
 *Agilidad de inmortal.* El siervo realiza las acciones de correr o destrabarse.
+
 

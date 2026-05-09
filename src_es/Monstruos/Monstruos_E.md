@@ -1,43 +1,36 @@
 # **Elemental de agua**
 
-# **Elemental de agua**
-
 *Elemental Grande, neutral*
 
 **CA:** 14 **Iniciativa:** +2 (12)
 
 **PG:** 114 (12d10 + 48) **Velocidad:** 9 m, nadar 27 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 18 |   | +4 | +4         | Des 14 | +2 | +2         | Con 18 | +4 | +4         |
-| Int    | 5 | −3 | −3         | Sab 10 | +0 | +0         | Car 8  | −1 | −1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 18 (+4) | 14 (+2) | 18 (+4) | 5 (−3) | 10 (+0) | 8 (−1) |
 
 **Resistencias:** ácido, fuego
 
 **Inmunidades:** veneno; agarrado, apresado, cansancio, derribado, envenenado, inconsciente, paralizado, petrificado
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 10
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 10
 
 **Idiomas:** primordial (acuano) **VD:** 5 (1800 PX; BC +3)
 
-# Atributos
+### Atributos
 
 *Congelarse.* Si el elemental recibe daño de frío, su velocidad se reducirá en 6 m hasta el final de su siguiente turno.
 
 *Forma de agua.* El elemental puede entrar en el espacio de un enemigo y detenerse allí. Puede moverse a través de un espacio de solo 2,5 cm de ancho sin gastar movimiento adicional para hacerlo.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El elemental realiza dos ataques con su golpe.
 
 *Golpe. Tirada de ataque cuerpo a cuerpo:* +7, alcance 1,5 m. *Acierto:* 13 (2d8 + 4) de daño contundente. Si el objetivo es una criatura Mediana o más pequeña, tendrá el estado de derribada.
 
 *Anegar (recarga 4–6). Tirada de salvación de Fuerza:* CD 15, todas las criaturas en el espacio del elemental. *Fallo:* 22 (4d8 + 4) de daño contundente. Si el objetivo es una criatura Grande o más pequeña, tendrá el estado de agarrada (CD 14 para escapar). Hasta que el agarre termine, el objetivo tendrá el estado de apresado, sufrirá asfixia salvo que pueda respirar en el agua y recibirá 9 (2d8) de daño contundente al principio de cada turno del elemental. El elemental puede agarrar a una criatura Grande o hasta a dos criaturas Medianas o más pequeñas al mismo tiempo con la acción de anegar. Como acción, una criatura a 1,5 m o menos del elemental puede sacar a una criatura de él si supera una prueba de Fuerza (Atletismo) con CD 14. *Éxito:* solo la mitad del daño.
-
-# **Elemental de aire**
 
 # **Elemental de aire**
 
@@ -49,10 +42,9 @@ pasiva 10
 
 **Velocidad:** 3 m, volar 27 m (levitar)
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 14 |   | +2 | +2         | Des 20 | +5 | +5         | Con 14 | +2 | +2         |
-| Int    | 6 | −2 | −2         | Sab 10 | +0 | +0         | Car 6  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 14 (+2) | 20 (+5) | 14 (+2) | 6 (−2) | 10 (+0) | 6 (−2) |
 
 **Resistencias:** contundente, cortante, perforante, relámpago
 
@@ -62,11 +54,11 @@ pasiva 10
 
 **Idiomas:** primordial (aurano) **VD:** 5 (1800 PX; BC +3)
 
-# Atributos
+### Atributos
 
 *Forma de aire.* El elemental puede entrar en el espacio de una criatura y detenerse allí. Puede moverse a través de un espacio de solo 2,5 cm de ancho sin gastar movimiento adicional para hacerlo.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El elemental realiza dos ataques con su golpe atronador.
 
@@ -76,28 +68,23 @@ pasiva 10
 
 # **Elemental de fuego**
 
-# **Elemental de fuego**
-
 *Elemental Grande, neutral*
 
 **CA:** 13 **Iniciativa:** +3 (13)
 
 **PG:** 93 (11d10 + 33) **Velocidad:** 15 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 10 |   | +0 | +0         | Des 17 | +3 | +3         | Con 16 | +3 | +3         |
-| Int    | 6 | −2 | −2         | Sab 10 | +0 | +0         | Car 7  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 10 (+0) | 17 (+3) | 16 (+3) | 6 (−2) | 10 (+0) | 7 (−2) |
 
 **Resistencias:** contundente, cortante, perforante **Inmunidades:** fuego, veneno; agarrado, apresado, cansancio, derribado, envenenado, inconsciente, paralizado, petrificado
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 10
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 10
 
 **Idiomas:** primordial (ígneo) **VD:** 5 (1800 PX; BC +3)
 
-# Atributos
+### Atributos
 
 *Aura de fuego.* Al final de cada turno del elemental, todas las criaturas en una emanación de 3 m que se origina en él reciben 5 (1d10) de daño de fuego y las criaturas y objetos inflamables en ella empiezan a arder.
 
@@ -107,13 +94,11 @@ pasiva 10
 
 *Susceptibilidad al agua.* El elemental sufre 3 (1d6) de daño de frío por cada 1,5 m que se mueva en el agua o por cada 4 litros de agua que se viertan sobre él.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El elemental realiza dos ataques de quemadura.
 
 *Quemadura. Tirada de ataque cuerpo a cuerpo:* +6, alcance 1,5 m. *Acierto:* 10 (2d6 + 3) de daño de fuego. Si el objetivo es una criatura o un objeto inflamable, empezará a arder.
-
-# **Elemental de tierra**
 
 # **Elemental de tierra**
 
@@ -130,23 +115,19 @@ pasiva 10
 
 **Vulnerabilidades:** trueno
 
-**Inmunidades:** veneno; cansancio, envenenado,
-
-inconsciente, paralizado, petrificado
+**Inmunidades:** veneno; cansancio, envenenado, inconsciente, paralizado, petrificado
 
 **Sentidos:** sentir vibraciones 18 m, visión en la oscuridad
 
-18 m;
+18 m; Percepción pasiva 10 **Idiomas:** primordial (terrano) **VD:** 5 (1800 PX; BC +3)
 
-Percepción pasiva 10 **Idiomas:** primordial (terrano) **VD:** 5 (1800 PX; BC +3)
-
-# Atributos
+### Atributos
 
 *Deslizarse por la tierra.* El elemental puede excavar a través de la tierra y la piedra que no sean mágicas ni estén trabajadas. Al hacer esto, no desplaza ni perturba la materia a través de la que se mueve.
 
 *Monstruo de asedio.* El elemental inflige el doble de daño a objetos y estructuras.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El elemental realiza dos ataques con su golpe o su lanzamiento de rocas en cualquier combinación.
 
@@ -156,18 +137,15 @@ Percepción pasiva 10 **Idiomas:** primordial (terrano) **VD:** 5 (1800 PX; BC +
 
 # **Ent**
 
-# **Ent**
-
 *Planta Enorme, caótica buena*
 
 **CA:** 16 **Iniciativa:** +3 (13)
 
 **PG:** 138 (12d12 + 60) **Velocidad:** 9 m
 
-|        |    |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue 23 |    | +6 | +6         | Des    | 8 | −1 | −1         | Con 21 | +5 | +5         |
-| Int    | 12 | +1 | +1         | Sab 16 |   | +3 | +3         | Car 12 | +1 | +1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 23 (+6) | 8 (−1) | 21 (+5) | 12 (+1) | 16 (+3) | 12 (+1) |
 
 **Vulnerabilidades:** fuego
 
@@ -175,11 +153,11 @@ Percepción pasiva 10 **Idiomas:** primordial (terrano) **VD:** 5 (1800 PX; BC +
 
 **VD:** 9 (5000 PX; BC +4)
 
-# Atributos
+### Atributos
 
 *Monstruo de asedio.* El ent inflige el doble de daño a objetos y estructuras.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El ent realiza dos ataques con su golpe.
 
@@ -191,18 +169,15 @@ Percepción pasiva 10 **Idiomas:** primordial (terrano) **VD:** 5 (1800 PX; BC +
 
 # **Erinia**
 
-# **Erinia**
-
 *Infernal Mediano (diablo), legal malvado*
 
 **CA:** 18 **Iniciativa:** +7 (17)
 
 **PG:** 178 (21d8 + 84) **Velocidad:** 9 m, volar 18 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 18 |    | +4 | +4         | Des 16 | +3 | +7         | Con 18 | +4 | +8         |
-| Int    | 14 | +2 | +2         | Sab 14 | +2 | +2         | Car 18 | +4 | +8         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 18 (+4) | 16 (+3) | 18 (+4) | 14 (+2) | 14 (+2) | 18 (+4) |
 
 **Habilidades:** Percepción +6, Persuasión +8
 
@@ -214,7 +189,7 @@ Percepción pasiva 10 **Idiomas:** primordial (terrano) **VD:** 5 (1800 PX; BC +
 
 **Idiomas:** infernal; telepatía 36 m **VD:** 12 (8400 PX; BC +4)
 
-# Atributos
+### Atributos
 
 *Cuerda mágica.* La erinia tiene una cuerda mágica. Mientras la empuñe, puede utilizar la acción de cuerda enmarañadora. La cuerda tiene una CA de 20, 90 pg e inmunidad al daño psíquico y de veneno. La cuerda se convierte en polvo si sus puntos de golpe se reducen a 0, si está a más de 1,5 m de la erinia durante 1 hora o más o si la erinia muere. Si la cuerda sufre daño o se destruye, la erinia puede restaurarla por completo al finalizar un descanso corto o largo.
 
@@ -222,7 +197,7 @@ Percepción pasiva 10 **Idiomas:** primordial (terrano) **VD:** 5 (1800 PX; BC +
 
 *Resistencia mágica.* La erinia tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* La erinia realiza tres ataques con su espada marchitadora y puede emplear su cuerda enmarañadora.
 
@@ -232,7 +207,7 @@ Percepción pasiva 10 **Idiomas:** primordial (terrano) **VD:** 5 (1800 PX; BC +
 
 *Tirada de salvación de Fuerza:* CD 16, una criatura que la erinia pueda ver a 36 m o menos. *Fallo:* 14 (4d6) de daño de fuerza y el objetivo tendrá el estado de apresado hasta que se destruya la cuerda, que la erinia use una acción adicional para soltarlo o que vuelva a usar la cuerda enmarañadora.
 
-# Reacciones
+### Reacciones
 
 *Parada. Detonante:* una tirada de ataque cuerpo a cuerpo acierta a la erinia mientras sostiene un arma. *Respuesta:* la erinia suma 4 a su CA contra ese ataque, lo que puede hacer que falle.
 
@@ -248,10 +223,9 @@ Percepción pasiva 10 **Idiomas:** primordial (terrano) **VD:** 5 (1800 PX; BC +
 
 **Velocidad:** 6 m, volar 12 m
 
-|     |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue | 6  | −2 | −2         | Des 17 | +3 | +3         | Con 13 | +1 | +1         |
-| Int | 15 | +2 | +2         | Sab 12 | +1 | +1         | Car 11 | +0 | +0         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 6 (−2) | 17 (+3) | 13 (+1) | 15 (+2) | 12 (+1) | 11 (+0) |
 
 **Habilidades:** Conocimiento arcano +4, Religión +4, Sigilo +5
 
@@ -259,15 +233,15 @@ Percepción pasiva 10 **Idiomas:** primordial (terrano) **VD:** 5 (1800 PX; BC +
 
 **Idiomas:** celestial, común **VD:** 1 (200 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Resistencia mágica.* La esfinge tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Desgarro. Tirada de ataque cuerpo a cuerpo:* +5, alcance 1,5 m. *Acierto:* 5 (1d4 + 3) de daño cortante más 7 (2d6) de daño radiante.
 
-# Reacciones
+### Reacciones
 
 *Arranque de ingenio (2/día). Detonante:* la esfinge u otra criatura a 9 m o menos hace una prueba de característica o una tirada de salvación. *Respuesta:* la esfinge suma 2 a la tirada.
 
@@ -284,9 +258,7 @@ Percepción pasiva 10 **Idiomas:** primordial (terrano) **VD:** 5 (1800 PX; BC +
 | Fue 18    | +4         | +4<br>Des 15 | +2         | +2 | Con 16 | +3         | +3 |
 | Int<br>18 | +4         | +4<br>Sab 18 | +4         | +4 | Car 18 | +4         | +4 |
 
-**Habilidades:** Conocimiento arcano +12, Historia +12,
-
-Percepción +8, Religión +12 **Resistencias:** necrótico, radiante
+**Habilidades:** Conocimiento arcano +12, Historia +12, Percepción +8, Religión +12 **Resistencias:** necrótico, radiante
 
 **Inmunidades:** psíquico; asustado, hechizado
 
@@ -296,13 +268,13 @@ Percepción +8, Religión +12 **Resistencias:** necrótico, radiante
 
 **VD:** 11 (7200 PX u 8400 en la guarida; BC +4)
 
-# Atributos
+### Atributos
 
 *Inescrutable.* La magia no puede observar desde lejos a la esfinge ni detectar sus pensamientos sin su permiso. Las pruebas de Sabiduría (Perspicacia) realizadas para determinar sus intenciones tienen desventaja.
 
 *Resistencia legendaria (3/día o 4/día en la guarida).* La esfinge puede elegir tener éxito en una tirada de salvación que haya fallado.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* La esfinge realiza tres ataques con sus garras.
 
@@ -316,7 +288,7 @@ Percepción +8, Religión +12 **Resistencias:** necrótico, radiante
 
 *Rugido desgarramentes (recarga 5–6). Tirada de salvación de Sabiduría:* CD 16, todos los enemigos en una emanación de 90 m que se origina en la esfinge. *Fallo:* 35 (10d6) de daño psíquico y el objetivo tendrá el estado de incapacitado hasta el principio del siguiente turno de la esfinge.
 
-# Acciones legendarias
+### Acciones legendarias
 
 *Usos de acciones legendarias: 3 (4 en la guarida). Justo después del turno de otra criatura, la esfinge puede emplear un uso para llevar a cabo una de las siguientes acciones. La esfinge recupera todos los usos al principio de cada uno de sus turnos.*
 
@@ -332,10 +304,9 @@ Percepción +8, Religión +12 **Resistencias:** necrótico, radiante
 
 **PG:** 199 (19d10 + 95) **Velocidad:** 12 m, volar 18 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 22 |    | +6 | +6         | Des 10 | +0 | +6         | Con 20 | +5 | +11        |
-| Int    | 16 | +3 | +9         | Sab 23 | +6 | +12        | Car 18 | +4 | +4         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 22 (+6) | 10 (+0) | 20 (+5) | 16 (+3) | 23 (+6) | 18 (+4) |
 
 **Habilidades:** Conocimiento arcano +9, Percepción +12, Religión +15
 
@@ -349,13 +320,13 @@ Percepción +8, Religión +12 **Resistencias:** necrótico, radiante
 
 **VD:** 17 (18 000 PX o 20 000 en la guarida; BC +6)
 
-# Atributos
+### Atributos
 
 *Inescrutable.* La magia no puede observar desde lejos a la esfinge ni detectar sus pensamientos sin su permiso. Las pruebas de Sabiduría (Perspicacia) realizadas para determinar sus intenciones tienen desventaja.
 
 *Resistencia legendaria (3/día o 4/día en la guarida).*  La esfinge puede elegir tener éxito en una tirada de salvación que haya fallado.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* La esfinge realiza dos ataques con sus garras y emplea su rugido.
 
@@ -373,15 +344,13 @@ Percepción +8, Religión +12 **Resistencias:** necrótico, radiante
 
 **Tercer rugido.** *Tirada de salvación de Constitución:*  CD 20, todos los enemigos en una emanación de 150 m que se origina en la esfinge. *Fallo:* 44 (8d10) de daño de trueno y el objetivo tendrá el estado de derribado. *Éxito:* solo la mitad del daño.
 
-# Acciones legendarias
+### Acciones legendarias
 
 *Usos de acciones legendarias: 3 (4 en la guarida). Justo después del turno de otra criatura, la esfinge puede emplear un uso para llevar a cabo una de las siguientes acciones. La esfinge recupera todos los usos al principio de cada uno de sus turnos.*
 
 *Merodeo arcano.* La esfinge puede teletransportarse hasta 9 m a un espacio sin ocupar que pueda ver y realiza un ataque con sus garras.
 
 *Peso de los años. Tirada de salvación de Constitución:* CD 16, una criatura que la esfinge pueda ver a 36 m o menos. *Fallo:* el objetivo suma 1 nivel de cansancio. Mientras el objetivo tenga al menos 1 nivel de cansancio, parecerá 3d10 años más viejo. *Fallo o éxito:* la esfinge no puede volver a realizar esta acción hasta el principio de su siguiente turno.
-
-# **Espectro**
 
 # **Espectro**
 
@@ -393,10 +362,9 @@ Percepción +8, Religión +12 **Resistencias:** necrótico, radiante
 
 **Velocidad:** 9 m, volar 15 m (levitar)
 
-|     |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue | 1  | −5 | −5         | Des 14 | +2 | +2         | Con 11 | +0 | +0         |
-| Int | 10 | +0 | +0         | Sab 10 | +0 | +0         | Car 11 | +0 | +0         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 1 (−5) | 14 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 11 (+0) |
 
 **Resistencias:** ácido, contundente, cortante, frío, fuego, perforante, relámpago, trueno
 
@@ -408,17 +376,15 @@ Percepción +8, Religión +12 **Resistencias:** necrótico, radiante
 
 **VD:** 1 (200 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Movimiento incorpóreo.* El espectro puede moverse a través de otras criaturas y objetos como si fueran terreno difícil. Recibe 5 (1d10) de daño de fuerza si acaba su turno dentro de un objeto.
 
 *Sensibilidad a la luz solar.* Bajo la luz del sol, el espectro tiene desventaja en las pruebas de característica y las tiradas de ataque.
 
-# Acciones
+### Acciones
 
 *Consumir vida. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 7 (2d6) de daño necrótico. Si el objetivo es una criatura, sus puntos de golpe máximos se reducen en una cantidad igual al daño sufrido.
-
-# **Espía**
 
 # **Espía**
 
@@ -430,10 +396,9 @@ Percepción +8, Religión +12 **Resistencias:** necrótico, radiante
 
 **Velocidad:** 9 m, trepar 9 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 10 |    | +0 | +0         | Des 15 | +2 | +2         | Con 10 | +0 | +0         |
-| Int    | 12 | +1 | +1         | Sab 14 | +2 | +2         | Car 16 | +3 | +3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 10 (+0) | 15 (+2) | 10 (+0) | 12 (+1) | 14 (+2) | 16 (+3) |
 
 **Habilidades:** Engaño +5, Investigación +5, Juego de manos +4, Percepción +6, Perspicacia +4, Sigilo +6
 
@@ -443,7 +408,7 @@ Percepción +8, Religión +12 **Resistencias:** necrótico, radiante
 
 **VD:** 1 (200 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Espada corta. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 5 (1d6 + 2) de daño perforante más 7 (2d6) de daño de veneno.
 
@@ -463,10 +428,9 @@ Percepción +8, Religión +12 **Resistencias:** necrótico, radiante
 
 **PG:** 13 (2d8 + 4) **Velocidad:** 9 m
 
-|        |   |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue 10 |   | +0 | +0         | Des 16 |   | +3 | +3         | Con 15 | +2 | +2         |
-| Int    | 6 | −2 | −2         | Sab    | 8 | −1 | −1         | Car 5  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 10 (+0) | 16 (+3) | 15 (+2) | 6 (−2) | 8 (−1) | 5 (−3) |
 
 **Vulnerabilidades:** contundente
 
@@ -478,13 +442,11 @@ Percepción +8, Religión +12 **Resistencias:** necrótico, radiante
 
 **VD:** 1/4 (50 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Espada corta. Tirada de ataque cuerpo a cuerpo:* +5, alcance 1,5 m. *Acierto:* 6 (1d6 + 3) de daño perforante.
 
 *Arco corto. Tirada de ataque a distancia:* +5, alcance 24/96 m. *Acierto:* 6 (1d6 + 3) de daño perforante.
-
-# **Estirge**
 
 # **Estirge**
 
@@ -496,22 +458,19 @@ Percepción +8, Religión +12 **Resistencias:** necrótico, radiante
 
 **Velocidad:** 3 m, volar 12 m
 
-|     |   |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|---|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue | 4 | −3 | −3         | Des 16 |   | +3 | +3         | Con 11 | +0 | +0         |
-| Int | 2 | −4 | −4         | Sab    | 8 | −1 | −1         | Car 6  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 4 (−3) | 16 (+3) | 11 (+0) | 2 (−4) | 8 (−1) | 6 (−2) |
 
 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 9
 
 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Probóscide. Tirada de ataque cuerpo a cuerpo:* +5, alcance 1,5 m. *Acierto:* 6 (1d6 + 3) de daño perforante y la estirge se engancha al objetivo. Mientras esté enganchada, no podrá hacer ataques con su probóscide y el objetivo sufrirá 5 (2d4) de daño necrótico al principio de cada turno de la estirge.
 
 La estirge puede usar 1,5 m de su movimiento para desengancharse. Como acción, el objetivo o una criatura a 1,5 m o menos de él puede desenganchar a la estirge.
-
-# **Ettercap**
 
 # **Ettercap**
 
@@ -528,19 +487,17 @@ La estirge puede usar 1,5 m de su movimiento para desengancharse. Como acción, 
 | Fue 14   | +2<br>+2   | Des 15 | +2<br>+2   | Con 13 | +1 | +1         |
 | Int<br>7 | −2<br>−2   | Sab 12 | +1<br>+1   | Car 8  | −1 | −1         |
 
-**Habilidades:** Percepción +3, Sigilo +4, Supervivencia +3 **Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 13 **Idiomas:** ninguno
+**Habilidades:** Percepción +3, Sigilo +4, Supervivencia +3 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 13 **Idiomas:** ninguno
 
 **VD:** 2 (450 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Caminar por telarañas.* El ettercap ignora todas las restricciones de movimiento causadas por las telarañas y conoce la ubicación de cualquier otra criatura que esté en contacto con la misma telaraña.
 
 *Trepar cual arácnido.* El ettercap puede trepar por superficies difíciles e incluso recorrer techos sin tener que realizar pruebas de característica.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El ettercap realiza un ataque de mordisco y uno con sus garras.
 
@@ -556,32 +513,25 @@ pasiva 13 **Idiomas:** ninguno
 
 # **Ettin**
 
-# **Ettin**
-
 *Gigante Grande, caótico malvado*
 
 **CA:** 12 **Iniciativa:** −1 (9)
 
 **PG:** 85 (10d10 + 30) **Velocidad:** 12 m
 
-|        |   |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue 21 |   | +5 | +5         | Des    | 8 | −1 | −1         | Con 17 | +3 | +3         |
-| Int    | 6 | −2 | −2         | Sab 10 |   | +0 | +0         | Car 8  | −1 | −1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 21 (+5) | 8 (−1) | 17 (+3) | 6 (−2) | 10 (+0) | 8 (−1) |
 
 **Habilidades:** Percepción +4
 
-**Inmunidades:** asustado, aturdido, cegado, ensordecido,
-
-hechizado, inconsciente
+**Inmunidades:** asustado, aturdido, cegado, ensordecido, hechizado, inconsciente
 
 **Equipo:** hacha de guerra, lucero del alba
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 14 **Idiomas:** gigante **VD:** 4 (1100 PX; BC +2)
 
-pasiva 14 **Idiomas:** gigante **VD:** 4 (1100 PX; BC +2)
-
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El ettin realiza un ataque con su hacha de guerra y uno con su lucero del alba.
 
@@ -599,20 +549,19 @@ pasiva 14 **Idiomas:** gigante **VD:** 4 (1100 PX; BC +2)
 
 **Velocidad:** 9 m, trepar 9 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 14 |   | +2 | +2         | Des 14 | +2 | +2         | Con 11 | +0 | +0         |
-| Int    | 5 | −3 | −3         | Sab 10 | +0 | +0         | Car 4  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 14 (+2) | 14 (+2) | 11 (+0) | 5 (−3) | 10 (+0) | 4 (−3) |
 
 **Resistencias:** contundente, cortante, perforante **Inmunidades:** necrótico, veneno; agarrado, apresado, asustado, aturdido, cansancio, derribado, envenenado, hechizado, incapacitado, paralizado, petrificado **Sentidos:** visión ciega 9 m; Percepción pasiva 10 **Idiomas:** entiende común, pero no puede hablar
 
 **VD:** 3 (700 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Enjambre.* El enjambre puede ocupar el espacio de otra criatura y viceversa, y es capaz de atravesar cualquier abertura por la que quepa una criatura Diminuta. El enjambre no puede recuperar puntos de golpe ni obtener puntos de golpe temporales.
 
-# Acciones
+### Acciones
 
 *Enjambre de manos apresadoras. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 20 (4d8 + 2) de daño necrótico u 11 (2d8 + 2) de daño necrótico si el enjambre está maltrecho. Si el objetivo es una criatura Mediana o más pequeña, tendrá el estado de derribada.
 
@@ -626,10 +575,9 @@ pasiva 14 **Idiomas:** gigante **VD:** 4 (1100 PX; BC +2)
 
 **Velocidad:** 1,5 m, volar 15 m (levitar)
 
-|        |   |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue 12 |   | +1 | +1         | Des 15 |   | +2 | +4         | Con 11 | +0 | +0         |
-| Int    | 1 | −5 | −5         | Sab    | 5 | −3 | −3         | Car 1  | −5 | −5         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 12 (+1) | 15 (+2) | 11 (+0) | 1 (−5) | 5 (−3) | 1 (−5) |
 
 **Inmunidades:** psíquico, veneno; asustado, cansancio, ensordecido, envenenado, hechizado, paralizado, petrificado
 
@@ -637,7 +585,7 @@ pasiva 14 **Idiomas:** gigante **VD:** 4 (1100 PX; BC +2)
 
 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Corte. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 6 (1d8 + 2) de daño cortante.
 
@@ -660,11 +608,11 @@ pasiva 14 **Idiomas:** gigante **VD:** 4 (1100 PX; BC +2)
 
 **VD:** 1/8 (25 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Anfibio.* El sirénido puede respirar tanto dentro como fuera del agua.
 
-# Acciones
+### Acciones
 
 *Lanza marina. Tirada de ataque cuerpo a cuerpo o a distancia:* +2, alcance 1,5 m o 6/18 m a distancia. *Acierto:* 3 (1d6) de daño perforante más 2 (1d4) de daño de frío. Si el objetivo es una criatura, su velocidad se reducirá en 3 m hasta el final de su siguiente turno. *Acierto o fallo:* la lanza regresa mágicamente a la mano del sirénido inmediatamente después de un ataque a distancia.
 
@@ -676,22 +624,21 @@ pasiva 14 **Idiomas:** gigante **VD:** 4 (1100 PX; BC +2)
 
 **PG:** 14 (4d6) **Velocidad:** 6 m
 
-|        |   |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue 18 |   | +4 | +4         | Des 12 |   | +1 | +1         | Con 10 | +0 | +0         |
-| Int    | 1 | −5 | −5         | Sab    | 9 | −1 | −1         | Car 1  | −5 | −5         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 18 (+4) | 12 (+1) | 10 (+0) | 1 (−5) | 9 (−1) | 1 (−5) |
 
 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 9
 
 **Idiomas:** ninguno **VD:** 1/2 (100 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Engendro de troll.* Asombrosamente, la extremidad tiene los mismos sentidos que un troll entero. Si la extremidad no se destruye en 24 horas, tira 1d12. Si el resultado es 12, la extremidad se convierte en un **troll**. Si no, la extremidad se atrofia y muere.
 
 *Regeneración.* La extremidad recupera 5 puntos de golpe al principio de cada uno de sus turnos. Si recibe daño de ácido o de fuego, este atributo no funcionará en su siguiente turno. La extremidad solo morirá si empieza su turno con 0 puntos de golpe y no se regenera.
 
-# Acciones
+### Acciones
 
 *Desgarro. Tirada de ataque cuerpo a cuerpo:* +6, alcance 1,5 m. *Acierto:* 9 (2d4 + 4) de daño cortante.
 
@@ -703,24 +650,21 @@ pasiva 14 **Idiomas:** gigante **VD:** 4 (1100 PX; BC +2)
 
 **PG:** 90 (12d8 + 36) **Velocidad:** 9 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 16 |    | +3 | +3         | Des 16 | +3 | +6         | Con 16 | +3 | +3         |
-| Int    | 11 | +0 | +0         | Sab 10 | +0 | +3         | Car 12 | +1 | +1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 16 (+3) | 16 (+3) | 16 (+3) | 11 (+0) | 10 (+0) | 12 (+1) |
 
 **Habilidades:** Percepción +3, Sigilo +6
 
 **Resistencias:** necrótico
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 13
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 13
 
 **Idiomas:** común y otro cualquiera
 
 **VD:** 5 (1800 PX; BC +3)
 
-# Atributos
+### Atributos
 
 *Debilidad vampírica.* El vampiro tiene estas debilidades:
 
@@ -743,4 +687,5 @@ pasiva 13
 # Acciones adicionales
 
 *Agilidad de inmortal.* El vampiro realiza las acciones de correr o destrabarse.
+
 

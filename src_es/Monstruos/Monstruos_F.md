@@ -1,7 +1,5 @@
 # **Fantasma**
 
-# **Fantasma**
-
 *Muerto viviente Mediano, neutral*
 
 **CA:** 11 **Iniciativa:** +1 (11)
@@ -10,10 +8,9 @@
 
 **Velocidad:** 1,5 m, volar 12 m (levitar)
 
-|     |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue | 7  | −2 | −2         | Des 13 | +1 | +1         | Con 10 | +0 | +0         |
-| Int | 10 | +0 | +0         | Sab 12 | +1 | +1         | Car 17 | +3 | +3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 7 (−2) | 13 (+1) | 10 (+0) | 10 (+0) | 12 (+1) | 17 (+3) |
 
 **Resistencias:** ácido, contundente, cortante, frío, fuego, perforante, relámpago, trueno
 
@@ -25,13 +22,13 @@
 
 **VD:** 4 (1100 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Movimiento incorpóreo.* El fantasma puede moverse a través de otras criaturas y objetos como si fueran terreno difícil. Recibe 5 (1d10) de daño de fuerza si acaba su turno dentro de un objeto.
 
 *Visión etérea.* El fantasma puede ver a 18 m de distancia en el Plano Etéreo cuando se encuentra en el Plano Material.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El fantasma realiza dos ataques de toque marchitador.
 
@@ -49,8 +46,6 @@ La posesión durará hasta que los puntos de golpe del cuerpo se reduzcan a 0 o 
 
 # **Fuego fatuo**
 
-# **Fuego fatuo**
-
 *Muerto viviente Diminuto, caótico malvado*
 
 **CA:** 19 **Iniciativa:** +9 (19)
@@ -59,24 +54,21 @@ La posesión durará hasta que los puntos de golpe del cuerpo se reduzcan a 0 o 
 
 **Velocidad:** 1,5 m, volar 15 m (levitar)
 
-|     |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue | 1  | −5 | −5         | Des 28 | +9 | +9         | Con 10 | +0 | +0         |
-| Int | 13 | +1 | +1         | Sab 14 | +2 | +2         | Car 11 | +0 | +0         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 1 (−5) | 28 (+9) | 10 (+0) | 13 (+1) | 14 (+2) | 11 (+0) |
 
 **Resistencias:** ácido, contundente, cortante, frío, fuego, necrótico, perforante
 
 **Inmunidades:** relámpago, veneno; agarrado, apresado, cansancio, derribado, envenenado, inconsciente, paralizado, petrificado
 
-**Sentidos:** visión en la oscuridad 36 m; Percepción
-
-pasiva 12
+**Sentidos:** visión en la oscuridad 36 m; Percepción pasiva 12
 
 **Idiomas:** común y otro cualquiera
 
 **VD:** 2 (450 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Efímero.* El fuego fatuo no puede llevar puesto ni transportar nada.
 
@@ -84,7 +76,7 @@ pasiva 12
 
 *Movimiento incorpóreo.* El fuego fatuo puede moverse a través de otras criaturas y objetos como si fueran terreno difícil. Recibe 5 (1d10) de daño de fuerza si acaba su turno dentro de un objeto.
 
-# Acciones
+### Acciones
 
 *Descarga. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 11 (2d8 + 2) de daño de relámpago.
 
@@ -102,10 +94,9 @@ pasiva 12
 
 **PG:** 44 (8d8 + 8) **Velocidad:** 9 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 11 |    | +0 | +0         | Des 14 | +2 | +2         | Con 12 | +1 | +1         |
-| Int    | 10 | +0 | +0         | Sab 14 | +2 | +4         | Car 13 | +1 | +1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 11 (+0) | 14 (+2) | 12 (+1) | 10 (+0) | 14 (+2) | 13 (+1) |
 
 **Habilidades:** Engaño +3, Persuasión +3, Religión +2 **Equipo:** armadura de cuero, símbolo sagrado
 
@@ -113,7 +104,7 @@ pasiva 12
 
 **Idiomas:** común **VD:** 2 (450 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Cuchilla de pacto. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 6 (1d8 + 2) de daño cortante más 7 (2d6) de daño necrótico.
 
@@ -126,4 +117,5 @@ pasiva 12
 # Acciones adicionales
 
 *Arma espiritual (2/día).* El sectario lanza el conjuro *arma espiritual* usando la misma aptitud mágica que para su lanzamiento de conjuros.
+
 

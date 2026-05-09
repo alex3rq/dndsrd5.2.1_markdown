@@ -10,16 +10,15 @@
 
 **Velocidad:** 3 m, volar 18 m
 
-|     |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue | 6 | −2 | −2         | Des 15 | +2 | +2         | Con 12 | +1 | +1         |
-| Int | 2 | −4 | −4         | Sab 14 | +2 | +2         | Car 7  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 6 (−2) | 15 (+2) | 12 (+1) | 2 (−4) | 14 (+2) | 7 (−2) |
 
 **Habilidades:** Percepción +6 **Sentidos:** Percepción pasiva 16
 
 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Garras. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 4 (1d4 + 2) de daño cortante.
 
@@ -33,18 +32,15 @@
 
 **Velocidad:** 3 m, volar 24 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 16 |   | +3 | +3         | Des 17 | +3 | +3         | Con 13 | +1 | +1         |
-| Int    | 8 | −1 | −1         | Sab 14 | +2 | +2         | Car 10 | +0 | +0         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 16 (+3) | 17 (+3) | 13 (+1) | 8 (−1) | 14 (+2) | 10 (+0) |
 
 **Habilidades:** Percepción +6 **Resistencias:** necrótico, radiante **Sentidos:** Percepción pasiva 16
 
-**Idiomas:** celestial; entiende común y primordial (aurano),
+**Idiomas:** celestial; entiende común y primordial (aurano), pero no puede hablarlos **VD:** 1 (200 PX; BC +2)
 
-pero no puede hablarlos **VD:** 1 (200 PX; BC +2)
-
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El águila realiza dos ataques de desgarro.
 
@@ -58,18 +54,15 @@ pero no puede hablarlos **VD:** 1 (200 PX; BC +2)
 
 **PG:** 11 (2d10) **Velocidad:** 15 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 16 |   | +3 | +3         | Des 10 | +0 | +0         | Con 11 | +0 | +0         |
-| Int    | 2 | −4 | −4         | Sab 10 | +0 | +0         | Car 6  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 16 (+3) | 10 (+0) | 11 (+0) | 2 (−4) | 10 (+0) | 6 (−2) |
 
 **Habilidades:** Percepción +2
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 12 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
-pasiva 12 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
-
-# Acciones
+### Acciones
 
 *Embestir. Tirada de ataque cuerpo a cuerpo:* +5, alcance 1,5 m. *Acierto:* 6 (1d6 + 3) de daño contundente. Si el objetivo es una criatura Grande o más pequeña y el alce recorre al menos 6 m en línea recta hacia ella justo antes de acertarle, esta recibirá 3 (1d6) de daño contundente adicional y tendrá el estado de derribada.
 
@@ -81,22 +74,19 @@ pasiva 12 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
 **PG:** 42 (5d12 + 10) **Velocidad:** 18 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 19 |   | +4 | +6         | Des 18 | +4 | +6         | Con 14 | +2 | +2         |
-| Int    | 7 | −2 | −2         | Sab 14 | +2 | +2         | Car 10 | +0 | +0         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 19 (+4) | 18 (+4) | 14 (+2) | 7 (−2) | 14 (+2) | 10 (+0) |
 
 **Habilidades:** Percepción +4 **Resistencias:** necrótico, radiante
 
-**Sentidos:** visión en la oscuridad 27 m; Percepción
-
-pasiva 14
+**Sentidos:** visión en la oscuridad 27 m; Percepción pasiva 14
 
 **Idiomas:** celestial; entiende común, elfo y silvano, pero no
 
 puede hablarlos **VD:** 2 (450 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Embestir. Tirada de ataque cuerpo a cuerpo:* +6, alcance 3 m. *Acierto:* 11 (2d6 + 4) de daño contundente más 5 (2d4) de daño radiante. Si el objetivo es una criatura Enorme o más pequeña y el alce recorre al menos 6 m en línea recta hacia ella justo antes de acertarle, esta recibirá 5 (2d4) de daño contundente adicional y tendrá el estado de derribada.
 
@@ -108,16 +98,15 @@ puede hablarlos **VD:** 2 (450 PX; BC +2)
 
 **PG:** 51 (6d10 + 18) **Velocidad:** 18 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 19 |   | +4 | +4         | Des 13 | +1 | +1         | Con 17 | +3 | +3         |
-| Int    | 2 | −4 | −4         | Sab 12 | +1 | +1         | Car 5  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 19 (+4) | 13 (+1) | 17 (+3) | 2 (−4) | 12 (+1) | 5 (−3) |
 
 **Habilidades:** Percepción +5 **Sentidos:** Percepción pasiva 15
 
 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Garras. Tirada de ataque cuerpo a cuerpo:* +6, alcance 1,5 m. *Acierto:* 8 (1d8 + 4) de daño cortante. Si el objetivo es una criatura Grande o más pequeña y el alosaurio recorre al menos 9 m en línea recta hacia ella justo antes de acertarle, tendrá el estado de derribada y el alosaurio podrá realizar un ataque de mordisco contra ella.
 
@@ -131,16 +120,15 @@ puede hablarlos **VD:** 2 (450 PX; BC +2)
 
 **PG:** 68 (8d12 + 16) **Velocidad:** 9 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 19 |   | +4 | +6         | Des 11 | +0 | +0         | Con 15 | +2 | +2         |
-| Int    | 2 | −4 | −4         | Sab 12 | +1 | +1         | Car 5  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 19 (+4) | 11 (+0) | 15 (+2) | 2 (−4) | 12 (+1) | 5 (−3) |
 
 **Sentidos:** Percepción pasiva 11
 
 **Idiomas:** ninguno **VD:** 3 (700 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El anquilosaurio realiza dos ataques con su cola.
 
@@ -156,10 +144,9 @@ puede hablarlos **VD:** 2 (450 PX; BC +2)
 
 **Velocidad:** 6 m, trepar 6 m
 
-|     |   |    | MOD. SALV. |        |    | MOD. SALV. |       |    | MOD. SALV. |
-|-----|---|----|------------|--------|----|------------|-------|----|------------|
-| Fue | 2 | −4 | −4         | Des 14 | +2 | +2         | Con 8 | −1 | −1         |
-| Int | 1 | −5 | −5         | Sab 10 | +0 | +0         | Car 2 | −4 | −4         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 2 (−4) | 14 (+2) | 8 (−1) | 1 (−5) | 10 (+0) | 2 (−4) |
 
 **Habilidades:** Sigilo +4
 
@@ -167,7 +154,7 @@ puede hablarlos **VD:** 2 (450 PX; BC +2)
 
 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Caminar por telarañas.* La araña ignora todas las restricciones de movimiento causadas por las telarañas y conoce la ubicación de cualquier otra criatura que esté en contacto con la misma telaraña.
 
@@ -185,24 +172,21 @@ puede hablarlos **VD:** 2 (450 PX; BC +2)
 
 **Velocidad:** 9 m, trepar 9 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 14 |   | +2 | +2         | Des 16 | +3 | +3         | Con 12 | +1 | +1         |
-| Int    | 2 | −4 | −4         | Sab 11 | +0 | +0         | Car 4  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 14 (+2) | 16 (+3) | 12 (+1) | 2 (−4) | 11 (+0) | 4 (−3) |
 
 **Habilidades:** Percepción +4, Sigilo +7
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 14 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
-pasiva 14 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
-
-# Atributos
+### Atributos
 
 *Caminar por telarañas.* La araña ignora todas las restricciones de movimiento causadas por las telarañas y conoce la ubicación de cualquier otra criatura que esté en contacto con la misma telaraña.
 
 *Trepar cual arácnido.* La araña puede trepar por superficies difíciles e incluso recorrer techos sin tener que realizar pruebas de característica.
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +5, alcance 1,5 m. *Acierto:* 7 (1d8 + 3) de daño perforante más 7 (2d6) de daño de veneno.
 
@@ -218,10 +202,9 @@ pasiva 14 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
 **Velocidad:** 6 m, nadar 24 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 18 |   | +4 | +4         | Des 16 | +3 | +3         | Con 13 | +1 | +1         |
-| Int    | 4 | −3 | −3         | Sab 14 | +2 | +2         | Car 6  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 18 (+4) | 16 (+3) | 13 (+1) | 4 (−3) | 14 (+2) | 6 (−2) |
 
 **Habilidades:** Sigilo +5
 
@@ -229,11 +212,11 @@ pasiva 14 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
 **Idiomas:** ninguno **VD:** 4 (1100 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Anfibio.* El archelon puede respirar tanto dentro como fuera del agua.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El archelon realiza dos ataques de mordisco.
 
@@ -249,20 +232,19 @@ pasiva 14 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
 **Velocidad:** 3 m, volar 15 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 10 |   | +0 | +0         | Des 14 | +2 | +2         | Con 10 | +0 | +0         |
-| Int    | 1 | −5 | −5         | Sab 10 | +0 | +0         | Car 3  | −4 | −4         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 10 (+0) | 14 (+2) | 10 (+0) | 1 (−5) | 10 (+0) | 3 (−4) |
 
 **Sentidos:** Percepción pasiva 10
 
 **Idiomas:** ninguno **VD:** 1/2 (100 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Pasar volando.* La avispa no provoca ataques de oportunidad cuando vuela para ponerse fuera del alcance de un enemigo.
 
-# Acciones
+### Acciones
 
 *Aguijón. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 5 (1d6 + 2) de daño perforante más 5 (2d4) de daño de veneno.
 
@@ -276,20 +258,19 @@ pasiva 14 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
 **Velocidad:** 9 m, trepar 9 m
 
-|     |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue | 8 | −1 | −1         | Des 14 | +2 | +2         | Con 11 | +0 | +0         |
-| Int | 4 | −3 | −3         | Sab 12 | +1 | +1         | Car 6  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 8 (−1) | 14 (+2) | 11 (+0) | 4 (−3) | 12 (+1) | 6 (−2) |
 
 **Sentidos:** Percepción pasiva 11
 
 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Atacar en manada.* El babuino tiene ventaja en una tirada de ataque contra una criatura si al menos uno de los aliados del babuino se encuentra a 1,5 m o menos de la criatura y no tiene el estado de incapacitado.
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +1, alcance 1,5 m. *Acierto:* 1 (1d4 − 1) de daño perforante.
 
@@ -303,22 +284,19 @@ pasiva 14 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
 **Velocidad:** 1,5 m, volar 18 m
 
-|     |   |    | MOD. SALV. |        |    | MOD. SALV. |       |    | MOD. SALV. |
-|-----|---|----|------------|--------|----|------------|-------|----|------------|
-| Fue | 3 | −4 | −4         | Des 13 | +1 | +1         | Con 8 | −1 | −1         |
-| Int | 2 | −4 | −4         | Sab 12 | +1 | +1         | Car 7 | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 3 (−4) | 13 (+1) | 8 (−1) | 2 (−4) | 12 (+1) | 7 (−2) |
 
 **Habilidades:** Percepción +5, Sigilo +5
 
-**Sentidos:** visión en la oscuridad 36 m; Percepción
+**Sentidos:** visión en la oscuridad 36 m; Percepción pasiva 15 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
-pasiva 15 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
-
-# Atributos
+### Atributos
 
 *Pasar volando.* El búho no provoca ataques de oportunidad cuando vuela para ponerse fuera del alcance de un enemigo.
 
-# Acciones
+### Acciones
 
 *Garras. Tirada de ataque cuerpo a cuerpo:* +3, alcance 1,5 m. *Acierto:* 1 de daño cortante.
 
@@ -332,26 +310,23 @@ pasiva 15 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
 **Velocidad:** 1,5 m, volar 18 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 13 |    | +1 | +1         | Des 15 | +2 | +2         | Con 12 | +1 | +1         |
-| Int    | 10 | +0 | +0         | Sab 14 | +2 | +4         | Car 10 | +0 | +0         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 13 (+1) | 15 (+2) | 12 (+1) | 10 (+0) | 14 (+2) | 10 (+0) |
 
 **Habilidades:** Percepción +6, Sigilo +6 **Resistencias:** necrótico, radiante
 
-**Sentidos:** visión en la oscuridad 36 m; Percepción
-
-pasiva 16
+**Sentidos:** visión en la oscuridad 36 m; Percepción pasiva 16
 
 **Idiomas:** celestial; entiende común, elfo y silvano, pero no
 
 puede hablarlos **VD:** 1/4 (50 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Pasar volando.* El búho no provoca ataques de oportunidad cuando vuela para ponerse fuera del alcance de un enemigo.
 
-# Acciones
+### Acciones
 
 *Garras. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 7 (1d10 + 2) de daño cortante.
 
@@ -371,10 +346,9 @@ puede hablarlos **VD:** 1/4 (50 PX; BC +2)
 
 **Velocidad:** 3 m, volar 15 m
 
-|     |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue | 7 | −2 | −2         | Des 10 | +0 | +0         | Con 13 | +1 | +1         |
-| Int | 2 | −4 | −4         | Sab 12 | +1 | +1         | Car 4  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 7 (−2) | 10 (+0) | 13 (+1) | 2 (−4) | 12 (+1) | 4 (−3) |
 
 **Habilidades:** Percepción +3
 
@@ -382,11 +356,11 @@ puede hablarlos **VD:** 1/4 (50 PX; BC +2)
 
 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Atacar en manada.* El buitre tiene ventaja en una tirada de ataque contra una criatura si al menos uno de los aliados del buitre se encuentra a 1,5 m o menos de la criatura y no tiene el estado de incapacitado.
 
-# Acciones
+### Acciones
 
 *Pico. Tirada de ataque cuerpo a cuerpo:* +2, alcance 1,5 m. *Acierto:* 2 (1d4) de daño perforante.
 
@@ -400,26 +374,23 @@ puede hablarlos **VD:** 1/4 (50 PX; BC +2)
 
 **Velocidad:** 3 m, volar 18 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 15 |   | +2 | +2         | Des 10 | +0 | +0         | Con 16 | +3 | +3         |
-| Int    | 6 | −2 | −2         | Sab 12 | +1 | +1         | Car 7  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 15 (+2) | 10 (+0) | 16 (+3) | 6 (−2) | 12 (+1) | 7 (−2) |
 
 **Habilidades:** Percepción +3 **Resistencias:** necrótico
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 13
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 13
 
 **Idiomas:** entiende común, pero no puede hablar
 
 **VD:** 1 (200 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Atacar en manada.* El buitre tiene ventaja en una tirada de ataque contra una criatura si al menos uno de los aliados del buitre se encuentra a 1,5 m o menos de la criatura y no tiene el estado de incapacitado.
 
-# Acciones
+### Acciones
 
 *Picotazo. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 9 (2d6 + 2) de daño perforante y el objetivo tendrá el estado de envenenado hasta el final de su siguiente turno.
 
@@ -433,20 +404,19 @@ pasiva 13
 
 **Velocidad:** 1,5 m, nadar 6 m
 
-|     |   |    | MOD. SALV. |        |    | MOD. SALV. |       |    | MOD. SALV. |
-|-----|---|----|------------|--------|----|------------|-------|----|------------|
-| Fue | 1 | −5 | −5         | Des 12 | +1 | +1         | Con 8 | −1 | −1         |
-| Int | 1 | −5 | −5         | Sab 10 | +0 | +0         | Car 2 | −4 | −4         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 1 (−5) | 12 (+1) | 8 (−1) | 1 (−5) | 10 (+0) | 2 (−4) |
 
 **Habilidades:** Percepción +2, Sigilo +5 **Sentidos:** Percepción pasiva 12
 
 **Idiomas:** ninguno **VD:** 0 (0 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Respirar en el agua.* El caballito de mar solo puede respirar bajo el agua.
 
-# Acciones
+### Acciones
 
 *Carrera burbujeante.* Mientras está bajo el agua, el caballito de mar se mueve hasta su velocidad nadando sin provocar ataques de oportunidad.
 
@@ -460,20 +430,19 @@ pasiva 13
 
 **Velocidad:** 1,5 m, nadar 12 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 15 |   | +2 | +2         | Des 12 | +1 | +1         | Con 11 | +0 | +0         |
-| Int    | 2 | −4 | −4         | Sab 12 | +1 | +1         | Car 5  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 15 (+2) | 12 (+1) | 11 (+0) | 2 (−4) | 12 (+1) | 5 (−3) |
 
 **Sentidos:** Percepción pasiva 11
 
 **Idiomas:** ninguno **VD:** 1/2 (100 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Respirar en el agua.* El caballito de mar solo puede respirar bajo el agua.
 
-# Acciones
+### Acciones
 
 *Embestir. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 9 (2d6 + 2) de daño contundente u 11 (2d8 + 2) de daño contundente si el caballito de mar recorre al menos 6 m en línea recta hacia el objetivo justo antes de acertarle.
 
@@ -489,16 +458,15 @@ pasiva 13
 
 **PG:** 19 (3d10 + 3) **Velocidad:** 18 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 18 |   | +4 | +4         | Des 12 | +1 | +1         | Con 13 | +1 | +1         |
-| Int    | 2 | −4 | −4         | Sab 12 | +1 | +3         | Car 7  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 18 (+4) | 12 (+1) | 13 (+1) | 2 (−4) | 12 (+1) | 7 (−2) |
 
 **Sentidos:** Percepción pasiva 11
 
 **Idiomas:** ninguno **VD:** 1/2 (100 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Cascos. Tirada de ataque cuerpo a cuerpo:* +6, alcance 1,5 m. *Acierto:* 9 (2d4 + 4) de daño contundente. Si el objetivo es una criatura Grande o más pequeña y el caballo recorre al menos 6 m en línea recta hacia ella justo antes de acertarle, esta recibirá 5 (2d4) de daño contundente adicional y tendrá el estado de derribada.
 
@@ -510,16 +478,15 @@ pasiva 13
 
 **PG:** 13 (2d10 + 2) **Velocidad:** 18 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 16 |   | +3 | +3         | Des 13 | +1 | +1         | Con 12 | +1 | +1         |
-| Int    | 2 | −4 | −4         | Sab 11 | +0 | +0         | Car 7  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 16 (+3) | 13 (+1) | 12 (+1) | 2 (−4) | 11 (+0) | 7 (−2) |
 
 **Sentidos:** Percepción pasiva 10
 
 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Cascos. Tirada de ataque cuerpo a cuerpo:* +5, alcance 1,5 m. *Acierto:* 7 (1d8 + 3) de daño contundente.
 
@@ -531,16 +498,15 @@ pasiva 13
 
 **PG:** 15 (2d10 + 4) **Velocidad:** 12 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 18 |   | +4 | +4         | Des 10 | +0 | +0         | Con 15 | +2 | +2         |
-| Int    | 2 | −4 | −4         | Sab 11 | +0 | +0         | Car 7  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 18 (+4) | 10 (+0) | 15 (+2) | 2 (−4) | 11 (+0) | 7 (−2) |
 
 **Sentidos:** Percepción pasiva 10
 
 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Cascos. Tirada de ataque cuerpo a cuerpo:* +6, alcance 1,5 m. *Acierto:* 6 (1d4 + 4) de daño contundente.
 
@@ -554,18 +520,15 @@ pasiva 13
 
 **Velocidad:** 12 m, trepar 9 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 11 |   | +0 | +2         | Des 10 | +0 | +0         | Con 11 | +0 | +0         |
-| Int    | 2 | −4 | −4         | Sab 10 | +0 | +0         | Car 5  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 11 (+0) | 10 (+0) | 11 (+0) | 2 (−4) | 10 (+0) | 5 (−3) |
 
 **Habilidades:** Percepción +2
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 12 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
-pasiva 12 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
-
-# Acciones
+### Acciones
 
 *Embestir. Tirada de ataque cuerpo a cuerpo:* +2, alcance 1,5 m. *Acierto:* 1 de daño contundente o 2 (1d4) de daño contundente si la cabra recorre al menos 6 m en línea recta hacia el objetivo justo antes de acertarle.
 
@@ -579,18 +542,15 @@ pasiva 12 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
 **Velocidad:** 12 m, trepar 9 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 17 |   | +3 | +5         | Des 13 | +1 | +1         | Con 12 | +1 | +1         |
-| Int    | 3 | −4 | −4         | Sab 12 | +1 | +1         | Car 6  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 17 (+3) | 13 (+1) | 12 (+1) | 3 (−4) | 12 (+1) | 6 (−2) |
 
 **Habilidades:** Percepción +3
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 13 **Idiomas:** ninguno **VD:** 1/2 (100 PX; BC +2)
 
-pasiva 13 **Idiomas:** ninguno **VD:** 1/2 (100 PX; BC +2)
-
-# Acciones
+### Acciones
 
 *Embestir. Tirada de ataque cuerpo a cuerpo:* +5, alcance 1,5 m. *Acierto:* 6 (1d6 + 3) de daño contundente. Si el objetivo es una criatura Grande o más pequeña y la cabra recorre al menos 6 m en línea recta hacia ella justo antes de acertarle, esta recibirá 5 (2d4) de daño contundente adicional y tendrá el estado de derribada.
 
@@ -602,16 +562,13 @@ pasiva 13 **Idiomas:** ninguno **VD:** 1/2 (100 PX; BC +2)
 
 **PG:** 17 (2d10 + 6) **Velocidad:** 15 m
 
-|     |        |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|--------|----|------------|--------|---|----|------------|--------|----|------------|
-|     | Fue 15 | +2 | +2         | Des    | 8 | −1 | −1         | Con 17 | +3 | +5         |
-| Int | 2      | −4 | −4         | Sab 11 |   | +0 | +0         | Car 5  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 15 (+2) | 8 (−1) | 17 (+3) | 2 (−4) | 11 (+0) | 5 (−3) |
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 10 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
-pasiva 10 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
-
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 4 (1d4 + 2) de daño contundente.
 
@@ -625,10 +582,9 @@ pasiva 10 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
 **Velocidad:** 6 m, nadar 6 m
 
-|     |   |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|---|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue | 6 | −2 | −2         | Des 11 |   | +0 | +0         | Con 12 | +1 | +1         |
-| Int | 1 | −5 | −5         | Sab    | 8 | −1 | −1         | Car 2  | −4 | −4         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 6 (−2) | 11 (+0) | 12 (+1) | 1 (−5) | 8 (−1) | 2 (−4) |
 
 **Habilidades:** Sigilo +2
 
@@ -636,11 +592,11 @@ pasiva 10 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Anfibio.* El cangrejo puede respirar tanto dentro como fuera del agua.
 
-# Acciones
+### Acciones
 
 *Pinza. Tirada de ataque cuerpo a cuerpo:* +2, alcance 1,5 m. *Acierto:* 1 de daño contundente.
 
@@ -654,10 +610,9 @@ pasiva 10 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
 **Velocidad:** 9 m, nadar 9 m
 
-|        |   |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue 13 |   | +1 | +1         | Des 13 |   | +1 | +1         | Con 11 | +0 | +0         |
-| Int    | 1 | −5 | −5         | Sab    | 9 | −1 | −1         | Car 3  | −4 | −4         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 13 (+1) | 13 (+1) | 11 (+0) | 1 (−5) | 9 (−1) | 3 (−4) |
 
 **Habilidades:** Sigilo +3
 
@@ -665,7 +620,7 @@ pasiva 10 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Anfibio.* El cangrejo puede respirar tanto dentro como fuera del agua.
 
@@ -679,18 +634,15 @@ pasiva 10 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
 **PG:** 3 (1d6) **Velocidad:** 12 m
 
-|     |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue | 8 | −1 | −1         | Des 15 | +2 | +2         | Con 11 | +0 | +0         |
-| Int | 3 | −4 | −4         | Sab 12 | +1 | +1         | Car 6  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 8 (−1) | 15 (+2) | 11 (+0) | 3 (−4) | 12 (+1) | 6 (−2) |
 
 **Habilidades:** Percepción +5, Sigilo +4
 
-**Sentidos:** visión en la oscuridad 27 m; Percepción
+**Sentidos:** visión en la oscuridad 27 m; Percepción pasiva 15 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
-pasiva 15 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
-
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +1, alcance 1,5 m. *Acierto:* 1 (1d4 − 1) de daño perforante.
 
@@ -704,16 +656,15 @@ pasiva 15 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
 **Velocidad:** 9 m, trepar 9 m
 
-|       |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-------|----|------------|--------|----|------------|--------|----|------------|
-| Fue 5 | −3 | −3         | Des 14 | +2 | +2         | Con 12 | +1 | +1         |
-| Int 1 | −5 | −5         | Sab 7  | −2 | −2         | Car 3  | −4 | −4         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 5 (−3) | 14 (+2) | 12 (+1) | 1 (−5) | 7 (−2) | 3 (−4) |
 
 **Sentidos:** visión ciega 9 m; Percepción pasiva 8
 
 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 4 (1d4 + 2) de daño perforante y el objetivo tendrá el estado de envenenado hasta el principio del siguiente turno del ciempiés.
 
@@ -725,22 +676,19 @@ pasiva 15 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
 **PG:** 4 (1d8) **Velocidad:** 15 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 11 |   | +0 | +0         | Des 16 | +3 | +3         | Con 11 | +0 | +0         |
-| Int    | 2 | −4 | −4         | Sab 14 | +2 | +2         | Car 5  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 11 (+0) | 16 (+3) | 11 (+0) | 2 (−4) | 14 (+2) | 5 (−3) |
 
 **Habilidades:** Percepción +4
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 14 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
-pasiva 14 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
-
-# Atributos
+### Atributos
 
 *Ágil.* El ciervo no provoca ataques de oportunidad cuando se mueve para ponerse fuera del alcance de un enemigo.
 
-# Acciones
+### Acciones
 
 *Embestir. Tirada de ataque cuerpo a cuerpo:* +2, alcance 1,5 m. *Acierto:* 2 (1d4) de daño contundente.
 
@@ -754,10 +702,9 @@ pasiva 14 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
 **Velocidad:** 6 m, nadar 9 m
 
-| MOD. SALV. |   |    |    |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|------------|---|----|----|--------|----|------------|--------|----|------------|
-| Fue 15     |   | +2 | +2 | Des 10 | +0 | +0         | Con 13 | +1 | +3         |
-| Int        | 2 | −4 | −4 | Sab 10 | +0 | +0         | Car 5  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 15 (+2) | 10 (+0) | 13 (+1) | 2 (−4) | 10 (+0) | 5 (−3) |
 
 **Habilidades:** Sigilo +2
 
@@ -765,11 +712,11 @@ pasiva 14 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
 **Idiomas:** ninguno **VD:** 1/2 (100 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Aguantar la respiración.* El cocodrilo puede aguantar la respiración durante 1 hora.
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 6 (1d8 + 2) de daño perforante. Si el objetivo es una criatura Mediana o más pequeña, tendrá el estado de agarrada (CD 12 para escapar). Mientras esté agarrada, tendrá el estado de apresada.
 
@@ -794,11 +741,11 @@ pasiva 14 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
 **Idiomas:** ninguno **VD:** 5 (1800 PX; BC +3)
 
-# Atributos
+### Atributos
 
 *Aguantar la respiración.* El cocodrilo puede aguantar la respiración durante 1 hora.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El cocodrilo realiza un ataque de mordisco y uno con su cola.
 
@@ -816,16 +763,13 @@ pasiva 14 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
 **Velocidad:** 9 m, trepar 9 m
 
-|     |   |    | MOD. SALV. |        |    | MOD. SALV. |       |    | MOD. SALV. |
-|-----|---|----|------------|--------|----|------------|-------|----|------------|
-| Fue | 3 | −4 | −4         | Des 16 | +3 | +3         | Con 8 | −1 | −1         |
-| Int | 2 | −4 | −4         | Sab 12 | +1 | +1         | Car 3 | −4 | −4         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 3 (−4) | 16 (+3) | 8 (−1) | 2 (−4) | 12 (+1) | 3 (−4) |
 
-**Habilidades:** Acrobacias +5, Percepción +3, Sigilo +5 **Sentidos:** visión en la oscuridad 18 m; Percepción
+**Habilidades:** Acrobacias +5, Percepción +3, Sigilo +5 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 13 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
-pasiva 13 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
-
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +5, alcance 1,5 m. *Acierto:* 1 de daño perforante.
 
@@ -839,16 +783,13 @@ pasiva 13 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
 **Velocidad:** 12 m, trepar 9 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 11 |   | +0 | +0         | Des 17 | +3 | +3         | Con 10 | +0 | +0         |
-| Int    | 4 | −3 | −3         | Sab 12 | +1 | +1         | Car 5  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 11 (+0) | 17 (+3) | 10 (+0) | 4 (−3) | 12 (+1) | 5 (−3) |
 
-**Habilidades:** Acrobacias +5, Percepción +3, Sigilo +5 **Sentidos:** visión en la oscuridad 18 m; Percepción
+**Habilidades:** Acrobacias +5, Percepción +3, Sigilo +5 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 13 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
-pasiva 13 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
-
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +5, alcance 1,5 m. *Acierto:* 5 (1d4 + 3) de daño perforante.
 
@@ -862,20 +803,19 @@ pasiva 13 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
 **Velocidad:** 3 m, volar 15 m
 
-|     |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue | 2 | −4 | −4         | Des 14 | +2 | +2         | Con 10 | +0 | +0         |
-| Int | 5 | −3 | −3         | Sab 13 | +1 | +1         | Car 6  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 2 (−4) | 14 (+2) | 10 (+0) | 5 (−3) | 13 (+1) | 6 (−2) |
 
 **Habilidades:** Percepción +3 **Sentidos:** Percepción pasiva 13
 
 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Imitación.* El cuervo puede imitar sonidos sencillos que haya escuchado, como un susurro o un trino. Alguien que lo escuche podrá darse cuenta de que son imitaciones si supera una prueba de Sabiduría (Perspicacia) con CD 10.
 
-# Acciones
+### Acciones
 
 *Pico. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 1 de daño perforante.
 
@@ -887,16 +827,15 @@ pasiva 13 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
 **PG:** 76 (8d12 + 24) **Velocidad:** 12 m
 
-|        |   |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue 22 |   | +6 | +6         | Des    | 9 | −1 | −1         | Con 17 | +3 | +3         |
-| Int    | 3 | −4 | −4         | Sab 11 |   | +0 | +0         | Car 6  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 22 (+6) | 9 (−1) | 17 (+3) | 3 (−4) | 11 (+0) | 6 (−2) |
 
 **Sentidos:** Percepción pasiva 10
 
 **Idiomas:** ninguno **VD:** 4 (1100 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El elefante realiza dos ataques con sus colmillos.
 
@@ -916,10 +855,9 @@ pasiva 13 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
 **Velocidad:** 3 m, volar 15 m
 
-|     |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue | 6 | −2 | −2         | Des 14 | +2 | +2         | Con 12 | +1 | +1         |
-| Int | 5 | −3 | −3         | Sab 12 | +1 | +1         | Car 6  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 6 (−2) | 14 (+2) | 12 (+1) | 5 (−3) | 12 (+1) | 6 (−2) |
 
 **Habilidades:** Percepción +5
 
@@ -929,11 +867,11 @@ pasiva 13 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Enjambre.* El enjambre puede ocupar el espacio de otra criatura y viceversa, y es capaz de atravesar cualquier abertura por la que quepa un cuervo Diminuto. El enjambre no puede recuperar puntos de golpe ni obtener puntos de golpe temporales.
 
-# Acciones
+### Acciones
 
 *Picos. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 5 (1d6 + 2) de daño perforante o 2 (1d4) de daño perforante si el enjambre está maltrecho.
 
@@ -949,22 +887,21 @@ pasiva 13 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
 **Velocidad:** 6 m, trepar o volar 6 m (a elección de cada GM)
 
-|     |   |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|---|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue | 3 | −4 | −4         | Des 13 |   | +1 | +1         | Con 14 | +2 | +2         |
-| Int | 1 | −5 | −5         | Sab    | 7 | −2 | −2         | Car 1  | −5 | −5         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 3 (−4) | 13 (+1) | 14 (+2) | 1 (−5) | 7 (−2) | 1 (−5) |
 
 **Resistencias:** contundente, cortante, perforante **Inmunidades:** agarrado, apresado, asustado, aturdido, derribado, hechizado, paralizado, petrificado **Sentidos:** visión ciega 9 m; Percepción pasiva 8
 
 **Idiomas:** ninguno **VD:** 1/2 (100 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Enjambre.* El enjambre puede ocupar el espacio de otra criatura y viceversa, y es capaz de atravesar cualquier abertura por la que quepa un insecto Diminuto. El enjambre no puede recuperar puntos de golpe ni obtener puntos de golpe temporales.
 
 *Trepar cual arácnido.* Si el enjambre tiene una velocidad trepando, podrá trepar por superficies difíciles e incluso recorrer techos sin tener que realizar pruebas de característica.
 
-# Acciones
+### Acciones
 
 *Mordiscos. Tirada de ataque cuerpo a cuerpo:* +3, alcance 1,5 m. *Acierto:* 6 (2d4 + 1) de daño de veneno o 3 (1d4 + 1) de daño de veneno si el enjambre está maltrecho.
 
@@ -978,20 +915,19 @@ pasiva 13 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
 **Velocidad:** 1,5 m, volar 9 m
 
-|     |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue | 5 | −3 | −3         | Des 15 | +2 | +2         | Con 10 | +0 | +0         |
-| Int | 2 | −4 | −4         | Sab 12 | +1 | +1         | Car 4  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 5 (−3) | 15 (+2) | 10 (+0) | 2 (−4) | 12 (+1) | 4 (−3) |
 
 **Resistencias:** contundente, cortante, perforante **Inmunidades:** agarrado, apresado, asustado, aturdido, derribado, hechizado, paralizado, petrificado **Sentidos:** visión ciega 18 m; Percepción pasiva 11
 
 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Enjambre.* El enjambre puede ocupar el espacio de otra criatura y viceversa, y es capaz de atravesar cualquier abertura por la que quepa un murciélago Diminuto. El enjambre no puede recuperar puntos de golpe ni obtener puntos de golpe temporales.
 
-# Acciones
+### Acciones
 
 *Mordiscos. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 5 (2d4) de daño perforante o 2 (1d4) de daño perforante si el enjambre está maltrecho.
 
@@ -1005,10 +941,9 @@ pasiva 13 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
 **Velocidad:** 1,5 m, nadar 12 m
 
-|        |   |    | MOD. SALV. |        |   |    | MOD. SALV. |       |    | MOD. SALV. |
-|--------|---|----|------------|--------|---|----|------------|-------|----|------------|
-| Fue 13 |   | +1 | +1         | Des 16 |   | +3 | +3         | Con 9 | −1 | −1         |
-| Int    | 1 | −5 | −5         | Sab    | 7 | −2 | −2         | Car 2 | −4 | −4         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 13 (+1) | 16 (+3) | 9 (−1) | 1 (−5) | 7 (−2) | 2 (−4) |
 
 **Resistencias:** contundente, cortante, perforante **Inmunidades:** agarrado, apresado, asustado, aturdido, derribado, hechizado, paralizado, petrificado
 
@@ -1016,13 +951,13 @@ pasiva 13 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Enjambre.* El enjambre puede ocupar el espacio de otra criatura y viceversa, y es capaz de atravesar cualquier abertura por la que quepa una piraña Diminuta. El enjambre no puede recuperar puntos de golpe ni obtener puntos de golpe temporales.
 
 *Respirar en el agua.* El enjambre solo puede respirar bajo el agua.
 
-# Acciones
+### Acciones
 
 *Mordiscos. Tirada de ataque cuerpo a cuerpo:* +5 (con ventaja si el objetivo no tiene todos sus puntos de golpe), alcance 1,5 m. *Acierto:* 8 (2d4 + 3) de daño perforante o 5 (1d4 + 3) de daño perforante si el enjambre está maltrecho.
 
@@ -1036,24 +971,21 @@ pasiva 13 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
 **Velocidad:** 9 m, trepar 9 m
 
-|     |   |    | MOD. SALV. |        |    | MOD. SALV. |       |    | MOD. SALV. |
-|-----|---|----|------------|--------|----|------------|-------|----|------------|
-| Fue | 9 | −1 | −1         | Des 11 | +0 | +2         | Con 9 | −1 | −1         |
-| Int | 2 | −4 | −4         | Sab 10 | +0 | +0         | Car 3 | −4 | −4         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 9 (−1) | 11 (+0) | 9 (−1) | 2 (−4) | 10 (+0) | 3 (−4) |
 
-**Resistencias:** contundente, cortante, perforante **Inmunidades:** agarrado, apresado, asustado, aturdido,
-
-derribado, hechizado, paralizado, petrificado
+**Resistencias:** contundente, cortante, perforante **Inmunidades:** agarrado, apresado, asustado, aturdido, derribado, hechizado, paralizado, petrificado
 
 **Sentidos:** visión en la oscuridad 9 m; Percepción pasiva 10
 
 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Enjambre.* El enjambre puede ocupar el espacio de otra criatura y viceversa, y es capaz de atravesar cualquier abertura por la que quepa una rata Diminuta. El enjambre no puede recuperar puntos de golpe ni obtener puntos de golpe temporales.
 
-# Acciones
+### Acciones
 
 *Mordiscos. Tirada de ataque cuerpo a cuerpo:* +2, alcance 1,5 m. *Acierto:* 5 (2d4) de daño perforante o 2 (1d4) de daño perforante si el enjambre está maltrecho.
 
@@ -1067,20 +999,19 @@ derribado, hechizado, paralizado, petrificado
 
 **Velocidad:** 9 m, nadar 9 m
 
-|     |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue | 8 | −1 | −1         | Des 18 | +4 | +4         | Con 11 | +0 | +0         |
-| Int | 1 | −5 | −5         | Sab 10 | +0 | +0         | Car 3  | −4 | −4         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 8 (−1) | 18 (+4) | 11 (+0) | 1 (−5) | 10 (+0) | 3 (−4) |
 
 **Resistencias:** contundente, cortante, perforante **Inmunidades:** agarrado, apresado, asustado, aturdido, derribado, hechizado, paralizado, petrificado **Sentidos:** visión ciega 3 m; Percepción pasiva 10
 
 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Enjambre.* El enjambre puede ocupar el espacio de otra criatura y viceversa, y es capaz de atravesar cualquier abertura por la que quepa una serpiente Diminuta. El enjambre no puede recuperar puntos de golpe ni obtener puntos de golpe temporales.
 
-# Acciones
+### Acciones
 
 *Mordiscos. Tirada de ataque cuerpo a cuerpo:* +6, alcance 1,5 m. *Acierto:* 8 (1d8 + 4) de daño perforante o 6 (1d4 + 4) de daño perforante si el enjambre está maltrecho, más 10 (3d6) de daño de veneno.
 
@@ -1094,10 +1025,9 @@ derribado, hechizado, paralizado, petrificado
 
 **Velocidad:** 9 m, trepar 9 m
 
-|     |   |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|---|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue | 8 | −1 | −1         | Des 10 |   | +0 | +0         | Con 12 | +1 | +1         |
-| Int | 1 | −5 | −5         | Sab    | 7 | −2 | −2         | Car 3  | −4 | −4         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 8 (−1) | 10 (+0) | 12 (+1) | 1 (−5) | 7 (−2) | 3 (−4) |
 
 **Resistencias:** fuego
 
@@ -1105,11 +1035,11 @@ derribado, hechizado, paralizado, petrificado
 
 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Iluminación.* El escarabajo emite luz brillante en un radio de 3 m y luz tenue 3 m más allá.
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +1, alcance 1,5 m. *Acierto:* 1 de daño de fuego.
 
@@ -1121,16 +1051,15 @@ derribado, hechizado, paralizado, petrificado
 
 **PG:** 1 (1d4 − 1) **Velocidad:** 3 m
 
-|     |   |    | MOD. SALV. |        |   |    | MOD. SALV. |       |    | MOD. SALV. |
-|-----|---|----|------------|--------|---|----|------------|-------|----|------------|
-| Fue | 2 | −4 | −4         | Des 11 |   | +0 | +0         | Con 8 | −1 | −1         |
-| Int | 1 | −5 | −5         | Sab    | 8 | −1 | −1         | Car 2 | −4 | −4         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 2 (−4) | 11 (+0) | 8 (−1) | 1 (−5) | 8 (−1) | 2 (−4) |
 
 **Sentidos:** visión ciega 3 m; Percepción pasiva 9
 
 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Aguijón. Tirada de ataque cuerpo a cuerpo:* +2, alcance 1,5 m. *Acierto:* 1 de daño perforante más 3 (1d6) de daño de veneno.
 
@@ -1142,16 +1071,15 @@ derribado, hechizado, paralizado, petrificado
 
 **PG:** 52 (7d10 + 14) **Velocidad:** 12 m
 
-|        |   |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue 16 |   | +3 | +3         | Des 13 |   | +1 | +1         | Con 15 | +2 | +2         |
-| Int    | 1 | −5 | −5         | Sab    | 9 | −1 | −1         | Car 3  | −4 | −4         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 16 (+3) | 13 (+1) | 15 (+2) | 1 (−5) | 9 (−1) | 3 (−4) |
 
 **Sentidos:** visión ciega 18 m; Percepción pasiva 9
 
 **Idiomas:** ninguno **VD:** 3 (700 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El escorpión realiza dos ataques con sus pinzas y uno con su aguijón.
 
@@ -1169,22 +1097,19 @@ derribado, hechizado, paralizado, petrificado
 
 **Velocidad:** 12 m, trepar 12 m
 
-|     |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue | 3 | −4 | −4         | Des 15 | +2 | +4         | Con 10 | +0 | +0         |
-| Int | 3 | −4 | −4         | Sab 12 | +1 | +1         | Car 7  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 3 (−4) | 15 (+2) | 10 (+0) | 3 (−4) | 12 (+1) | 7 (−2) |
 
 **Habilidades:** Percepción +3, Sigilo +4
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 13 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
-pasiva 13 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
-
-# Atributos
+### Atributos
 
 *Saltador.* La distancia de salto del gato se determina usando su Destreza en vez de su Fuerza.
 
-# Acciones
+### Acciones
 
 *Arañazo. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 1 de daño cortante.
 
@@ -1198,16 +1123,15 @@ pasiva 13 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
 **Velocidad:** 3 m, volar 18 m
 
-|     | MOD. SALV. |    |    |        |    | MOD. SALV. |       |    | MOD. SALV. |
-|-----|------------|----|----|--------|----|------------|-------|----|------------|
-| Fue | 5          | −3 | −3 | Des 16 | +3 | +3         | Con 8 | −1 | −1         |
-| Int | 2          | −4 | −4 | Sab 14 | +2 | +2         | Car 6 | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 5 (−3) | 16 (+3) | 8 (−1) | 2 (−4) | 14 (+2) | 6 (−2) |
 
 **Habilidades:** Percepción +6 **Sentidos:** Percepción pasiva 16
 
 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Garras. Tirada de ataque cuerpo a cuerpo:* +5, alcance 1,5 m. *Acierto:* 1 de daño cortante.
 
@@ -1221,20 +1145,19 @@ pasiva 13 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
 **Velocidad:** 3 m, volar 18 m
 
-|     |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue | 6 | −2 | −2         | Des 14 | +2 | +2         | Con 10 | +0 | +0         |
-| Int | 3 | −4 | −4         | Sab 14 | +2 | +2         | Car 5  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 6 (−2) | 14 (+2) | 10 (+0) | 3 (−4) | 14 (+2) | 5 (−3) |
 
 **Habilidades:** Percepción +6 **Sentidos:** Percepción pasiva 16
 
 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Atacar en manada.* El halcón tiene ventaja en una tirada de ataque contra una criatura si al menos uno de los aliados del halcón se encuentra a 1,5 m o menos de la criatura y no tiene el estado de incapacitado.
 
-# Acciones
+### Acciones
 
 *Pico. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 4 (1d4 + 2) de daño perforante o 6 (1d8 + 2) de daño perforante si el objetivo está maltrecho.
 
@@ -1246,10 +1169,9 @@ pasiva 13 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
 **PG:** 5 (1d8 + 1) **Velocidad:** 15 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 11 |   | +0 | +0         | Des 13 | +1 | +1         | Con 12 | +1 | +1         |
-| Int    | 2 | −4 | −4         | Sab 12 | +1 | +1         | Car 5  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 11 (+0) | 13 (+1) | 12 (+1) | 2 (−4) | 12 (+1) | 5 (−3) |
 
 **Habilidades:** Percepción +3
 
@@ -1257,11 +1179,11 @@ pasiva 13 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Atacar en manada.* La hiena tiene ventaja en una tirada de ataque contra una criatura si al menos uno de los aliados de la hiena se encuentra a 1,5 m o menos de la criatura y no tiene el estado de incapacitado.
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +2, alcance 1,5 m. *Acierto:* 3 (1d6) de daño perforante.
 
@@ -1273,18 +1195,15 @@ pasiva 13 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
 **PG:** 45 (6d10 + 12) **Velocidad:** 15 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 16 |   | +3 | +3         | Des 14 | +2 | +2         | Con 14 | +2 | +2         |
-| Int    | 2 | −4 | −4         | Sab 12 | +1 | +1         | Car 7  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 16 (+3) | 14 (+2) | 14 (+2) | 2 (−4) | 12 (+1) | 7 (−2) |
 
 **Habilidades:** Percepción +3
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 13 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
-pasiva 13 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
-
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +5, alcance 1,5 m. *Acierto:* 10 (2d6 + 3) de daño perforante.
 
@@ -1300,20 +1219,19 @@ pasiva 13 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
 **PG:** 82 (11d10 + 22) **Velocidad:** 9 m, nadar 9 m
 
-|        |   |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue 21 |   | +5 | +7         | Des    | 7 | −2 | −2         | Con 15 | +2 | +2         |
-| Int    | 2 | −4 | −4         | Sab 12 |   | +1 | +1         | Car 4  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 21 (+5) | 7 (−2) | 15 (+2) | 2 (−4) | 12 (+1) | 4 (−3) |
 
 **Habilidades:** Percepción +3 **Sentidos:** Percepción pasiva 13
 
 **Idiomas:** ninguno **VD:** 4 (1100 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Aguantar la respiración.* El hipopótamo puede aguantar la respiración durante 10 minutos.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El hipopótamo realiza dos ataques de mordisco.
 
@@ -1327,20 +1245,19 @@ pasiva 13 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
 **PG:** 13 (2d8 + 4) **Velocidad:** 12 m
 
-|        |   |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue 13 |   | +1 | +1         | Des 11 |   | +0 | +0         | Con 14 | +2 | +2         |
-| Int    | 2 | −4 | −4         | Sab    | 9 | −1 | −1         | Car 5  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 13 (+1) | 11 (+0) | 14 (+2) | 2 (−4) | 9 (−1) | 5 (−3) |
 
 **Sentidos:** Percepción pasiva 9
 
 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Furia maltrecha.* Mientras esté maltrecho, el jabalí tiene ventaja en las tiradas de ataque.
 
-# Acciones
+### Acciones
 
 *Colmillos. Tirada de ataque cuerpo a cuerpo:* +3, alcance 1,5 m. *Acierto:* 4 (1d6 + 1) de daño perforante. Si el objetivo es una criatura Mediana o más pequeña y el jabalí recorre al menos 6 m en línea recta hacia ella justo antes de acertarle, esta recibirá 3 (1d6) de daño perforante adicional y tendrá el estado de derribada.
 
@@ -1352,16 +1269,15 @@ pasiva 13 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
 **PG:** 42 (5d10 + 15) **Velocidad:** 12 m
 
-|        |   |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue 17 |   | +3 | +5         | Des 10 |   | +0 | +0         | Con 16 | +3 | +3         |
-| Int    | 2 | −4 | −4         | Sab    | 7 | −2 | −2         | Car 5  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 17 (+3) | 10 (+0) | 16 (+3) | 2 (−4) | 7 (−2) | 5 (−3) |
 
 **Sentidos:** Percepción pasiva 8
 
 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Furia maltrecha.* El jabalí tendrá ventaja en las tiradas de ataque cuerpo a cuerpo mientras esté maltrecho.
 
@@ -1377,20 +1293,19 @@ pasiva 13 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
 **Velocidad:** 6 m, trepar 6 m
 
-|     |   |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|---|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue | 2 | −4 | −4         | Des 11 |   | +0 | +0         | Con 10 | +0 | +0         |
-| Int | 1 | −5 | −5         | Sab    | 8 | −1 | −1         | Car 3  | −4 | −4         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 2 (−4) | 11 (+0) | 10 (+0) | 1 (−5) | 8 (−1) | 3 (−4) |
 
 **Sentidos:** visión en la oscuridad 9 m; Percepción pasiva 9
 
 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Trepar cual arácnido.* El lagarto puede trepar por superficies difíciles e incluso recorrer techos sin tener que realizar pruebas de característica.
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +2, alcance 1,5 m. *Acierto:* 1 de daño perforante.
 
@@ -1404,20 +1319,17 @@ pasiva 13 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
 **Velocidad:** 12 m, trepar 12 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 15 |   | +2 | +2         | Des 12 | +1 | +3         | Con 13 | +1 | +1         |
-| Int    | 2 | −4 | −4         | Sab 10 | +0 | +0         | Car 5  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 15 (+2) | 12 (+1) | 13 (+1) | 2 (−4) | 10 (+0) | 5 (−3) |
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 10 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
-pasiva 10 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
-
-# Atributos
+### Atributos
 
 *Trepar cual arácnido.* El lagarto puede trepar por superficies difíciles e incluso recorrer techos sin tener que realizar pruebas de característica.
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 6 (1d8 + 2) de daño perforante.
 
@@ -1429,24 +1341,21 @@ pasiva 10 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
 **PG:** 22 (4d10) **Velocidad:** 15 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 17 |   | +3 | +3         | Des 15 | +2 | +2         | Con 11 | +0 | +0         |
-| Int    | 3 | −4 | −4         | Sab 12 | +1 | +1         | Car 8  | −1 | −1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 17 (+3) | 15 (+2) | 11 (+0) | 3 (−4) | 12 (+1) | 8 (−1) |
 
 **Habilidades:** Percepción +3, Sigilo +4
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 13 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
-pasiva 13 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
-
-# Atributos
+### Atributos
 
 *Atacar en manada.* El león tiene ventaja en una tirada de ataque contra una criatura si al menos uno de los aliados del león se encuentra a 1,5 m o menos de la criatura y no tiene el estado de incapacitado.
 
 *Saltar con carrera.* Si se ha movido al menos 3 m justo antes, el león puede realizar un salto de longitud de hasta 7,5 m.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El león realiza dos ataques de desgarro. Puede sustituir un ataque por un rugido.
 
@@ -1462,18 +1371,15 @@ pasiva 13 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
 **PG:** 11 (2d8 + 2) **Velocidad:** 12 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 14 |   | +2 | +2         | Des 15 | +2 | +2         | Con 12 | +1 | +1         |
-| Int    | 3 | −4 | −4         | Sab 12 | +1 | +1         | Car 6  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 14 (+2) | 15 (+2) | 12 (+1) | 3 (−4) | 12 (+1) | 6 (−2) |
 
 **Habilidades:** Percepción +5, Sigilo +4
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 15 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
-pasiva 15 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
-
-# Atributos
+### Atributos
 
 *Atacar en manada.* El lobo tiene ventaja en las tiradas de ataque contra una criatura si al menos uno de los aliados del lobo se encuentra a 1,5 m o menos de la criatura y no tiene el estado de incapacitado.
 
@@ -1487,22 +1393,19 @@ pasiva 15 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
 **PG:** 22 (3d10 + 6) **Velocidad:** 15 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 17 |   | +3 | +3         | Des 15 | +2 | +2         | Con 15 | +2 | +2         |
-| Int    | 3 | −4 | −4         | Sab 12 | +1 | +1         | Car 7  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 17 (+3) | 15 (+2) | 15 (+2) | 3 (−4) | 12 (+1) | 7 (−2) |
 
 **Habilidades:** Percepción +5, Sigilo +4
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 15 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
-pasiva 15 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
-
-# Atributos
+### Atributos
 
 *Atacar en manada.* El lobo tiene ventaja en una tirada de ataque contra una criatura si al menos uno de los aliados del lobo se encuentra a 1,5 m o menos de la criatura y no tiene el estado de incapacitado.
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +5, alcance 1,5 m. *Acierto:* 8 (1d10 + 3) de daño perforante. Si el objetivo es una criatura Grande o más pequeña, tendrá el estado de derribada.
 
@@ -1514,16 +1417,15 @@ pasiva 15 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
 **PG:** 126 (11d12 + 55) **Velocidad:** 15 m
 
-|        |   |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue 24 |   | +7 | +10        | Des    | 9 | −1 | −1         | Con 21 | +5 | +8         |
-| Int    | 3 | −4 | −4         | Sab 11 |   | +0 | +0         | Car 6  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 24 (+7) | 9 (−1) | 21 (+5) | 3 (−4) | 11 (+0) | 6 (−2) |
 
 **Sentidos:** Percepción pasiva 10
 
 **Idiomas:** ninguno **VD:** 6 (2300 PX; BC +3)
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El mamut realiza dos ataques con sus colmillos.
 
@@ -1541,18 +1443,15 @@ pasiva 15 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
 **PG:** 5 (1d8 + 1) **Velocidad:** 12 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 13 |   | +1 | +1         | Des 14 | +2 | +2         | Con 12 | +1 | +1         |
-| Int    | 3 | −4 | −4         | Sab 12 | +1 | +3         | Car 7  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 13 (+1) | 14 (+2) | 12 (+1) | 3 (−4) | 12 (+1) | 7 (−2) |
 
 **Habilidades:** Percepción +5
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 15 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
-pasiva 15 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
-
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +3, alcance 1,5 m. *Acierto:* 4 (1d6 + 1) de daño perforante. Si el objetivo es una criatura Mediana o más pequeña, tendrá el estado de derribada.
 
@@ -1573,11 +1472,11 @@ pasiva 15 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Bestia de carga.* La mula se considera de un tamaño mayor para determinar su capacidad de carga.
 
-# Acciones
+### Acciones
 
 *Cascos. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 4 (1d4 + 2) de daño contundente.
 
@@ -1591,16 +1490,15 @@ pasiva 15 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
 **Velocidad:** 1,5 m, volar 9 m
 
-|     |   |    | MOD. SALV. |        |    | MOD. SALV. |       |    | MOD. SALV. |
-|-----|---|----|------------|--------|----|------------|-------|----|------------|
-| Fue | 2 | −4 | −4         | Des 15 | +2 | +2         | Con 8 | −1 | −1         |
-| Int | 2 | −4 | −4         | Sab 12 | +1 | +1         | Car 4 | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 2 (−4) | 15 (+2) | 8 (−1) | 2 (−4) | 12 (+1) | 4 (−3) |
 
 **Sentidos:** visión ciega 18 m; Percepción pasiva 11
 
 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 1 de daño perforante.
 
@@ -1614,16 +1512,15 @@ pasiva 15 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
 **Velocidad:** 3 m, volar 18 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 15 |   | +2 | +2         | Des 16 | +3 | +3         | Con 11 | +0 | +0         |
-| Int    | 2 | −4 | −4         | Sab 12 | +1 | +1         | Car 6  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 15 (+2) | 16 (+3) | 11 (+0) | 2 (−4) | 12 (+1) | 6 (−2) |
 
 **Sentidos:** visión ciega 36 m; Percepción pasiva 11
 
 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +5, alcance 1,5 m. *Acierto:* 6 (1d6 + 3) de daño perforante.
 
@@ -1637,10 +1534,9 @@ pasiva 15 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
 **Velocidad:** 1,5 m, nadar 18 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 19 |   | +4 | +4         | Des 14 | +2 | +2         | Con 13 | +1 | +1         |
-| Int    | 3 | −4 | −4         | Sab 12 | +1 | +1         | Car 7  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 19 (+4) | 14 (+2) | 13 (+1) | 3 (−4) | 12 (+1) | 7 (−2) |
 
 **Habilidades:** Percepción +3, Sigilo +4
 
@@ -1648,11 +1544,11 @@ pasiva 15 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
 **Idiomas:** ninguno **VD:** 3 (700 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Aguantar la respiración.* La orca puede aguantar la respiración durante 30 minutos.
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +6, alcance 1,5 m. *Acierto:* 21 (5d6 + 4) de daño perforante.
 
@@ -1666,18 +1562,15 @@ pasiva 15 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
 **Velocidad:** 9 m, nadar 9 m, trepar 9 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 15 |   | +2 | +2         | Des 12 | +1 | +1         | Con 14 | +2 | +2         |
-| Int    | 2 | −4 | −4         | Sab 12 | +1 | +1         | Car 7  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 15 (+2) | 12 (+1) | 14 (+2) | 2 (−4) | 12 (+1) | 7 (−2) |
 
 **Habilidades:** Percepción +5
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 15 **Idiomas:** ninguno **VD:** 1/2 (100 PX; BC +2)
 
-pasiva 15 **Idiomas:** ninguno **VD:** 1/2 (100 PX; BC +2)
-
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El oso realiza dos ataques de desgarro.
 
@@ -1693,18 +1586,15 @@ pasiva 15 **Idiomas:** ninguno **VD:** 1/2 (100 PX; BC +2)
 
 **Velocidad:** 12 m, trepar 9 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 17 |   | +3 | +3         | Des 12 | +1 | +1         | Con 15 | +2 | +2         |
-| Int    | 2 | −4 | −4         | Sab 13 | +1 | +1         | Car 7  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 17 (+3) | 12 (+1) | 15 (+2) | 2 (−4) | 13 (+1) | 7 (−2) |
 
 **Habilidades:** Percepción +3
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 13 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
-pasiva 13 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
-
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El oso realiza un ataque de mordisco y uno con sus garras.
 
@@ -1722,18 +1612,15 @@ pasiva 13 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
 **Velocidad:** 12 m, nadar 12 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 20 |   | +5 | +5         | Des 14 | +2 | +2         | Con 16 | +3 | +3         |
-| Int    | 2 | −4 | −4         | Sab 13 | +1 | +1         | Car 7  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 20 (+5) | 14 (+2) | 16 (+3) | 2 (−4) | 13 (+1) | 7 (−2) |
 
 **Habilidades:** Percepción +5, Sigilo +4
 
 **Resistencias:** frío
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 15 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 15 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
 *Ataque múltiple.* El oso realiza dos ataques de desgarro.
 
@@ -1749,18 +1636,15 @@ pasiva 15 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
 **Velocidad:** 15 m, trepar 12 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 14 |   | +2 | +2         | Des 16 | +3 | +3         | Con 10 | +0 | +0         |
-| Int    | 3 | −4 | −4         | Sab 14 | +2 | +2         | Car 7  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 14 (+2) | 16 (+3) | 10 (+0) | 3 (−4) | 14 (+2) | 7 (−2) |
 
 **Habilidades:** Percepción +4, Sigilo +7
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 14 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
-pasiva 14 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
-
-# Acciones
+### Acciones
 
 *Desgarro. Tirada de ataque cuerpo a cuerpo:* +5, alcance 1,5 m. *Acierto:* 6 (1d6 + 3) de daño cortante.
 
@@ -1778,20 +1662,19 @@ pasiva 14 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
 **Velocidad:** 1,5 m, nadar 12 m
 
-|     |   |    | MOD. SALV. |        |   |    | MOD. SALV. |       |    | MOD. SALV. |
-|-----|---|----|------------|--------|---|----|------------|-------|----|------------|
-| Fue | 2 | −4 | −4         | Des 16 |   | +3 | +3         | Con 9 | −1 | −1         |
-| Int | 1 | −5 | −5         | Sab    | 7 | −2 | −2         | Car 2 | −4 | −4         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 2 (−4) | 16 (+3) | 9 (−1) | 1 (−5) | 7 (−2) | 2 (−4) |
 
 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 8
 
 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Respirar en el agua.* La piraña solo puede respirar bajo el agua.
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +5 (con ventaja si el objetivo no tiene todos sus puntos de golpe), alcance 1,5 m. *Acierto:* 1 de daño perforante.
 
@@ -1805,20 +1688,19 @@ pasiva 14 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
 **Velocidad:** 6 m, nadar 12 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 18 |   | +4 | +4         | Des 15 | +2 | +2         | Con 16 | +3 | +3         |
-| Int    | 2 | −4 | −4         | Sab 12 | +1 | +1         | Car 5  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 18 (+4) | 15 (+2) | 16 (+3) | 2 (−4) | 12 (+1) | 5 (−3) |
 
 **Habilidades:** Percepción +3, Sigilo +4 **Sentidos:** Percepción pasiva 13
 
 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Aguantar la respiración.* El plesiosaurio puede aguantar la respiración durante 1 hora.
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +6, alcance 3 m. *Acierto:* 11 (2d6 + 4) de daño perforante.
 
@@ -1830,16 +1712,15 @@ pasiva 14 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
 **PG:** 11 (2d8 + 2) **Velocidad:** 12 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 15 |   | +2 | +4         | Des 10 | +0 | +0         | Con 13 | +1 | +1         |
-| Int    | 2 | −4 | −4         | Sab 11 | +0 | +0         | Car 7  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 15 (+2) | 10 (+0) | 13 (+1) | 2 (−4) | 11 (+0) | 7 (−2) |
 
 **Sentidos:** Percepción pasiva 10
 
 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Cascos. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 4 (1d4 + 2) de daño contundente.
 
@@ -1853,20 +1734,19 @@ pasiva 14 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
 **Velocidad:** 3 m, volar 18 m
 
-|        |   |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue 12 |   | +1 | +1         | Des 15 |   | +2 | +2         | Con 10 | +0 | +0         |
-| Int    | 2 | −4 | −4         | Sab    | 9 | −1 | −1         | Car 5  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 12 (+1) | 15 (+2) | 10 (+0) | 2 (−4) | 9 (−1) | 5 (−3) |
 
 **Habilidades:** Percepción +1 **Sentidos:** Percepción pasiva 11
 
 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Pasar volando.* El pteranodon no provoca ataques de oportunidad cuando vuela para ponerse fuera del alcance de un enemigo.
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 6 (1d8 + 2) de daño perforante.
 
@@ -1891,17 +1771,17 @@ pasiva 14 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Compresión.* El pulpo puede moverse a través de un espacio de solo 2,5 cm de ancho sin gastar movimiento adicional para hacerlo.
 
 *Respirar en el agua.* El pulpo solo puede respirar bajo el agua.
 
-# Acciones
+### Acciones
 
 *Tentáculos. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 1 de daño contundente.
 
-# Reacciones
+### Reacciones
 
 *Nube de tinta (1/día). Detonante:* una criatura termina su turno a 1,5 m o menos del pulpo mientras está bajo el agua. *Respuesta:* el pulpo suelta tinta que llena un cubo de 1,5 m de lado centrado en él y se mueve hasta su velocidad nadando. El cubo está muy oscuro durante 1 minuto o hasta que una corriente fuerte o un efecto similar disperse la tinta.
 
@@ -1926,15 +1806,15 @@ pasiva 14 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Respirar en el agua.* El pulpo solo puede respirar bajo el agua. Puede aguantar la respiración durante 1 hora fuera del agua.
 
-# Acciones
+### Acciones
 
 *Tentáculos. Tirada de ataque cuerpo a cuerpo:* +5, alcance 3 m. *Acierto:* 10 (2d6 + 3) de daño contundente. Si el objetivo es una criatura Mediana o más pequeña, tendrá el estado de agarrada (CD 13 para escapar) por los ocho tentáculos. Mientras esté agarrada, tendrá el estado de apresada.
 
-# Reacciones
+### Reacciones
 
 *Nube de tinta (1/día). Detonante:* el pulpo recibe daño mientras está bajo el agua. *Respuesta:* el pulpo suelta tinta que llena un cubo de 3 m de lado centrado en él y se mueve hasta su velocidad nadando. El cubo está muy oscuro durante 1 minuto o hasta que una corriente fuerte o un efecto similar disperse la tinta.
 
@@ -1948,10 +1828,9 @@ pasiva 14 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
 **Velocidad:** 6 m, nadar 6 m
 
-|     |   | MOD. SALV. |    |        |   |    | MOD. SALV. |       |    | MOD. SALV. |
-|-----|---|------------|----|--------|---|----|------------|-------|----|------------|
-| Fue | 1 | −5         | −5 | Des 13 |   | +1 | +1         | Con 8 | −1 | −1         |
-| Int | 1 | −5         | −5 | Sab    | 8 | −1 | −1         | Car 3 | −4 | −4         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 1 (−5) | 13 (+1) | 8 (−1) | 1 (−5) | 8 (−1) | 3 (−4) |
 
 **Habilidades:** Percepción +1, Sigilo +3
 
@@ -1959,13 +1838,13 @@ pasiva 14 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Anfibia.* La rana puede respirar tanto dentro como fuera del agua.
 
 *Saltar sin carrera.* La rana puede hacer un salto de longitud de hasta 3 m o un salto de altura de hasta 1,5 m, tanto si ha cogido carrerilla como si no.
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +3, alcance 1,5 m. *Acierto:* 1 de daño perforante.
 
@@ -1990,13 +1869,13 @@ pasiva 14 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Anfibia.* La rana puede respirar tanto dentro como fuera del agua.
 
 *Saltar sin carrera.* La rana puede hacer un salto de longitud de hasta 6 m o un salto de altura de hasta 3 m, tanto si ha cogido carrerilla como si no.
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +3, alcance 1,5 m. *Acierto:* 5 (1d6 + 2) de daño perforante. Si el objetivo es una criatura Mediana o más pequeña, tendrá el estado de agarrada (CD 11 para escapar).
 
@@ -2025,11 +1904,11 @@ Al final del siguiente turno de la rana, el objetivo engullido recibirá 5 (2d4)
 
 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Ágil.* La rata no provoca ataques de oportunidad cuando se mueve para ponerse fuera del alcance de un enemigo.
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +2, alcance 1,5 m. *Acierto:* 1 de daño perforante.
 
@@ -2043,22 +1922,19 @@ Al final del siguiente turno de la rana, el objetivo engullido recibirá 5 (2d4)
 
 **Velocidad:** 9 m, trepar 9 m
 
-|     |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue | 7 | −2 | −2         | Des 16 | +3 | +5         | Con 11 | +0 | +0         |
-| Int | 2 | −4 | −4         | Sab 10 | +0 | +0         | Car 4  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 7 (−2) | 16 (+3) | 11 (+0) | 2 (−4) | 10 (+0) | 4 (−3) |
 
 **Habilidades:** Percepción +2
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 12 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
-pasiva 12 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
-
-# Atributos
+### Atributos
 
 *Atacar en manada.* La rata tiene ventaja en una tirada de ataque contra una criatura si al menos uno de los aliados de la rata se encuentra a 1,5 m o menos de la criatura y no tiene el estado de incapacitado.
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +5, alcance 1,5 m. *Acierto:* 5 (1d4 + 3) de daño perforante.
 
@@ -2070,16 +1946,15 @@ pasiva 12 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
 **PG:** 45 (6d10 + 12) **Velocidad:** 12 m
 
-|        |   |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue 21 |   | +5 | +5         | Des    | 8 | −1 | −1         | Con 15 | +2 | +2         |
-| Int    | 2 | −4 | −4         | Sab 12 |   | +1 | +1         | Car 6  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 21 (+5) | 8 (−1) | 15 (+2) | 2 (−4) | 12 (+1) | 6 (−2) |
 
 **Sentidos:** Percepción pasiva 11
 
 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Cornada. Tirada de ataque cuerpo a cuerpo:* +7, alcance 1,5 m. *Acierto:* 14 (2d8 + 5) de daño perforante. Si el objetivo es una criatura Grande o más pequeña y el rinoceronte recorre al menos 6 m en línea recta hacia ella justo antes de acertarle, esta recibirá 9 (2d8) de daño perforante adicional y tendrá el estado de derribada.
 
@@ -2093,22 +1968,19 @@ pasiva 12 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
 **Velocidad:** 9 m, nadar 9 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 15 |   | +2 | +2         | Des 13 | +1 | +1         | Con 13 | +1 | +1         |
-| Int    | 2 | −4 | −4         | Sab 10 | +0 | +0         | Car 3  | −4 | −4         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 15 (+2) | 13 (+1) | 13 (+1) | 2 (−4) | 10 (+0) | 3 (−4) |
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 10 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
-pasiva 10 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
-
-# Atributos
+### Atributos
 
 *Anfibio.* El sapo puede respirar tanto dentro como fuera del agua.
 
 *Saltar sin carrera.* El sapo puede hacer un salto de longitud de hasta 6 m o un salto de altura de hasta 3 m, tanto si ha cogido carrerilla como si no.
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 5 (1d6 + 2) de daño perforante más 5 (2d4) de daño de veneno. Si el objetivo es una criatura Mediana o más pequeña, tendrá el estado de agarrada (CD 12 para escapar).
 
@@ -2124,10 +1996,9 @@ pasiva 10 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
 **Velocidad:** 9 m, nadar 9 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 15 |   | +2 | +2         | Des 14 | +2 | +2         | Con 12 | +1 | +1         |
-| Int    | 1 | −5 | −5         | Sab 10 | +0 | +0         | Car 3  | −4 | −4         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 15 (+2) | 14 (+2) | 12 (+1) | 1 (−5) | 10 (+0) | 3 (−4) |
 
 **Habilidades:** Percepción +2, Sigilo +4
 
@@ -2135,7 +2006,7 @@ pasiva 10 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 6 (1d8 + 2) de daño perforante.
 
@@ -2162,7 +2033,7 @@ pasiva 10 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* La serpiente realiza un ataque de mordisco y emplea su acción de constreñir.
 
@@ -2189,7 +2060,7 @@ pasiva 10 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 4 (1d4 + 2) de daño perforante más 3 (1d6) de daño de veneno.
 
@@ -2203,10 +2074,9 @@ pasiva 10 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
 **Velocidad:** 12 m, nadar 12 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 10 |   | +0 | +0         | Des 18 | +4 | +4         | Con 13 | +1 | +1         |
-| Int    | 2 | −4 | −4         | Sab 10 | +0 | +0         | Car 3  | −4 | −4         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 10 (+0) | 18 (+4) | 13 (+1) | 2 (−4) | 10 (+0) | 3 (−4) |
 
 **Habilidades:** Percepción +2
 
@@ -2214,7 +2084,7 @@ pasiva 10 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +6, alcance 3 m. *Acierto:* 6 (1d4 + 4) de daño perforante más 4 (1d8) de daño de veneno.
 
@@ -2228,20 +2098,19 @@ pasiva 10 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
 **Velocidad:** 9 m, nadar 9 m, volar 18 m
 
-|     |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue | 4 | −3 | −3         | Des 15 | +2 | +2         | Con 11 | +0 | +0         |
-| Int | 2 | −4 | −4         | Sab 12 | +1 | +1         | Car 5  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 4 (−3) | 15 (+2) | 11 (+0) | 2 (−4) | 12 (+1) | 5 (−3) |
 
 **Sentidos:** visión ciega 3 m; Percepción pasiva 11
 
 **Idiomas:** ninguno **VD:** 1/8 (25 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Pasar volando.* La serpiente no provoca ataques de oportunidad cuando vuela para ponerse fuera del alcance de un enemigo.
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 1 de daño perforante más 5 (2d4) de daño de veneno.
 
@@ -2255,10 +2124,9 @@ pasiva 10 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
 **Velocidad:** 9 m, trepar 9 m
 
-|     |        |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|--------|----|------------|--------|----|------------|--------|----|------------|
-|     | Fue 16 | +3 | +3         | Des 14 | +2 | +2         | Con 14 | +2 | +2         |
-| Int | 6      | −2 | −2         | Sab 12 | +1 | +1         | Car 7  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 16 (+3) | 14 (+2) | 14 (+2) | 6 (−2) | 12 (+1) | 7 (−2) |
 
 **Habilidades:** Atletismo +5, Percepción +3
 
@@ -2266,7 +2134,7 @@ pasiva 10 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
 **Idiomas:** ninguno **VD:** 1/2 (100 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El simio realiza dos ataques de puñetazo.
 
@@ -2282,10 +2150,9 @@ pasiva 10 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
 **PG:** 168 (16d12 + 64) **Velocidad:** 12 m, trepar 12 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 23 |   | +6 | +6         | Des 14 | +2 | +2         | Con 18 | +4 | +4         |
-| Int    | 5 | −3 | −3         | Sab 12 | +1 | +1         | Car 7  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 23 (+6) | 14 (+2) | 18 (+4) | 5 (−3) | 12 (+1) | 7 (−2) |
 
 **Habilidades:** Atletismo +9, Percepción +4, Supervivencia +4
 
@@ -2293,7 +2160,7 @@ pasiva 10 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
 **Idiomas:** ninguno **VD:** 7 (2900 PX; BC +3)
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El simio realiza dos ataques de puñetazo.
 
@@ -2315,22 +2182,19 @@ pasiva 10 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
 **Velocidad:** 12 m, trepar 12 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 12 |   | +1 | +1         | Des 16 | +3 | +3         | Con 13 | +1 | +1         |
-| Int    | 3 | −4 | −4         | Sab 12 | +1 | +1         | Car 4  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 12 (+1) | 16 (+3) | 13 (+1) | 3 (−4) | 12 (+1) | 4 (−3) |
 
 **Habilidades:** Percepción +3, Sigilo +7
 
-**Sentidos:** visión ciega 3 m, visión en la oscuridad 18 m;
+**Sentidos:** visión ciega 3 m, visión en la oscuridad 18 m; Percepción pasiva 13 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
-Percepción pasiva 13 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
-
-# Atributos
+### Atributos
 
 *Trepar cual arácnido.* La araña puede trepar por superficies difíciles e incluso recorrer techos sin tener que realizar pruebas de característica.
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +5, alcance 1,5 m. *Acierto:* 5 (1d4 + 3) de daño perforante más 5 (2d4) de daño de veneno.
 
@@ -2344,10 +2208,9 @@ Percepción pasiva 13 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
 **Velocidad:** 6 m, excavar 1,5 m.
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 10 |   | +0 | +0         | Des 11 | +0 | +0         | Con 16 | +3 | +3         |
-| Int    | 2 | −4 | −4         | Sab 12 | +1 | +1         | Car 5  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 10 (+0) | 11 (+0) | 16 (+3) | 2 (−4) | 12 (+1) | 5 (−3) |
 
 **Habilidades:** Percepción +3 **Resistencias:** veneno
 
@@ -2355,7 +2218,7 @@ Percepción pasiva 13 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
 **Idiomas:** ninguno **VD:** 0 (10 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +2, alcance 1,5 m. *Acierto:* 1 de daño perforante.
 
@@ -2369,18 +2232,15 @@ Percepción pasiva 13 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
 **Velocidad:** 9 m, excavar 3 m
 
-|     |        |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|--------|----|------------|--------|----|------------|--------|----|------------|
-|     | Fue 13 | +1 | +1         | Des 10 | +0 | +0         | Con 17 | +3 | +3         |
-| Int | 2      | −4 | −4         | Sab 12 | +1 | +1         | Car 5  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 13 (+1) | 10 (+0) | 17 (+3) | 2 (−4) | 12 (+1) | 5 (−3) |
 
 **Habilidades:** Percepción +3 **Resistencias:** veneno
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 13 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
-pasiva 13 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
-
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +3, alcance 1,5 m. *Acierto:* 6 (2d4 + 1) de daño perforante.
 
@@ -2394,10 +2254,9 @@ pasiva 13 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
 **Velocidad:** 1,5 m, nadar 12 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 18 |   | +4 | +4         | Des 14 | +2 | +2         | Con 15 | +2 | +2         |
-| Int    | 1 | −5 | −5         | Sab 10 | +0 | +0         | Car 4  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 18 (+4) | 14 (+2) | 15 (+2) | 1 (−5) | 10 (+0) | 4 (−3) |
 
 **Habilidades:** Percepción +2
 
@@ -2405,11 +2264,11 @@ pasiva 13 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Respirar en el agua.* El tiburón solo puede respirar bajo el agua.
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +6 (con ventaja si el objetivo no tiene todos sus puntos de golpe), alcance 1,5 m. *Acierto:* 14 (3d6 + 4) de daño perforante.
 
@@ -2423,10 +2282,9 @@ pasiva 13 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
 **Velocidad:** 1,5 m, nadar 9 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 14 |   | +2 | +2         | Des 15 | +2 | +2         | Con 13 | +1 | +1         |
-| Int    | 1 | −5 | −5         | Sab 10 | +0 | +0         | Car 4  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 14 (+2) | 15 (+2) | 13 (+1) | 1 (−5) | 10 (+0) | 4 (−3) |
 
 **Habilidades:** Percepción +2
 
@@ -2434,13 +2292,13 @@ pasiva 13 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
 **Idiomas:** ninguno **VD:** 1/2 (100 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Atacar en manada.* El tiburón tiene ventaja en una tirada de ataque contra una criatura si al menos uno de los aliados del tiburón se encuentra a 1,5 m o menos de la criatura y no tiene el estado de incapacitado.
 
 *Respirar en el agua.* El tiburón solo puede respirar bajo el agua.
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 7 (2d4 + 2) de daño perforante.
 
@@ -2454,10 +2312,9 @@ pasiva 13 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
 **Velocidad:** 1,5 m, nadar 18 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 23 |   | +6 | +6         | Des 11 | +0 | +0         | Con 21 | +5 | +5         |
-| Int    | 1 | −5 | −5         | Sab 10 | +0 | +0         | Car 5  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 23 (+6) | 11 (+0) | 21 (+5) | 1 (−5) | 10 (+0) | 5 (−3) |
 
 **Habilidades:** Percepción +3
 
@@ -2465,11 +2322,11 @@ pasiva 13 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
 **Idiomas:** ninguno **VD:** 5 (1800 PX; BC +3)
 
-# Atributos
+### Atributos
 
 *Respirar en el agua.* El tiburón solo puede respirar bajo el agua.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El tiburón realiza dos ataques de mordisco.
 
@@ -2483,18 +2340,15 @@ pasiva 13 **Idiomas:** ninguno **VD:** 1/4 (50 PX; BC +2)
 
 **PG:** 30 (4d10 + 8) **Velocidad:** 12 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 17 |   | +3 | +3         | Des 16 | +3 | +3         | Con 14 | +2 | +2         |
-| Int    | 3 | −4 | −4         | Sab 12 | +1 | +1         | Car 8  | −1 | −1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 17 (+3) | 16 (+3) | 14 (+2) | 3 (−4) | 12 (+1) | 8 (−1) |
 
 **Habilidades:** Percepción +3, Sigilo +7
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 13 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
-pasiva 13 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
-
-# Acciones
+### Acciones
 
 *Desgarro. Tirada de ataque cuerpo a cuerpo:* +5, alcance 1,5 m. *Acierto:* 10 (2d6 + 3) de daño cortante. Si el objetivo es una criatura Grande o más pequeña, tendrá el estado de derribada.
 
@@ -2517,15 +2371,13 @@ pasiva 13 **Idiomas:** ninguno **VD:** 1 (200 PX; BC +2)
 
 **Habilidades:** Percepción +5, Sigilo +7
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 15 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
-pasiva 15 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
-
-# Atributos
+### Atributos
 
 *Saltar con carrera.* Si se ha movido al menos 3 m justo antes, el tigre puede realizar un salto de longitud de hasta 7,5 m.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El tigre realiza dos ataques de desgarro.
 
@@ -2543,16 +2395,15 @@ pasiva 15 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
 **PG:** 136 (13d12 + 52) **Velocidad:** 15 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 25 |   | +7 | +10        | Des 10 | +0 | +0         | Con 19 | +4 | +4         |
-| Int    | 2 | −4 | −4         | Sab 12 | +1 | +4         | Car 9  | −1 | −1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 25 (+7) | 10 (+0) | 19 (+4) | 2 (−4) | 12 (+1) | 9 (−1) |
 
 **Habilidades:** Percepción +4 **Sentidos:** Percepción pasiva 14
 
 **Idiomas:** ninguno **VD:** 8 (3900 PX; BC +3)
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El tiranosaurio realiza un ataque de mordisco y uno con su cola.
 
@@ -2577,8 +2428,9 @@ pasiva 15 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
 **Idiomas:** ninguno **VD:** 5 (1800 PX; BC +3)
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El triceratops realiza dos ataques de cornada.
 
 *Cornada. Tirada de ataque cuerpo a cuerpo:* +9, alcance 1,5 m. *Acierto:* 19 (2d12 + 6) de daño perforante. Si el objetivo es una criatura Enorme o más pequeña y el triceratops recorre al menos 6 m en línea recta hacia ella justo antes de acertarle, esta recibirá 9 (2d8) de daño perforante adicional y tendrá el estado de derribada.
+

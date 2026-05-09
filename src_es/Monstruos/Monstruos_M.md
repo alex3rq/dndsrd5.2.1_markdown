@@ -8,10 +8,9 @@
 
 **PG:** 45 (6d10 + 12) **Velocidad:** 12 m
 
-|        |   |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue 18 |   | +4 | +4         | Des 11 |   | +0 | +0         | Con 15 | +2 | +2         |
-| Int    | 6 | −2 | −2         | Sab    | 8 | −1 | −1         | Car 5  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 18 (+4) | 11 (+0) | 15 (+2) | 6 (−2) | 8 (−1) | 5 (−3) |
 
 **Vulnerabilidades:** contundente
 
@@ -23,13 +22,11 @@
 
 **VD:** 2 (450 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Cornada. Tirada de ataque cuerpo a cuerpo:* +6, alcance 1,5 m. *Acierto:* 11 (2d6 + 4) de daño perforante. Si el objetivo es una criatura Grande o más pequeña y el esqueleto recorre al menos 6 m en línea recta hacia ella justo antes de acertarle, esta recibirá 9 (2d8) de daño perforante adicional y tendrá el estado de derribada.
 
 *Golpe. Tirada de ataque cuerpo a cuerpo:* +6, alcance 1,5 m. *Acierto:* 15 (2d10 + 4) de daño contundente.
-
-# **Magmin**
 
 # **Magmin**
 
@@ -46,17 +43,15 @@
 
 **Inmunidades:** fuego
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 10
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 10
 
 **Idiomas:** primordial (ígneo) **VD:** 1/2 (100 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Explotar al morir.* El magmin explota cuando muere. *Tirada de salvación de Destreza:* CD 11, todas las criaturas en una emanación de 3 m que se origina en el magmin. *Fallo:* 7 (2d6) de daño de fuego. *Éxito:* la mitad del daño.
 
-# Acciones
+### Acciones
 
 *Toque. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 7 (2d4 + 2) de daño de fuego. Si el objetivo es una criatura u objeto inflamable que no lleve o vista nadie, empieza a arder.
 
@@ -79,15 +74,13 @@ pasiva 10
 |     |                              |    | −1 | Des 14 | +2 | +2         | Con 11 | +0 | +0         |
 | Int | 17                           | +3 | +6 | Sab 12 | +1 | +4         | Car 11 | +0 | +0         |
 
-**Habilidades:** Conocimiento arcano +6, Historia +6,
-
-Percepción +4 **Equipo:** varita
+**Habilidades:** Conocimiento arcano +6, Historia +6, Percepción +4 **Equipo:** varita
 
 **Sentidos:** Percepción pasiva 14 **Idiomas:** común y otros tres idiomas
 
 **VD:** 6 (2300 PX; BC +3)
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El mago realiza tres ataques con su estallido arcano.
 
@@ -105,11 +98,9 @@ Percepción +4 **Equipo:** varita
 
 *Paso brumoso (3/día).* El mago lanza *paso brumoso* usando la misma aptitud mágica que para su lanzamiento de conjuros.
 
-# Reacciones
+### Reacciones
 
 *Magia protectora (3/día).* El mago lanza *contrahechizo* o *escudo* en respuesta al desencadenante de esos conjuros, usando la misma aptitud mágica que para su lanzamiento de conjuros.
-
-# **Mantícora**
 
 # **Mantícora**
 
@@ -121,16 +112,13 @@ Percepción +4 **Equipo:** varita
 
 **Velocidad:** 9 m, volar 15 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 17 |   | +3 | +3         | Des 16 | +3 | +3         | Con 17 | +3 | +3         |
-| Int    | 7 | −2 | −2         | Sab 12 | +1 | +1         | Car 8  | −1 | −1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 17 (+3) | 16 (+3) | 17 (+3) | 7 (−2) | 12 (+1) | 8 (−1) |
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 11 **Idiomas:** común **VD:** 3 (700 PX; BC +2)
 
-pasiva 11 **Idiomas:** común **VD:** 3 (700 PX; BC +2)
-
-# Acciones
+### Acciones
 
 *Ataque múltiple.* La mantícora realiza tres ataques de desgarro o con sus púas de cola en cualquier combinación.
 
@@ -140,34 +128,29 @@ pasiva 11 **Idiomas:** común **VD:** 3 (700 PX; BC +2)
 
 # **Manto**
 
-# **Manto**
-
 *Aberración Grande, caótica neutral*
 
 **CA:** 14 **Iniciativa:** +5 (15)
 
 **PG:** 91 (14d10 + 14) **Velocidad:** 3 m, volar 12 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 17 |    | +3 | +3         | Des 15 | +2 | +2         | Con 12 | +1 | +1         |
-| Int    | 13 | +1 | +1         | Sab 14 | +2 | +2         | Car 7  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 17 (+3) | 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 7 (−2) |
 
 **Habilidades:** Sigilo +5 **Inmunidades:** asustado
 
-**Sentidos:** visión en la oscuridad 36 m; Percepción
-
-pasiva 12
+**Sentidos:** visión en la oscuridad 36 m; Percepción pasiva 12
 
 **Idiomas:** habla de las profundidades, infracomún
 
 **VD:** 8 (3900 PX; BC +3)
 
-# Atributos
+### Atributos
 
 *Sensibilidad a la luz.* Bajo la luz brillante, el manto tiene desventaja en las tiradas de ataque.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El manto realiza la acción de adherirse y lleva a cabo dos ataques con su cola.
 
@@ -184,8 +167,6 @@ El manto puede usar 1,5 m de movimiento para soltarse. El objetivo o una criatur
 *Fantasmas (se recarga tras un descanso corto o largo).* El manto lanza el conjuro *imagen múltiple*, que no requiere componentes y utiliza la Sabiduría como aptitud mágica. El conjuro termina antes de tiempo si el manto comienza o termina su turno en una zona de luz brillante.
 
 *Gemido. Tirada de salvación de Sabiduría:* CD 13, todas las criaturas en una emanación de 18 m que se origina en el manto. *Fallo:* el objetivo tendrá el estado de asustado hasta el final del siguiente turno del manto. *Éxito:* el objetivo será inmune al gemido de este manto durante las siguientes 24 horas.
-
-# **Mantoscuro**
 
 # **Mantoscuro**
 
@@ -208,7 +189,7 @@ El manto puede usar 1,5 m de movimiento para soltarse. El objetivo o una criatur
 
 **Idiomas:** ninguno **VD:** 1/2 (100 PX; BC +2)
 
-# Acciones
+### Acciones
 
 *Aplastar. Tirada de ataque cuerpo a cuerpo:* +5, alcance 1,5 m. *Acierto:* 6 (1d6 + 3) de daño contundente y el mantoscuro se engancha al objetivo. Si el objetivo es una criatura Mediana o más pequeña y el mantoscuro tenía ventaja en la tirada de ataque, cubrirá al objetivo, que tendrá el estado de cegado y se asfixiará mientras el mantoscuro esté enganchado de esta forma.
 
@@ -217,8 +198,6 @@ Mientras esté enganchado a un objetivo, el mantoscuro solo podrá atacarlo a é
 Una criatura puede emplear una acción para intentar quitarse de encima al mantoscuro superando una prueba de Fuerza (Atletismo) con CD 13. En su turno, el mantoscuro puede separarse gastando 1,5 m de movimiento.
 
 *Aura de oscuridad (1/día).* Una oscuridad mágica llena una emanación de 4,5 m que se origina en el mantoscuro. Este efecto dura mientras el mantoscuro mantenga la concentración en él, hasta 10 minutos. La visión en la oscuridad no puede penetrar en esta zona y ninguna luz puede alumbrarla.
-
-# **Marilith**
 
 # **Marilith**
 
@@ -239,7 +218,7 @@ Una criatura puede emplear una acción para intentar quitarse de encima al manto
 
 **Idiomas:** abisal; telepatía 36 m **VD:** 16 (15 000 PX; BC +5)
 
-# Atributos
+### Atributos
 
 *Reactiva.* La marilith puede llevar a cabo una reacción en cada turno de combate.
 
@@ -247,7 +226,7 @@ Una criatura puede emplear una acción para intentar quitarse de encima al manto
 
 *Resistencia mágica.* La marilith tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* La marilith realiza seis ataques con sus cuchillas de pacto y emplea su acción de constreñir.
 
@@ -259,11 +238,9 @@ Una criatura puede emplear una acción para intentar quitarse de encima al manto
 
 *Teletransporte (recarga 5–6).* La marilith se teletransporta hasta 36 m a un espacio sin ocupar que pueda ver.
 
-# Reacciones
+### Reacciones
 
 *Parada. Detonante:* una tirada de ataque cuerpo a cuerpo acierta a la marilith mientras sostiene un arma. *Respuesta:* la marilith suma 5 a su CA contra ese ataque, lo que puede hacer que falle.
-
-# **Medusa**
 
 # **Medusa**
 
@@ -273,20 +250,17 @@ Una criatura puede emplear una acción para intentar quitarse de encima al manto
 
 **PG:** 127 (17d8 + 51) **Velocidad:** 9 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 10 |    | +0 | +0         | Des 17 | +3 | +3         | Con 16 | +3 | +3         |
-| Int    | 12 | +1 | +1         | Sab 13 | +1 | +4         | Car 15 | +2 | +2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 10 (+0) | 17 (+3) | 16 (+3) | 12 (+1) | 13 (+1) | 15 (+2) |
 
-**Habilidades:** Engaño +5, Percepción +4, Sigilo +6 **Sentidos:** visión en la oscuridad 45 m; Percepción
-
-pasiva 14
+**Habilidades:** Engaño +5, Percepción +4, Sigilo +6 **Sentidos:** visión en la oscuridad 45 m; Percepción pasiva 14
 
 **Idiomas:** común y otro cualquiera
 
 **VD:** 6 (2300 PX; BC +3)
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* La medusa realiza dos ataques con sus garras y uno con su pelo de serpientes, o realiza tres con su rayo venenoso.
 
@@ -312,28 +286,25 @@ pasiva 14
 
 **Velocidad:** 9 m, volar 9 m
 
-|     |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue | 7 | −2 | −2         | Des 13 | +1 | +1         | Con 10 | +0 | +0         |
-| Int | 9 | −1 | −1         | Sab 11 | +0 | +0         | Car 12 | +1 | +1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 7 (−2) | 13 (+1) | 10 (+0) | 9 (−1) | 11 (+0) | 12 (+1) |
 
 **Habilidades:** Percepción +2, Sigilo +3
 
 **Vulnerabilidades:** fuego
 
-**Inmunidades:** frío, veneno; cansancio, envenenado **Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 12
+**Inmunidades:** frío, veneno; cansancio, envenenado **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 12
 
 **Idiomas:** primordial (acuano, aurano)
 
 **VD:** 1/2 (100 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Explotar al morir.* El mephit explota cuando muere. *Tirada de salvación de Constitución:* CD 10, todas las criaturas en una emanación de 1,5 m que se origina en el mephit. *Fallo:* 5 (2d4) de daño de frío. *Éxito:* la mitad del daño.
 
-# Acciones
+### Acciones
 
 *Garra. Tirada de ataque cuerpo a cuerpo:* +3, alcance 1,5 m. *Acierto:* 3 (1d4 + 1) de daño cortante más 2 (1d4) de daño de frío.
 
@@ -351,26 +322,23 @@ pasiva 12
 
 **Velocidad:** 9 m, volar 9 m
 
-|     |   |    | MOD. SALV. |        |    | MOD. SALV. |        | MOD. SALV. |    |
-|-----|---|----|------------|--------|----|------------|--------|------------|----|
-| Fue | 8 | −1 | −1         | Des 12 | +1 | +1         | Con 12 | +1         | +1 |
-| Int | 7 | −2 | −2         | Sab 10 | +0 | +0         | Car 10 | +0         | +0 |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 8 (−1) | 12 (+1) | 12 (+1) | 7 (−2) | 10 (+0) | 10 (+0) |
 
 **Habilidades:** Sigilo +3 **Vulnerabilidades:** frío
 
-**Inmunidades:** fuego, veneno; cansancio, envenenado **Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 10
+**Inmunidades:** fuego, veneno; cansancio, envenenado **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 10
 
 **Idiomas:** primordial (ígneo, terrano)
 
 **VD:** 1/2 (100 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Explotar al morir.* El mephit explota cuando muere. *Tirada de salvación de Destreza:* CD 11, todas las criaturas en una emanación de 1,5 m que se origina en el mephit. *Fallo:* 7 (2d6) de daño de fuego. *Éxito:* la mitad del daño.
 
-# Acciones
+### Acciones
 
 *Garra. Tirada de ataque cuerpo a cuerpo:* +3, alcance 1,5 m. *Acierto:* 3 (1d4 + 1) de daño cortante más 3 (1d6) de daño de fuego.
 
@@ -386,10 +354,9 @@ pasiva 10
 
 **Velocidad:** 9 m, volar 9 m
 
-|     |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue | 5 | −3 | −3         | Des 14 | +2 | +2         | Con 10 | +0 | +0         |
-| Int | 9 | −1 | −1         | Sab 11 | +0 | +0         | Car 10 | +0 | +0         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 5 (−3) | 14 (+2) | 10 (+0) | 9 (−1) | 11 (+0) | 10 (+0) |
 
 **Habilidades:** Percepción +2, Sigilo +4
 
@@ -401,11 +368,11 @@ pasiva 10
 
 **VD:** 1/2 (100 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Explotar al morir.* El mephit explota cuando muere. *Tirada de salvación de Destreza:* CD 10, todas las criaturas en una emanación de 1,5 m que se origina en el mephit. *Fallo:* 5 (2d4) de daño contundente. *Éxito:* la mitad del daño.
 
-# Acciones
+### Acciones
 
 *Garra. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 4 (1d4 + 2) de daño cortante.
 
@@ -423,32 +390,27 @@ pasiva 10
 
 **Velocidad:** 9 m, volar 9 m
 
-|     |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue | 5  | −3 | −3         | Des 11 | +0 | +0         | Con 10 | +0 | +0         |
-| Int | 11 | +0 | +0         | Sab 10 | +0 | +0         | Car 12 | +1 | +1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 5 (−3) | 11 (+0) | 10 (+0) | 11 (+0) | 10 (+0) | 12 (+1) |
 
 **Habilidades:** Sigilo +2
 
-**Inmunidades:** fuego, veneno; cansancio, envenenado **Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 10 **Idiomas:** primordial (acuano, ígneo)
+**Inmunidades:** fuego, veneno; cansancio, envenenado **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 10 **Idiomas:** primordial (acuano, ígneo)
 
 **VD:** 1/4 (50 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Explotar al morir.* El mephit explota cuando muere. *Tirada de salvación de Destreza:* CD 10, todas las criaturas en una emanación de 1,5 m que se origina en el mephit. *Fallo:* 5 (2d4) de daño de fuego. *Éxito:* la mitad del daño.
 
 *Forma borrosa.* Las tiradas de ataque contra el mephit se harán con desventaja a menos que tenga el estado de incapacitado.
 
-# Acciones
+### Acciones
 
 *Garra. Tirada de ataque cuerpo a cuerpo:* +2, alcance 1,5 m. *Acierto:* 2 (1d4) de daño cortante más 2 (1d4) de daño de fuego.
 
 *Aliento de vapor (recarga 6). Tirada de salvación de Constitución:* CD 10, todas las criaturas en un cono de 4,5 m. *Fallo:* 5 (2d4) de daño de fuego y la velocidad del objetivo se reducirá en 3 m hasta el final del siguiente turno del mephit. *Éxito:* solo la mitad del daño. *Fallo o éxito:* estar bajo el agua no otorga resistencia a este daño de fuego.
-
-# **Merrow**
 
 # **Merrow**
 
@@ -460,24 +422,21 @@ pasiva 10 **Idiomas:** primordial (acuano, ígneo)
 
 **Velocidad:** 3 m, nadar 12 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 18 |   | +4 | +4         | Des 15 | +2 | +2         | Con 15 | +2 | +2         |
-| Int    | 8 | −1 | −1         | Sab 10 | +0 | +0         | Car 9  | −1 | −1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 18 (+4) | 15 (+2) | 15 (+2) | 8 (−1) | 10 (+0) | 9 (−1) |
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 10
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 10
 
 **Idiomas:** abisal, primordial (acuano)
 
 **VD:** 2 (450 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Anfibio.* El merrow puede respirar tanto dentro como fuera del agua.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El merrow realiza dos ataques con su arpón, sus garras o su mordisco en cualquier combinación.
 
@@ -489,30 +448,25 @@ pasiva 10
 
 # **Mimeto**
 
-# **Mimeto**
-
 *Monstruosidad Mediana, neutral*
 
 **CA:** 12 **Iniciativa:** +3 (13)
 
 **PG:** 58 (9d8 + 18) **Velocidad:** 6 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 17 |   | +3 | +3         | Des 12 | +1 | +1         | Con 15 | +2 | +2         |
-| Int    | 5 | −3 | −3         | Sab 13 | +1 | +1         | Car 8  | −1 | −1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 17 (+3) | 12 (+1) | 15 (+2) | 5 (−3) | 13 (+1) | 8 (−1) |
 
 **Habilidades:** Sigilo +5 **Inmunidades:** ácido; derribado
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 11 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
 
-pasiva 11 **Idiomas:** ninguno **VD:** 2 (450 PX; BC +2)
-
-# Atributos
+### Atributos
 
 *Adhesivo (solo con forma de objeto).* El mimeto se adhiere a cualquiera que lo toque. Las criaturas Enormes o más pequeñas a las que se adhiera el mimeto tendrán el estado de agarradas (CD 13 para escapar). Las pruebas de característica para escapar de este agarre tienen desventaja.
 
-# Acciones
+### Acciones
 
 *Mordisco. Tirada de ataque cuerpo a cuerpo:* +5 (con ventaja si el mimeto tiene agarrado al objetivo), alcance 1,5 m. *Acierto:* 7 (1d8 + 3) de daño perforante o 12 (2d8 + 3) de daño perforante si el mimeto tiene agarrado al objetivo, más 4 (1d8) de daño de ácido.
 
@@ -526,24 +480,19 @@ criatura Grande o más pequeña, tendrá el estado de agarrada (CD 13 para escap
 
 # **Minotauro de Bafomet**
 
-# **Minotauro de Bafomet**
-
 *Monstruosidad Grande, caótica malvada*
 
 **CA:** 14 **Iniciativa:** +0 (10)
 
 **PG:** 85 (10d10 + 30) **Velocidad:** 12 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 18 |   | +4 | +4         | Des 11 | +0 | +0         | Con 16 | +3 | +3         |
-| Int    | 6 | −2 | −2         | Sab 16 | +3 | +3         | Car 9  | −1 | −1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 18 (+4) | 11 (+0) | 16 (+3) | 6 (−2) | 16 (+3) | 9 (−1) |
 
-**Habilidades:** Percepción +7, Supervivencia +7 **Sentidos:** visión en la oscuridad 18 m; Percepción
+**Habilidades:** Percepción +7, Supervivencia +7 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 17 **Idiomas:** abisal **VD:** 3 (700 PX; BC +2)
 
-pasiva 17 **Idiomas:** abisal **VD:** 3 (700 PX; BC +2)
-
-# Acciones
+### Acciones
 
 *Guja abisal. Tirada de ataque cuerpo a cuerpo:* +6, alcance 3 m. *Acierto:* 10 (1d12 + 4) de daño cortante más 10 (3d6) de daño necrótico.
 
@@ -559,18 +508,15 @@ pasiva 17 **Idiomas:** abisal **VD:** 3 (700 PX; BC +2)
 
 **PG:** 58 (9d8 + 18) **Velocidad:** 6 m
 
-|        |   |    | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|---|----|------------|--------|----|------------|
-| Fue 16 |   | +3 | +3         | Des    | 8 | −1 | −1         | Con 15 | +2 | +2         |
-| Int    | 6 | −2 | −2         | Sab 12 |   | +1 | +3         | Car 12 | +1 | +1         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 16 (+3) | 8 (−1) | 15 (+2) | 6 (−2) | 12 (+1) | 12 (+1) |
 
 **Vulnerabilidades:** fuego
 
 **Inmunidades:** necrótico, veneno; asustado, cansancio, envenenado, hechizado, paralizado
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 11
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 11
 
 **Idiomas:** común y otros dos idiomas
 
@@ -584,28 +530,23 @@ pasiva 11
 
 # **Monstruo corrosivo**
 
-# **Monstruo corrosivo**
-
 *Monstruosidad Mediana, sin alineamiento*
 
 **CA:** 14 **Iniciativa:** +1 (11)
 
 **PG:** 33 (6d8 + 6) **Velocidad:** 12 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 13 |   | +1 | +1         | Des 12 | +1 | +1         | Con 13 | +1 | +1         |
-| Int    | 2 | −4 | −4         | Sab 13 | +1 | +1         | Car 6  | −2 | −2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 13 (+1) | 12 (+1) | 13 (+1) | 2 (−4) | 13 (+1) | 6 (−2) |
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 11 **Idiomas:** ninguno **VD:** 1/2 (100 PX; BC +2)
 
-pasiva 11 **Idiomas:** ninguno **VD:** 1/2 (100 PX; BC +2)
-
-# Atributos
+### Atributos
 
 *Olfatear hierro.* El monstruo corrosivo puede identificar con exactitud la ubicación de los metales férricos situados a 9 m o menos de él.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El monstruo corrosivo realiza un ataque de mordisco y utiliza sus antenas dos veces.
 
@@ -615,7 +556,8 @@ pasiva 11 **Idiomas:** ninguno **VD:** 1/2 (100 PX; BC +2)
 
 *Destruir metal.* El monstruo corrosivo toca un objeto no mágico de metal a 1,5 m o menos de él que no vista o lleve nadie. El contacto destruye un cubo de 30 cm de lado del objeto.
 
-# Reacciones
+### Reacciones
 
 *Antenas reflexivas. Detonante:* una tirada de ataque acierta al monstruo corrosivo. *Respuesta:* el monstruo corrosivo utiliza sus antenas.
+
 

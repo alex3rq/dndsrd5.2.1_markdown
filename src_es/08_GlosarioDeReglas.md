@@ -398,9 +398,7 @@ Si alguna de tus puntuaciones de característica se había reducido, vuelve a la
 - si se tira iniciativa;
 - si se lanza un conjuro que no sea un truco;
 - si se sufre da
-  no;
-
- si se camina o se hace algún otro ejercicio físico durante 1 hora.
+  no; si se camina o se hace algún otro ejercicio físico durante 1 hora.
 
 Si logras descansar al menos 1 hora antes de la interrupción, obtienes los beneficios de un descanso corto. *Consulta también* "Descanso corto".
 

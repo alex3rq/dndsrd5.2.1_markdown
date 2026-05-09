@@ -1,7 +1,5 @@
 # **Ifrit**
 
-# **Ifrit**
-
 *Elemental Grande (genio), neutral*
 
 **CA:** 17 **Iniciativa:** +1 (11)
@@ -10,20 +8,17 @@
 
 **Velocidad:** 12 m, volar 18 m (levitar)
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 22 |    | +6 | +6         | Des 12 | +1 | +1         | Con 24 | +7 | +7         |
-| Int    | 16 | +3 | +3         | Sab 15 | +2 | +6         | Car 19 | +4 | +8         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 22 (+6) | 12 (+1) | 24 (+7) | 16 (+3) | 15 (+2) | 19 (+4) |
 
 **Inmunidades:** fuego
 
-**Sentidos:** visión en la oscuridad 36 m; Percepción
-
-pasiva 12
+**Sentidos:** visión en la oscuridad 36 m; Percepción pasiva 12
 
 **Idiomas:** primordial (ígneo) **VD:** 11 (7200 PX; BC +4)
 
-# Atributos
+### Atributos
 
 *Deseos.* El ifrit tiene un 30 % de probabilidad de conocer el conjuro *deseo*. Si es así, puede lanzarlo en nombre de una criatura que no sea un genio y que pida un deseo de tal modo que el ifrit pueda entenderlo. Si el ifrit lanza el conjuro para esa criatura, no sufrirá los efectos de la tensión del conjuro. Cuando lo haya lanzado tres veces, el ifrit no podrá volver a hacerlo hasta pasados 365 días.
 
@@ -31,7 +26,7 @@ pasiva 12
 
 *Resistencia mágica.* El ifrit tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El ifrit realiza tres ataques con su hoja candente o su acción de arrojar llama en cualquier combinación.
 
@@ -45,8 +40,6 @@ pasiva 12
 
 # **Íncubo**
 
-# **Íncubo**
-
 *Infernal Mediano, neutral malvado*
 
 **CA:** 15 **Iniciativa:** +3 (13)
@@ -55,30 +48,25 @@ pasiva 12
 
 **Velocidad:** 9 m, volar 18 m
 
-|     |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|-----|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue | 8  | −1 | −1         | Des 17 | +3 | +3         | Con 13 | +1 | +1         |
-| Int | 15 | +2 | +2         | Sab 12 | +1 | +1         | Car 20 | +5 | +5         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 8 (−1) | 17 (+3) | 13 (+1) | 15 (+2) | 12 (+1) | 20 (+5) |
 
-**Habilidades:** Engaño +9, Percepción +5, Perspicacia +5,
-
-Persuasión +9, Sigilo +7
+**Habilidades:** Engaño +9, Percepción +5, Perspicacia +5, Persuasión +9, Sigilo +7
 
 **Resistencias:** frío, fuego, psíquico, veneno
 
-**Sentidos:** visión en la oscuridad 18 m; Percepción
-
-pasiva 15
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 15
 
 **Idiomas:** abisal, común, infernal; telepatía 18 m
 
 **VD:** 4 (1100 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Forma de súcubo.* Cuando el íncubo finaliza un descanso largo, puede adoptar la forma de un **súcubo** y pasar a utilizar ese perfil en lugar de este. Cualquier equipo que vista o lleve no se transformará.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El íncubo realiza dos ataques con su toque inquietante.
 
@@ -91,4 +79,5 @@ pasiva 15
 # Acciones adicionales
 
 *Pesadilla (recarga 6). Tirada de salvación de Sabiduría:* CD 15, una criatura que el íncubo pueda ver a 18 m o menos. *Fallo:* si el objetivo tiene 20 puntos de golpe o menos, tendrá el estado de inconsciente durante 1 hora, hasta que reciba daño o hasta que una criatura a 1,5 m o menos lleve a cabo una acción para despertarlo. De lo contrario, el objetivo recibe 18 (4d8) de daño psíquico.
+
 

@@ -84,9 +84,7 @@ Conexión telepática. Mientras tu familiar esté a 30 m o menos de ti, puedes c
 
 Por último, cuando lances un conjuro con un alcance de toque, puedes hacer que tu familiar sea quien toque al objetivo. Tu familiar debe estar a 30 m o menos de ti y debe usar una reacción para tocar al objetivo cuando lances el conjuro.
 
-**Combate.** El familiar se considera un aliado para tus aliados y para ti, tira su propia iniciativa y actúa en su propio turno. Un familiar no puede atacar,
-
-pero puede realizar otras acciones de manera normal.
+**Combate.** El familiar se considera un aliado para tus aliados y para ti, tira su propia iniciativa y actúa en su propio turno. Un familiar no puede atacar, pero puede realizar otras acciones de manera normal.
 
 Desaparición del familiar. Si los puntos de golpe del familiar se reducen a 0, desaparecerá y reaparecerá después de que vuelvas a lanzar este conjuro. Como acción de magia, puedes hacer que el familiar se retire temporalmente a una dimensión de bolsillo. Como alternativa, puedes hacer que se desvanezca para siempre. Como acción de magia mientras esté desaparecido temporalmente, puedes hacer que reaparezca en un espacio sin ocupar a 9 m o menos de ti. Siempre que sus puntos de golpe se reduzcan a 0 o que el familiar se retire a la dimensión de bolsillo, dejará en el espacio que ocupaba cualquier cosa que vistiera o llevase.
 
@@ -438,20 +436,19 @@ Este conjuro dispersa la oscuridad que haya en la zona y que fuera creada por un
 
 **Velocidad:** 9 m, nadar 9 m, volar 18 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 19 |    | +4 | +4         | Des 14 | +2 | +2         | Con 17 | +3 | +3         |
-| Int    | 10 | +0 | +0         | Sab 14 | +2 | +2         | Car 14 | +2 | +2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 19 (+4) | 14 (+2) | 17 (+3) | 10 (+0) | 14 (+2) | 14 (+2) |
 
 **Resistencias:** ácido, frío, fuego, relámpago, veneno **Inmunidades:** asustado, envenenado, hechizado **Sentidos:** visión ciega 9 m, visión en la oscuridad 18 m; Percepción pasiva 12
 
 **Idiomas:** dracónico, entiende los idiomas que conozcas **VD:** ninguno (0 PX; BC igual a tu bonificador por competencia)
 
-# Atributos
+### Atributos
 
 *Resistencias compartidas.* Cuando invoques al espíritu, elige una de sus resistencias. Tienes resistencia al tipo de daño elegido hasta que el conjuro termine.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El espíritu realiza una cantidad de ataques de desgarro igual a la mitad del nivel del conjuro (redondeado hacia abajo) y utiliza su ataque de aliento.
 

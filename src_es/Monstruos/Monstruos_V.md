@@ -8,24 +8,21 @@
 
 **Velocidad:** 12 m, trepar 12 m
 
-|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|----|----|------------|--------|----|------------|--------|----|------------|
-| Fue 18 |    | +4 | +4         | Des 18 | +4 | +9         | Con 18 | +4 | +9         |
-| Int    | 17 | +3 | +3         | Sab 15 | +2 | +7         | Car 18 | +4 | +9         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 18 (+4) | 18 (+4) | 18 (+4) | 17 (+3) | 15 (+2) | 18 (+4) |
 
 **Habilidades:** Percepción +7, Sigilo +9
 
 **Resistencias:** necrótico
 
-**Sentidos:** visión en la oscuridad 36 m; Percepción
-
-pasiva 17
+**Sentidos:** visión en la oscuridad 36 m; Percepción pasiva 17
 
 **Idiomas:** común y otros dos idiomas
 
 **VD:** 13 (10 000 PX u 11 500 en la guarida; BC +5)
 
-# Atributos
+### Atributos
 
 *Debilidad vampírica.* El vampiro tiene estas debilidades:
 
@@ -45,7 +42,7 @@ Mientras esté en forma de niebla y sus puntos de golpe sean 0, no podrá volver
 
 *Trepar cual arácnido.* El vampiro puede trepar por superficies difíciles e incluso recorrer techos sin tener que realizar pruebas de característica.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple (solo en forma de vampiro).* El vampiro realiza dos ataques con su golpe sepulcral y uno de mordisco.
 
@@ -63,7 +60,7 @@ En forma de niebla, el vampiro no podrá realizar acciones, hablar o manipular o
 
 *Hechizar (recarga 5–6).* El vampiro lanza *hechizar persona*, que no requiere componentes, utiliza el Carisma como aptitud mágica (CD de salvación de conjuros 17) y dura 24 horas. El objetivo hechizado es un receptor voluntario del mordisco del vampiro, cuyo daño no pone fin al conjuro. Cuando el conjuro termina, el objetivo no sabe que ha sido hechizado por el vampiro.
 
-# Acciones legendarias
+### Acciones legendarias
 
 *Usos de acciones legendarias: 3 (4 en la guarida). Justo después del turno de otra criatura, el vampiro puede emplear un uso para llevar a cabo una de las siguientes acciones. El vampiro recupera todos los usos al principio de cada uno de sus turnos.*
 
@@ -73,34 +70,29 @@ En forma de niebla, el vampiro no podrá realizar acciones, hablar o manipular o
 
 # **Vrock**
 
-# **Vrock**
-
 *Infernal Grande (demonio), caótico malvado*
 
 **CA:** 15 **Iniciativa:** +2 (12)
 
 **PG:** 152 (16d10 + 64) **Velocidad:** 12 m, volar 18 m
 
-|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|--------|----|------------|--------|----|------------|
-| Fue 17 |   | +3 | +3         | Des 15 | +2 | +5         | Con 18 | +4 | +4         |
-| Int    | 8 | −1 | −1         | Sab 13 | +1 | +4         | Car 8  | −1 | +2         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 17 (+3) | 15 (+2) | 18 (+4) | 8 (−1) | 13 (+1) | 8 (−1) |
 
 **Resistencias:** frío, fuego, relámpago **Inmunidades:** veneno; envenenado
 
-**Sentidos:** visión en la oscuridad 36 m; Percepción
-
-pasiva 11
+**Sentidos:** visión en la oscuridad 36 m; Percepción pasiva 11
 
 **Idiomas:** abisal; telepatía 36 m **VD:** 6 (2300 PX; BC +3)
 
-# Atributos
+### Atributos
 
 *Recuperación demoníaca.* Si el vrock muere fuera del Abismo, su cuerpo se disuelve en icor, obtiene un cuerpo nuevo al instante y revive con todos sus puntos de golpe en algún lugar del Abismo.
 
 *Resistencia mágica.* El vrock tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
-# Acciones
+### Acciones
 
 *Ataque múltiple.* El vrock realiza dos ataques de desgarrar.
 
@@ -109,4 +101,5 @@ pasiva 11
 *Chillido aturdidor (1/día). Tirada de salvación de Constitución:* CD 15, todas las criaturas en una emanación de 6 m que se origina en el vrock (los demonios la superan automáticamente). *Fallo:* 10 (3d6) de daño de trueno y el objetivo tendrá el estado de aturdido hasta el final del siguiente turno del vrock.
 
 *Esporas (recarga 6). Tirada de salvación de Constitución:* CD 15, todas las criaturas en una emanación de 6 m que se origina en el vrock. *Fallo:* el objetivo tendrá el estado de envenenado y repetirá la tirada de salvación al final de cada uno de sus turnos. Si tiene éxito, se librará del efecto. Mientras el objetivo esté envenenado, sufrirá 5 (1d10) de daño de veneno al principio de cada uno de sus turnos. Si se vacía un frasco de agua bendita sobre el objetivo, el efecto cesará.
+
 

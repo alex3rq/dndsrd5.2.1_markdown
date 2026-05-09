@@ -6,10 +6,9 @@
 
 **PG:** 15 (2d8 + 6) **Velocidad:** 6 m
 
-|        |   |    | MOD. SALV. |     |   |    | MOD. SALV. |        |    | MOD. SALV. |
-|--------|---|----|------------|-----|---|----|------------|--------|----|------------|
-| Fue 13 |   | +1 | +1         | Des | 6 | −2 | −2         | Con 16 | +3 | +3         |
-| Int    | 3 | −4 | −4         | Sab | 6 | −2 | +0         | Car 5  | −3 | −3         |
+| FUE | DES | CON | INT | SAB | CAR |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 13 (+1) | 6 (−2) | 16 (+3) | 3 (−4) | 6 (−2) | 5 (−3) |
 
 **Inmunidades:** veneno; cansancio, envenenado
 
@@ -17,11 +16,11 @@
 
 hablar **VD:** 1/4 (50 PX; BC +2)
 
-# Atributos
+### Atributos
 
 *Fortaleza de muerto viviente.* Si el daño reduce a 0 los puntos de golpe del zombi, hará una tirada de salvación de Constitución (CD 5 más el daño sufrido), siempre que el daño no sea radiante o proceda de un crítico. Si la supera, el zombi se queda con 1 punto de golpe.
 
-# Acciones
+### Acciones
 
 *Golpe. Tirada de ataque cuerpo a cuerpo:* +3, alcance 1,5 m. *Acierto:* 5 (1d8 + 1) de daño contundente.
 
