@@ -1,0 +1,149 @@
+# **Tarasca**
+
+# **Tarasca**
+
+*Monstruosidad Gargantuesca (titán), sin alineamiento*
+
+**CA:** 25 **Iniciativa:** +18 (28)
+
+**PG:** 697 (34d20 + 340)
+
+**Velocidad:** 18 m, excavar 12 m, trepar 18 m
+
+|        |   |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
+|--------|---|----|------------|--------|----|------------|--------|----|------------|
+| Fue 30 |   |    | +10 +10    | Des 11 | +0 | +9         | Con 30 |    | +10 +10    |
+| Int    | 3 | −4 | +5         | Sab 11 | +0 | +9         | Car 11 | +0 | +9         |
+
+**Habilidades:** Percepción +9
+
+**Resistencias:** contundente, cortante, perforante **Inmunidades:** fuego, veneno; asustado, ensordecido,
+
+envenenado, hechizado, paralizado
+
+**Sentidos:** visión ciega 36 m; Percepción pasiva 19
+
+**Idiomas:** ninguno
+
+**VD:** 30 (155 000 PX; BC +9)
+
+# Atributos
+
+*Caparazón reflectante.* Si la tarasca es el objetivo de un conjuro *proyectil mágico* o de un conjuro que requiera una tirada de ataque a distancia, tira 1d6. Con un resultado de **1 a 5**, la tarasca no se verá afectada. Con un **6**, la tarasca no se verá afectada y reflejará el conjuro, convirtiendo al lanzador en el objetivo.
+
+*Monstruo de asedio.* La tarasca inflige el doble de daño a objetos y estructuras.
+
+*Resistencia legendaria (6/día).* La tarasca puede elegir tener éxito en una tirada de salvación que haya fallado.
+
+*Resistencia mágica.* La tarasca tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
+
+# Acciones
+
+*Ataque múltiple.* La tarasca realiza un ataque de mordisco y otros tres ataques con sus garras o su cola en cualquier combinación.
+
+*Cola. Tirada de ataque cuerpo a cuerpo:* +19, alcance 9 m. *Acierto:* 23 (3d8 + 10) de daño contundente. Si el objetivo es una criatura Enorme o más pequeña, tendrá el estado de derribada.
+
+*Garra. Tirada de ataque cuerpo a cuerpo:* +19, alcance 4,5 m. *Acierto:* 28 (4d8 + 10) de daño cortante.
+
+*Mordisco. Tirada de ataque cuerpo a cuerpo:* +19, alcance 4,5 m. *Acierto:* 36 (4d12 + 10) de daño perforante y el objetivo tendrá el estado de agarrado (CD 20 para escapar). Hasta que el agarre termine, el objetivo tendrá el estado de apresado y no podrá teletransportarse.
+
+*Bramido atronador (recarga 5–6). Tirada de salvación de Constitución:* CD 27, todas las criaturas y todos los objetos que no lleve o vista alguna criatura en un cono de 45 m. *Fallo:* 78 (12d12) de daño de trueno y el objetivo tendrá los estados de asustado y ensordecido hasta el final de su siguiente turno. *Éxito:* solo la mitad del daño.
+
+# Acciones adicionales
+
+*Engullir. Tirada de salvación de Fuerza:* CD 27, una criatura Grande o más pequeña agarrada por la tarasca (puede tener hasta seis criaturas engullidas a la vez). *Fallo:* el objetivo será engullido y se pondrá fin al estado de agarrado. Una criatura engullida tendrá los estados de apresada y cegada y no podrá teletransportarse, tendrá cobertura completa contra los ataques y otros efectos fuera de la tarasca y recibirá 56 (16d6) de daño de ácido al principio de cada turno de la tarasca.
+
+Si la tarasca sufre 60 o más de daño en un solo turno por parte de una criatura que esté dentro de ella, deberá superar una tirada de salvación de Constitución con CD 20 al final de ese turno o regurgitará a todas las criaturas engullidas, que caerán en espacios a 3 m o menos de la tarasca y tendrán el estado de derribadas. Si la tarasca muere, cualquier criatura engullida dejará de tener el estado de apresada y podrá gastar 6 m de movimiento para escapar del cadáver, del que saldrá con el estado de derribada.
+
+# Acciones legendarias
+
+*Usos de acciones legendarias: 3. Justo después del turno de otra criatura, la tarasca puede emplear un uso para llevar a cabo una de las siguientes acciones. La tarasca recupera todos los usos al principio de cada uno de sus turnos.*
+
+*Arremetida.* La tarasca se mueve hasta la mitad de su velocidad y realiza un ataque con sus garras o su cola.
+
+*Movimiento estremecedor.* La tarasca se mueve hasta su velocidad. Al final de este movimiento, crea una onda sísmica instantánea en una emanación de 18 m que se origina en ella. Las criaturas situadas en esa zona perderán la concentración y, si son Medianas o más pequeñas, tendrán el estado de derribadas. La tarasca no puede volver a realizar esta acción hasta el principio de su siguiente turno.
+
+# **Troll**
+
+# **Troll**
+
+*Gigante Grande, caótico malvado*
+
+**CA:** 15 **Iniciativa:** +1 (11)
+
+**PG:** 94 (9d10 + 45) **Velocidad:** 9 m
+
+|          | MOD. SALV. |        |   |    | MOD. SALV. |        |    | MOD. SALV. |
+|----------|------------|--------|---|----|------------|--------|----|------------|
+| Fue 18   | +4<br>+4   | Des 13 |   | +1 | +1         | Con 20 | +5 | +5         |
+| Int<br>7 | −2<br>−2   | Sab    | 9 | −1 | −1         | Car 7  | −2 | −2         |
+
+**Habilidades:** Percepción +5
+
+**Sentidos:** visión en la oscuridad 18 m; Percepción
+
+pasiva 15 **Idiomas:** gigante **VD:** 5 (1800 PX; BC +3)
+
+# Atributos
+
+*Miembros repugnantes (4/día).* Si el troll termina cualquier turno maltrecho y ha sufrido 15 o más de daño cortante durante ese turno, uno de los miembros del troll será amputado, caerá en el espacio del trol y se convertirá en una **extremidad de troll**. La extremidad actuará inmediatamente después del turno del troll. El troll tendrá 1 nivel de cansancio por cada extremidad que le falte y le crecerán miembros de repuesto la siguiente vez que recupere puntos de golpe.
+
+*Regeneración.* El troll recupera 15 puntos de golpe al principio de cada uno de sus turnos. Si recibe daño de ácido o de fuego, este atributo no funcionará en su siguiente turno. El troll solo morirá si empieza su turno con 0 puntos de golpe y no se regenera.
+
+# Acciones
+
+*Ataque múltiple.* El troll realiza tres ataques de desgarro.
+
+*Desgarro. Tirada de ataque cuerpo a cuerpo:* +7, alcance 3 m. *Acierto:* 11 (2d6 + 4) de daño cortante.
+
+# Acciones adicionales
+
+*Carga.* El troll se mueve hasta la mitad de su velocidad en línea recta hacia un enemigo que pueda ver.
+
+# **Tumulario**
+
+# **Tumulario**
+
+*Muerto viviente Mediano, neutral malvado*
+
+**CA:** 14 **Iniciativa:** +4 (14)
+
+**PG:** 82 (11d8 + 33) **Velocidad:** 9 m
+
+|        |    |    | MOD. SALV. |        |    | MOD. SALV. |        |    | MOD. SALV. |
+|--------|----|----|------------|--------|----|------------|--------|----|------------|
+| Fue 15 |    | +2 | +2         | Des 14 | +2 | +2         | Con 16 | +3 | +3         |
+| Int    | 10 | +0 | +0         | Sab 13 | +1 | +1         | Car 15 | +2 | +2         |
+
+**Habilidades:** Percepción +3, Sigilo +4
+
+**Resistencias:** necrótico
+
+**Inmunidades:** veneno; cansancio, envenenado
+
+**Equipo:** armadura de cuero tachonado
+
+**Sentidos:** visión en la oscuridad 18 m; Percepción
+
+pasiva 13
+
+**Idiomas:** común y otro cualquiera
+
+**VD:** 3 (700 PX; BC +2)
+
+# Atributos
+
+*Sensibilidad a la luz solar.* Bajo la luz del sol, el tumulario tiene desventaja en las pruebas de característica y las tiradas de ataque.
+
+# Acciones
+
+*Ataque múltiple.* El tumulario realiza dos ataques con su espada necrótica o su arco necrótico en cualquier combinación. Puede sustituir un ataque por una acción de consumir vida.
+
+*Espada necrótica. Tirada de ataque cuerpo a cuerpo:* +4, alcance 1,5 m. *Acierto:* 6 (1d8 + 2) de daño cortante más 4 (1d8) de daño necrótico.
+
+*Arco necrótico. Tirada de ataque a distancia:* +4, alcance 45/180 m. *Acierto:* 6 (1d8 + 2) de daño perforante más 4 (1d8) de daño necrótico.
+
+*Consumir vida. Tirada de salvación de Constitución:*  CD 13, una criatura a 1,5 m o menos. *Fallo:* 6 (1d8 + 2) de daño necrótico y los puntos de golpe máximos del objetivo se reducirán en una cantidad igual al daño sufrido.
+
+Un humanoide que muera por este ataque se alzará 24 horas después como un **zombi** bajo el control del tumulario, a menos que se le devuelva a la vida o su cuerpo sea destruido. El tumulario no puede tener más de doce zombis bajo su control a la vez.
+
