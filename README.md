@@ -1,39 +1,71 @@
-# DND 5.2.1 SRD in Markdown
+# D&D 5.2.1 SRD en Markdown
 
-The project is roughly complete and currently should be widely useable.
+**186 archivos · 2 idiomas · Licencia CC-BY-4.0**
 
-There is a caveat that it isn't consistently formatted all the way through. Primarily features are not denoted the same way through out the document. I also haven't done any passes through to do proof reading to ensure that I didn't miss any weird line breaks in the middle of sentences. I did correct them as I saw them going through, but I could have missed some.
+> **English:** [README_EN – English version](README_EN.md)
 
-I may go through and clean up the formatting and proof read at some point, but honestly, it's pretty much done and anyone should feel free to use it as is. Any changes will be relatively minor and won't really affect most people very much.
+El *System Reference Document 5.2.1* de Dungeons & Dragons convertido a Markdown. Todo el contenido oficial de reglas gratuitas de Wizards of the Coast, en un formato portátil, legible por humanos y máquinas.
 
-Please use this however you please, while still abiding by the license terms that wizards of the coast put on the original document, which also apply to this document.
+---
 
-## Formatting changes
+## Contenido
 
-There was a step by step numbered list in "Playing the Game" in the "D20 Tests" section that was numbered beginning at 4 and ending at 6. I changed this to be 1-3 instead, since that seemed to be the actual intent, and the 4-6 numbering seemed like a typo.
+| Capítulo | Archivo(s) | Descripción |
+|---|---|---|
+| 01 — Playing the Game | `01_PlayingTheGame.md` | Reglas base: d20 tests, combate, daño, curación, exploración |
+| 02 — Character Creation | `02_CharacterCreation.md` | Creación de personajes, multiclase, nivelación |
+| 03 — Classes | `03_Classes/` (13 archivos) | Las 12 clases con subclases completas |
+| 04 — Character Origins | `04_CharacterOrigins.md` | Trasfondos y especies de personaje |
+| 05 — Feats | `05_Feats.md` | Dotes de origen, generales, de estilo de combate y épicas |
+| 06 — Equipment | `06_Equipment.md` | Armas, armaduras, equipo, monturas, objetos mágicos |
+| 07 — Spells | `Spells/` (18 archivos) | Reglas de conjuros + todos los conjuros de la A a la Z |
+| 08 — Rules Glossary | `08_RulesGlossary.md` | Glosario completo de términos de reglas |
+| 09 — Gameplay Toolbox | `09_GameplayToolbox.md` | Herramientas para el DM: trampas, venenos, encuentros |
+| 10 — Magic Items | `MagicItems/` (16 archivos) | Reglas + todos los objetos mágicos de la A a la Z |
+| 11 — Monsters (Rules) | `11_Monsters.md` | Reglas de monstruos y anatomía de bloques de estadísticas |
+| 12 — Monsters (A–Z) | `Monsters/` (28 archivos) | Todos los monstruos de la A a la Z |
+| 13 — Animals | `13_Animals.md` | Bestias (también listadas en el índice de monstruos) |
 
-The class tables for each class had a heading above all the spell slots that reads `--Spell Slots Per Level--` with the numbers directly beneath them. I removed that text and put it in the table caption. I am not certain mark down could support having multiple header lines as it was done here. I like the approach OldManUmby took in their work on the [DND SRD ReMastered](https://github.com/OldManUmby/DND.SRD.Wiki) project, where caster classes have their spell slots in a seperate table from their main class. But I decided not to do that since I'm going for accurate to the original as a base for everyone. This project is meant to enable people to do whatever they want with it, including improve it.
+## Navegación
 
-The PDF puts "Monsters A-Z" as a sub section of Monsters. I put it as its own independent chapter, like the "Animals" chapter is in the pdf.
+Cada sección tiene un **índice maestro** que facilita encontrar lo que buscas:
 
-I didn't go through and add subsections in the monsters a-z section. For example "Animated objects" isn't a section. You'll just find the animated object listed individually.
+- **General:** `src/00_INDEX.md` — mapa completo del proyecto
+- **Conjuros:** `src/Spells/_spell_index.md` — búsqueda por nombre, nivel, escuela y clase
+- **Monstruos:** `src/Monsters/_monster_index.md` — búsqueda por nombre, CR, tipo y tamaño
+- **Objetos mágicos:** `src/MagicItems/_item_index.md` — búsqueda por nombre, rareza y categoría
+- **Clases:** `src/03_Classes/00_Classes.md` — tabla con todas las clases y sus subclases
 
-## Process
+## Español
 
-I used a wonderful tool called [marker](https://github.com/VikParuchuri/marker) to generate a "pretty good, but still needs work" markdown file, which I then split into multiple files. So far as I can tell, the main section that came out the roughest was the monsters / animals sections. I may try and re-generate just those sections by themselves to see if I get better results.
+El proyecto incluye una traducción completa al español en `src_es/`, con la misma estructura:
 
-Basically, this was a semi-automated process. I generated a base file, and then I painstakingly go through and ensure the format, tables, headings, etc... are how I want them.
+| src/ (English) | src_es/ (Español) |
+|---|---|
+| `Spells/` | `Conjuros/` |
+| `Monsters/` | `Monstruos/` |
+| `MagicItems/` | `ObjetosMagicos/` |
+| `03_Classes/` | `03_Clases/` (archivos con nombres traducidos) |
 
-For the monsters, I took the excellently done ones from [Mike Shea's Lazy GM Tools repository](https://github.com/mshea/lazy_gm_tools), of [slyflourish.com](https://slyflourish.com/) fame. If you need 5e monsters, definitely check that repository out. There are monsters from many sources there including some of kobold press's monsters and level up advanced 5e.
+El índice maestro en español está en `src_es/00_INDEX.md`.
 
-## Markdown Extensions
+## Uso
 
-Table captions are denoted with `Table: Caption Text` before tables.
+Este repositorio es útil para:
 
-## Contributions
+- **DM y jugadores** que quieran consultar reglas sin conexión
+- **Herramientas y aplicaciones** que necesiten datos de D&D 5.2.1
+- **Procesamiento con LLM** y otras herramientas de IA, gracias al formato Markdown limpio
+- **Fork y personalización** del SRD para campañas o reglas de la casa
 
-I likely won't accept any as the project is largely done. But feel free to use this repository for your own project, GM notes, player notes, making a better version of them in markdown, whatever. 
+## Créditos
 
-## Legal Notice
+Este trabajo incluye material del *System Reference Document 5.2.1* ("SRD 5.2.1") de Wizards of the Coast LLC, disponible en [dndbeyond.com/srd](https://www.dndbeyond.com/srd).
 
-This work includes material from the System Reference Document 5.2 (“SRD 5.2”) by Wizards of the Coast LLC, available at https://www.dndbeyond.com/srd. The SRD 5.2 is licensed under the Creative Commons Attribution 4.0 International License, available at https://creativecommons.org/licenses/by/4.0/legalcode.
+La conversión inicial se realizó con [marker](https://github.com/VikParuchuri/marker) y se refinó manualmente. Los bloques de monstruos se tomaron del repositorio [Lazy GM Tools](https://github.com/mshea/lazy_gm_tools) de Mike Shea ([slyflourish.com](https://slyflourish.com/)).
+
+## Licencia
+
+SRD 5.2 © 2024 Wizards of the Coast LLC — licenciado bajo **CC-BY-4.0**.
+
+Este repositorio se distribuye bajo los mismos términos. Consulta [License.md](License.md) para el texto completo de la licencia.
