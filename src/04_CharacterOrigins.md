@@ -66,7 +66,7 @@ Each background offers a choice between a package of equipment and 50 GP.
 
 **Equipment:** *Choose A or B:* (A) Quarterstaff, Calligrapher's Supplies, Book (history), Parchment (8 sheets), Robe, 8 GP; or (B) 50 GP
 
-## **Soldier**
+#### **Soldier**
 
 **Ability Scores:** Strength, Dexterity, Constitution
 
