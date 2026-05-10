@@ -1,71 +1,71 @@
-# D&D 5.2.1 SRD en Markdown
+# D&D 5.2.1 SRD in Markdown
 
-**186 archivos · 2 idiomas · Licencia CC-BY-4.0**
+**186 files · 2 languages · CC-BY-4.0 License**
 
-> **English:** [README_EN – English version](README_EN.md)
+The entire Dungeons & Dragons System Reference Document 5.2.1 converted to Markdown. All official free rules content from Wizards of the Coast, in a portable format readable by both humans and machines.
 
-El *System Reference Document 5.2.1* de Dungeons & Dragons convertido a Markdown. Todo el contenido oficial de reglas gratuitas de Wizards of the Coast, en un formato portátil, legible por humanos y máquinas.
+> **Español:** [README – Versión en español](README_ES.md)
 
 ---
 
-## Contenido
+## Contents
 
-| Capítulo | Archivo(s) | Descripción |
+| Chapter | File(s) | Description |
 |---|---|---|
-| 01 — Playing the Game | `01_PlayingTheGame.md` | Reglas base: d20 tests, combate, daño, curación, exploración |
-| 02 — Character Creation | `02_CharacterCreation.md` | Creación de personajes, multiclase, nivelación |
-| 03 — Classes | `03_Classes/` (13 archivos) | Las 12 clases con subclases completas |
-| 04 — Character Origins | `04_CharacterOrigins.md` | Trasfondos y especies de personaje |
-| 05 — Feats | `05_Feats.md` | Dotes de origen, generales, de estilo de combate y épicas |
-| 06 — Equipment | `06_Equipment.md` | Armas, armaduras, equipo, monturas, objetos mágicos |
-| 07 — Spells | `Spells/` (18 archivos) | Reglas de conjuros + todos los conjuros de la A a la Z |
-| 08 — Rules Glossary | `08_RulesGlossary.md` | Glosario completo de términos de reglas |
-| 09 — Gameplay Toolbox | `09_GameplayToolbox.md` | Herramientas para el DM: trampas, venenos, encuentros |
-| 10 — Magic Items | `MagicItems/` (16 archivos) | Reglas + todos los objetos mágicos de la A a la Z |
-| 11 — Monsters (Rules) | `11_Monsters.md` | Reglas de monstruos y anatomía de bloques de estadísticas |
-| 12 — Monsters (A–Z) | `Monsters/` (28 archivos) | Todos los monstruos de la A a la Z |
-| 13 — Animals | `13_Animals.md` | Bestias (también listadas en el índice de monstruos) |
+| 01 — Playing the Game | `01_PlayingTheGame.md` | Core rules: d20 tests, combat, damage, healing, exploration |
+| 02 — Character Creation | `02_CharacterCreation.md` | Character building, multiclassing, leveling |
+| 03 — Classes | `03_Classes/` (13 files) | All 12 classes with complete subclasses |
+| 04 — Character Origins | `04_CharacterOrigins.md` | Backgrounds and character species |
+| 05 — Feats | `05_Feats.md` | Origin, general, fighting style, and epic boon feats |
+| 06 — Equipment | `06_Equipment.md` | Weapons, armor, gear, mounts, magic items |
+| 07 — Spells | `Spells/` (18 files) | Spellcasting rules + all spells A–Z |
+| 08 — Rules Glossary | `08_RulesGlossary.md` | Comprehensive glossary of rules terms |
+| 09 — Gameplay Toolbox | `09_GameplayToolbox.md` | DM tools: traps, poisons, encounters |
+| 10 — Magic Items | `MagicItems/` (16 files) | Rules + all magic items A–Z |
+| 11 — Monsters (Rules) | `11_Monsters.md` | Monster rules and stat block anatomy |
+| 12 — Monsters (A–Z) | `Monsters/` (28 files) | All monsters A–Z |
+| 13 — Animals | `13_Animals.md` | Beast stat blocks (also listed in monster index) |
 
-## Navegación
+## Navigation
 
-Cada sección tiene un **índice maestro** que facilita encontrar lo que buscas:
+Each section has a **master index** to quickly find what you need:
 
-- **General:** `src/00_INDEX.md` — mapa completo del proyecto
-- **Conjuros:** `src/Spells/_spell_index.md` — búsqueda por nombre, nivel, escuela y clase
-- **Monstruos:** `src/Monsters/_monster_index.md` — búsqueda por nombre, CR, tipo y tamaño
-- **Objetos mágicos:** `src/MagicItems/_item_index.md` — búsqueda por nombre, rareza y categoría
-- **Clases:** `src/03_Classes/00_Classes.md` — tabla con todas las clases y sus subclases
+- **General:** `src/00_INDEX.md` — complete project map
+- **Spells:** `src/Spells/_spell_index.md` — search by name, level, school, and class
+- **Monsters:** `src/Monsters/_monster_index.md` — search by name, CR, type, and size
+- **Magic Items:** `src/MagicItems/_item_index.md` — search by name, rarity, and category
+- **Classes:** `src/03_Classes/00_Classes.md` — table with all classes and their subclasses
 
-## Español
+## Spanish
 
-El proyecto incluye una traducción completa al español en `src_es/`, con la misma estructura:
+This project includes a full Spanish translation in `src_es/`, with the same structure:
 
-| src/ (English) | src_es/ (Español) |
+| src/ (English) | src_es/ (Spanish) |
 |---|---|
 | `Spells/` | `Conjuros/` |
 | `Monsters/` | `Monstruos/` |
 | `MagicItems/` | `ObjetosMagicos/` |
-| `03_Classes/` | `03_Clases/` (archivos con nombres traducidos) |
+| `03_Classes/` | `03_Clases/` (with translated file names) |
 
-El índice maestro en español está en `src_es/00_INDEX.md`.
+The master index in Spanish is at `src_es/00_INDEX.md`.
 
-## Uso
+## Usage
 
-Este repositorio es útil para:
+This repository is useful for:
 
-- **DM y jugadores** que quieran consultar reglas sin conexión
-- **Herramientas y aplicaciones** que necesiten datos de D&D 5.2.1
-- **Procesamiento con LLM** y otras herramientas de IA, gracias al formato Markdown limpio
-- **Fork y personalización** del SRD para campañas o reglas de la casa
+- **DMs and players** who want offline rules access
+- **Tools and applications** needing D&D 5.2.1 data
+- **LLM processing** and other AI tools, thanks to clean Markdown formatting
+- **Forking and customizing** the SRD for homebrew campaigns or house rules
 
-## Créditos
+## Credits
 
-Este trabajo incluye material del *System Reference Document 5.2.1* ("SRD 5.2.1") de Wizards of the Coast LLC, disponible en [dndbeyond.com/srd](https://www.dndbeyond.com/srd).
+This work includes material from the *System Reference Document 5.2.1* ("SRD 5.2.1") by Wizards of the Coast LLC, available at [dndbeyond.com/srd](https://www.dndbeyond.com/srd).
 
-La conversión inicial se realizó con [marker](https://github.com/VikParuchuri/marker) y se refinó manualmente. Los bloques de monstruos se tomaron del repositorio [Lazy GM Tools](https://github.com/mshea/lazy_gm_tools) de Mike Shea ([slyflourish.com](https://slyflourish.com/)).
+The initial conversion was done with [marker](https://github.com/VikParuchuri/marker) and manually refined. Monster stat blocks were sourced from Mike Shea's [Lazy GM Tools](https://github.com/mshea/lazy_gm_tools) repository ([slyflourish.com](https://slyflourish.com/)).
 
-## Licencia
+## License
 
-SRD 5.2 © 2024 Wizards of the Coast LLC — licenciado bajo **CC-BY-4.0**.
+SRD 5.2 © 2024 Wizards of the Coast LLC — licensed under **CC-BY-4.0**.
 
-Este repositorio se distribuye bajo los mismos términos. Consulta [License.md](License.md) para el texto completo de la licencia.
+This repository is distributed under the same terms. See [License.md](License.md) for the full license text.

@@ -4,7 +4,7 @@
 
 The entire Dungeons & Dragons System Reference Document 5.2.1 converted to Markdown. All official free rules content from Wizards of the Coast, in a portable format readable by both humans and machines.
 
-> **Español:** [README – Versión en español](README.md)
+> **Español:** [README – Versión en español](README_ES.md)
 
 ---
 
